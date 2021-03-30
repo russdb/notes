@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "a0b9e36e0e21f943",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2d26f600f332feb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "code/git/git init.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9391da2dd7cf099e",
+    "type": "split",
+    "children": [
+      {
+        "id": "71afddd0d535a5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2234aadecbfc6895",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "596e16edd801819a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Enums",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "ca23ee4c9adfc541",
+    "type": "split",
+    "children": [
+      {
+        "id": "1095e9924c1b0ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5637b126eb331717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "code/git/git init.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "code/git/git init.md",
+    "history/Visigoths/All Notes Unorganized.md",
+    "git/git cheatsheet.md",
+    "git/git branch.md",
+    "git/git add.md",
+    "git/git - in a nutshell.md",
+    "Untitled.md",
+    "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
+    "Generics in Method Definitions.md",
+    "code/rust/rustbook notes/rustbook-toc.md"
+  ]
+}
