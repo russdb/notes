@@ -20,7 +20,7 @@
 [[git branch]] <new-branch> v1.2         // create a new branch from a tag
 [[git branch]] --track <new-branch> origin/<base-branch> // create a new branch from remote branch
 [[git branch]] -d <branch-name    // delete a branch
-[[git switch]] <branch-name>  // switch to specified branch
+[[git switch]] <branch-name>  // switch to specifi`ed branch
 [[git checkout]]                     // updates the working directory with the files in the index.
 [[git checkout]] master              // alternate way to switch between branches
 [[git log]]      // shows all the commits you made along with author name and time of commit
