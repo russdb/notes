@@ -6,12 +6,11 @@
       {
         "id": "a2d26f600f332feb",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
-            "mode": "source"
+            "file": "games/fm20/Staff.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
+                "file": "games/fm20/Staff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,7 +86,10 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "games/fm20/Staff.md",
+    "Untitled.md",
     "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
     "code/git/git cheatsheet.md",
     "code/rust/rustbook notes/generics of types traits and lifetimes/generics in Enums.md",
@@ -93,8 +97,6 @@
     "code/rust/rustbook notes/generics of types traits and lifetimes/Generic data types.md",
     "code/git/git init.md",
     "history/Visigoths/All Notes Unorganized.md",
-    "git/git cheatsheet.md",
-    "git/git branch.md",
-    "git/git add.md"
+    "git/git cheatsheet.md"
   ]
 }
