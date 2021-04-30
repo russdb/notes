@@ -20,7 +20,7 @@ match these key attributes along with high **Motivating, Level of Discipline and
 
 **coaches** just like **players** **develop**
 
-
+the game tells us that the most important 3 attributes for a good **Director of Footbal**l are Judging Player Ability, Judging Player Potential and Negotiating.
 
 ### **#Goalkeeping #Handling**
 
