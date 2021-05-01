@@ -1,12 +1,17 @@
 ### Staff  
 #staff #hiring #coaches #coach 
 
-[How to build a 5-star coaching team on Football Manager](https://footballwhispers.com/blog/how-to-build-a-5-star-coaching-team-on-football-manager/)
+[How to build a 5-star coaching team on Football Manager](https://footballwhispers.com/blog/how-to-build-a-5-star-coaching-team-on-football-manager/)  
+
+staff in fm20: https://www.youtube.com/watch?v=HXmXvg5vt_s
+
 **criteria** for any potential 5-star coach are their **attributes**, **coaching badges** and **personality**
 
 having the best staff won't significantly aid your players' development if you don't possess s**tate of the art training facilities**
 
-must first look at their **Determination, Level of Discipline and Motivating** attributes
+must first look at their **Determination, Level of Discipline and Motivating** attributes  
+
+out of the three, **determination** is most important
 
 Once you have found a coach with high numbers in these three key areas you can assess his attacking, defending or goalkeeping attributes
 
@@ -22,7 +27,19 @@ match these key attributes along with high **Motivating, Level of Discipline and
 
 dont be afraid to offer clauses you will never have to pay
 
-the game tells us that the most important 3 attributes for a good **Director of Footbal**l are Judging Player Ability, Judging Player Potential and Negotiating.
+the game tells us that the most important 3 attributes for a good **Director of Footbal**l are Judging Player Ability, Judging Player Potential and Negotiating.  
+
+when searching, look in edit search for the pick button and filter by staff type, it will highlight the most relevant attributes! 
+
+assistant coach - technical knowledge and advice and judging player ability/potential  
+
+for head of youth development, look for good personality and reputation!  
+
+for scouts
+
+![[Pasted image 20210430235938.png]]  
+
+![[Pasted image 20210501000001.png]]
 
 ### **#Goalkeeping #Handling**
 
