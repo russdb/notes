@@ -18,7 +18,9 @@ offer **5-star coaching** in each individual area of training you can only affor
 
 match these key attributes along with high **Motivating, Level of Discipline and Determination** stats to discover the best coaches in each area
 
-**coaches** just like **players** **develop**
+**coaches** just like **players** **develop**  
+
+dont be afraid to offer clauses you will never have to pay
 
 the game tells us that the most important 3 attributes for a good **Director of Footbal**l are Judging Player Ability, Judging Player Potential and Negotiating.
 

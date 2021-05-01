@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "games/fm20/Staff.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca23ee4c9adfc541",
