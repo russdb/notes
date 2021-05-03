@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games/fm20/scouting.md",
-            "mode": "preview"
+            "file": "games/fm20/Staff.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/fm20/scouting.md",
+                "file": "games/fm20/Staff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
-    "games/fm20/scouting.md",
     "games/fm20/Staff.md",
+    "games/fm20/scouting.md",
     "games/fm20/fm20 good staff at beginning.md",
     "Untitled.md",
     "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",

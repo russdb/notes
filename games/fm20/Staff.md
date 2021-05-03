@@ -3,7 +3,9 @@
 
 [How to build a 5-star coaching team on Football Manager](https://footballwhispers.com/blog/how-to-build-a-5-star-coaching-team-on-football-manager/)  
 
-staff in fm20: https://www.youtube.com/watch?v=HXmXvg5vt_s
+staff in fm20: https://www.youtube.com/watch?v=HXmXvg5vt_s  
+
+staff responsibilities: https://www.passion4fm.com/football-manager-staff-responsibilities-backroom-advices-explained/ 
 
 **criteria** for any potential 5-star coach are their **attributes**, **coaching badges** and **personality**
 
