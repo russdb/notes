@@ -1,9 +1,15 @@
 ## Scouting
+
+tags: #scouting #fm20 #footballmanager
+
 -----
 links
 
 https://www.passion4fm.com/football-manager-2020-wonderkids/
+https://www.passion4fm.com/fm20-hidden-wonderkids/
 https://www.passion4fm.com/football-manager-best-free-agents/
+
+-----
 
 have one scout with technical knowledge and player ability to scout opposing teams!  
 

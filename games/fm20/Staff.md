@@ -1,7 +1,10 @@
 ### Staff  
-#staff #hiring #coaches #coach 
+#fm20 #staff #hiring #coaches #coach 
 
+---
+links
 [How to build a 5-star coaching team on Football Manager](https://footballwhispers.com/blog/how-to-build-a-5-star-coaching-team-on-football-manager/)  
+<hr>
 
 staff in fm20: https://www.youtube.com/watch?v=HXmXvg5vt_s  
 
