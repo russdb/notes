@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games/fm20/Staff.md",
+            "file": "games/fm20/negotiating players.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/fm20/Staff.md",
+                "file": "games/fm20/negotiating players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
-    "games/fm20/Staff.md",
     "games/fm20/negotiating players.md",
+    "games/fm20/Staff.md",
     "README.md",
     "Untitled.md",
     "games/fm20/scouting.md",
