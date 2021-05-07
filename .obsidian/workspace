@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games/fm20/negotiating players.md",
+            "file": "games/fm20/strikers.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/fm20/negotiating players.md",
+                "file": "games/fm20/strikers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "games/fm20/Untitled.md",
+    "games/fm20/scouting.md",
+    "Untitled.md",
     "games/fm20/negotiating players.md",
     "games/fm20/Staff.md",
     "README.md",
-    "Untitled.md",
-    "games/fm20/scouting.md",
     "games/fm20/fm20 good staff at beginning.md",
     "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
     "code/git/git cheatsheet.md",
-    "code/rust/rustbook notes/generics of types traits and lifetimes/generics in Enums.md",
-    "code/rust/rustbook notes/generics of types traits and lifetimes/generic types in structs.md"
+    "code/rust/rustbook notes/generics of types traits and lifetimes/generics in Enums.md"
   ]
 }
