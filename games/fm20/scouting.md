@@ -8,6 +8,7 @@ links
 https://www.passion4fm.com/football-manager-2020-wonderkids/
 https://www.passion4fm.com/fm20-hidden-wonderkids/
 https://www.passion4fm.com/football-manager-best-free-agents/
+getting free players https://www.youtube.com/watch?v=7ALJQKsPlN0
 
 -----
 
