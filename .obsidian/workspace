@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games/fm20/training.md",
-            "mode": "preview"
+            "file": "code/tensorflow/tensorflow-gpu.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/fm20/training.md",
+                "file": "code/tensorflow/tensorflow-gpu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "code/tensorflow/tensorflow-gpu.md",
+    "code/rust/rustbook notes/generics of types traits and lifetimes/Generic data types.md",
+    "code/tensorflow/coursera/Images Processing and Display.md",
     "Untitled.md",
+    "games/fm20/training.md",
     "games/fm20/scouting.md",
     "games/fm20/negotiating players.md",
     "games/fm20/strikers.md",
     "games/fm20/Staff.md",
-    "games/fm20/Untitled.md",
-    "README.md",
-    "games/fm20/fm20 good staff at beginning.md",
-    "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
-    "code/git/git cheatsheet.md"
+    "games/fm20/Untitled.md"
   ]
 }
