@@ -1,4 +1,4 @@
-### [[tensorflow-gpu]]  
+### tensorflow-gpu  
 #tensorflow #tensorflowtutorials #tutorials #tf-gpu #nst #neuralstyletransfer #conda
 
 url:  
@@ -8,6 +8,8 @@ url:
 [How-to setup GPU Accelerated TensorFlow & Keras on Windows 10 with Anaconda 3 | by Dr. Martin Berger | Medium](https://medium.com/@martin.berger/how-to-setup-gpu-accelerated-tensorflow-keras-on-windows-10-with-anaconda-3-bf844a720aa3)
 [Build from source on Windows  |  TensorFlow](https://www.tensorflow.org/install/source_windows)
 [python 3.x - How to check if cuda is installed correctly on Anaconda - Stack Overflow](https://stackoverflow.com/questions/52027384/how-to-check-if-cuda-is-installed-correctly-on-anaconda) 
+[antoniosehk/keras-tensorflow-windows-installation: 10 easy steps to install Tensorflow-GPU and Keras in Windows 2019 Update](https://github.com/antoniosehk/keras-tensorflow-windows-installation)
+
 
 1. Install #[[Miniconda]] python 
 1.2: Update #[[conda]]
@@ -25,3 +27,22 @@ Add the following path in your Environment. Subjected to changes in your install
 
 `C:\\cudnn-9.0-windows10-x64-v7\\cuda\\bin`
 
+3. Install TensorFlow
+3.1: Create an Anaconda environment with Python=3.6
+Open Anaconda prompt (**as an administrator**) and type the following command
+`conda create -n tensorflow python=3.6`
+3.2: Activate TensorFlow environment
+In the command prompt type the following command
+activate tensorflow
+3.3: Install TensorFlow package
+If you have a GPU, install GPU version of TensorFlow by running the following command
+pip install --ignore-installed --upgrade tensorflow-gpu
+4. Install Keras
+In the command prompt type the following command
+pip install keras
+
+can install specific cuda version with:
+`conda install python=3.8`
+
+#### final checks:
+to check installs are correct, go here: [[Check installs of tf, keras, etc]] 
