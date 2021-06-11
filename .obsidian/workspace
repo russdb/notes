@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "code/tensorflow/Check installs of tf, keras, etc.md",
     "code/tensorflow/tensorflow-gpu.md",
+    "code/tensorflow/coursera/Importing Libraries and Helper Functions.md",
+    "code/tensorflow/coursera/Tensorflow-coursera.md",
+    "code/tensorflow/coursera/Images Processing and Display.md",
+    "code/tensorflow/coursera/Import model.md",
     "code/rust/rustbook notes/generics of types traits and lifetimes/Generic data types.md",
     "code/rust/rustbook notes/generics of types traits and lifetimes/generic types traits and lifetimes.md",
     "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
-    "code/rust/rustbook notes/generics of types traits and lifetimes/Remove Duplication.md",
-    "Untitled.md",
-    "code/tensorflow/coursera/Images Processing and Display.md",
-    "code/tensorflow/coursera/Import model.md",
-    "code/tensorflow/coursera/Importing Libraries and Helper Functions.md"
+    "code/rust/rustbook notes/generics of types traits and lifetimes/Remove Duplication.md"
   ]
 }
