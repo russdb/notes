@@ -6,11 +6,10 @@
       {
         "id": "a2d26f600f332feb",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code/git/git init.md",
+            "file": "code/git/git push.md",
             "mode": "source"
           }
         }
@@ -53,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -69,10 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/git init.md",
+                "file": "code/git/git push.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "code/git/git push.md",
+    "code/git/git clone.md",
+    "code/git/git commit.md",
     "code/git/git init.md",
     "history/Visigoths/All Notes Unorganized.md",
     "git/git cheatsheet.md",
     "git/git branch.md",
     "git/git add.md",
     "git/git - in a nutshell.md",
-    "Untitled.md",
-    "code/rust/rustbook notes/generics of types traits and lifetimes/Generics in Method Definitions.md",
-    "Generics in Method Definitions.md",
-    "code/rust/rustbook notes/rustbook-toc.md"
+    "Untitled.md"
   ]
 }
