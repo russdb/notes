@@ -27,3 +27,7 @@ fn main() {
 defined a method named `x` on `Point<T>` that returns a reference to the data in the field `x`.
 declare `T` just after `impl` so we can use it to specify that we’re implementing methods on the type `Point<T>`
 By declaring `T` as a generic type after `impl`, Rust can identify that the type in the angle brackets in `Point` is a generic type rather than a concrete type.
+
+
+
+
