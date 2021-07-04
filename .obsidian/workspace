@@ -6,32 +6,10 @@
       {
         "id": "a2d26f600f332feb",
         "type": "leaf",
-        "dimension": 33.33333333333333,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code/git/git push.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "86cedc7490b30b95",
-        "type": "leaf",
-        "dimension": 23.809523809523807,
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "c188ec07e07fa6bf",
-        "type": "leaf",
-        "dimension": 42.857142857142854,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "history/Visigoths/visigoth-toc.md",
             "mode": "source"
           }
         }
@@ -90,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "history/Visigoths/visigoth-toc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "86cedc7490b30b95",
+  "active": "a2d26f600f332feb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "history/Visigoths/visigoth-toc.md",
+    "history/Visigoths/All Notes Unorganized.md",
     "code/git/git push.md",
+    "conflict-files-obsidian-git.md",
     "code/git/git clone.md",
     "code/git/git commit.md",
     "code/git/git init.md",
-    "history/Visigoths/All Notes Unorganized.md",
     "git/git cheatsheet.md",
     "git/git branch.md",
-    "git/git add.md",
-    "git/git - in a nutshell.md"
+    "git/git add.md"
   ]
 }
