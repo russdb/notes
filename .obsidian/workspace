@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "book-resources.md",
+            "file": "history/Visigoths/All Notes Unorganized.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book-resources.md",
+                "file": "history/Visigoths/All Notes Unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "history/Visigoths/All Notes Unorganized.md",
+    "book-resources.md",
     "Untitled.md",
     "history/Visigoths/visigoth-toc.md",
-    "history/Visigoths/All Notes Unorganized.md",
     "code/git/git push.md",
     "conflict-files-obsidian-git.md",
     "code/git/git clone.md",
     "code/git/git commit.md",
     "code/git/git init.md",
-    "git/git cheatsheet.md",
-    "git/git branch.md"
+    "git/git cheatsheet.md"
   ]
 }
