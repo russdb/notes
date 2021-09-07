@@ -1,0 +1,90 @@
+{
+  "obsidianCss": false,
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "46ce7073c470523a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe655ba2a6cfc6c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "sideDockWidth": {
+    "left": 252,
+    "right": 300
+  },
+  "lastOpenFiles": [
+    "git/git cheatsheet.md",
+    "git/git branch.md",
+    "git/git add.md",
+    "git/git - in a nutshell.md",
+    "vue v-bind simple.png"
+  ],
+  "alwaysUpdateLinks": true,
+  "lastOpenRightSidedockTab": "Backlinks",
+  "promptDelete": false,
+  "leftSidedock": {
+    "id": "9e50f0208550ecd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "67fa572a3ac7cad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16d226b4d10a35c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3696eb7ee4965018",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "3af2aeddf1d53396",
+    "type": "split",
+    "children": [
+      {
+        "id": "86db058bf5cff839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ba491f5b7c6d724",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "showLineNumber": true
+}
