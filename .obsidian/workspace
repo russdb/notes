@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "code-toc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "code-toc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "71c673abd9589fb1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "code-toc.md",
+    "README.md",
     "book-resources.md",
+    "conflict-files-obsidian-git.md",
     "code/tensorflow/Check installs of tf, keras, etc.md",
     "code/tensorflow/tensorflow-gpu.md",
     "code/tensorflow/coursera/Importing Libraries and Helper Functions.md",
     "code/tensorflow/coursera/Tensorflow-coursera.md",
     "code/tensorflow/coursera/Images Processing and Display.md",
-    "code/tensorflow/coursera/Import model.md",
-    "code/rust/rustbook notes/generics of types traits and lifetimes/Generic data types.md",
-    "code/rust/rustbook notes/generics of types traits and lifetimes/generic types traits and lifetimes.md"
+    "code/tensorflow/coursera/Import model.md"
   ]
 }
