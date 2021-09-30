@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71c673abd9589fb1",
+        "id": "a2d26f600f332feb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "code-toc.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 258.5
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code-toc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71c673abd9589fb1",
+  "active": "a2d26f600f332feb",
   "lastOpenFiles": [
-    "code-toc.md",
-    "README.md",
-    "book-resources.md",
     "conflict-files-obsidian-git.md",
-    "code/tensorflow/Check installs of tf, keras, etc.md",
-    "code/tensorflow/tensorflow-gpu.md",
-    "code/tensorflow/coursera/Importing Libraries and Helper Functions.md",
-    "code/tensorflow/coursera/Tensorflow-coursera.md",
-    "code/tensorflow/coursera/Images Processing and Display.md",
-    "code/tensorflow/coursera/Import model.md"
+    "book-resources.md",
+    "history/Visigoths/All Notes Unorganized.md",
+    "Untitled.md",
+    "history/Visigoths/visigoth-toc.md",
+    "code/git/git push.md",
+    "code/git/git clone.md",
+    "code/git/git commit.md",
+    "code/git/git init.md",
+    "git/git cheatsheet.md"
   ]
 }
