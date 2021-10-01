@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook
 ### [Making #Structs and #Enums Public](https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html#making-structs-and-enums-public)
 use `pub` to designate structs and enums as public

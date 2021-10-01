@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook #ownership
 ### [#Memory and #Allocation](https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#memory-and-allocation)
 in order to support a mutable, growable piece of text, we need to allocate an amount of memory on the heap, unknown at compile time, to hold the contents.

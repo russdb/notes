@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook #structs #tuplestructs
 
 ### [Using #Tuple #Structs without Named Fields to Create Different #Types](https://doc.rust-lang.org/book/ch05-01-defining-structs.html#using-tuple-structs-without-named-fields-to-create-different-types)

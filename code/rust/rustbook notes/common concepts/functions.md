@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 
 #lowlevel #rust #rustbook #basics #commonconceptsofrust #functions 
 #### [#Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#functions)

@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook #example #derivedtraits 
 
 [C - Derivable Traits - The Rust Programming Language](https://doc.rust-lang.org/book/appendix-03-derivable-traits.html)

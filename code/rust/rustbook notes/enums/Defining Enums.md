@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook  
 ### [Defining #Enums](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html#defining-an-enum)
 Currently, two major standards are used for IP addresses: version four and version six. These are the only possibilities for an IP address that our program will come across: we can _enumerate_ all possible variants, which is where enumeration gets its name.

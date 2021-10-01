@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook 
 ### [#Enums and Values](https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html#enum-values)
 create instances of each of the two variants of `IpAddrKind` like this:

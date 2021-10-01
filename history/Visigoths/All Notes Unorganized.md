@@ -6,12 +6,12 @@
 *The Twilight of the Goths, The Rise and Fall of the Kingdom of Toledo c. 565–711*; Harold Livermore; 2006
 
 #### articles
-Borders, Centres and Peripheries in late Roman and Visigothic Iberia; Wood, Jamie; 2015
-Statehood , Taxation , and State Infrastructural Power in Visigothic Iberia; Fernandez, Damian;  
-Property, Social Status, and Church Building in Visigothic Iberia; Fernandez, Damian; 2016  
-Curials and local government in visigothic hispania; Curchin, Leonard A.
-The Visigothic Settlement in Aquitania: Imperial Motives; Burns, Vincent; 2012
-New Directions in the Study of Visigothic Spain; Jamie Wood and Javier Martínez; Jiménez University  
+*Borders, Centres and Peripheries in late Roman and Visigothic Iberia*; Wood, Jamie; 2015
+*Statehood , Taxation , and State Infrastructural Power in Visigothic Iberia*; Fernandez, Damian;  
+*Property, Social Status, and Church Building in Visigothic Iberia*; Fernandez, Damian; 2016  
+*Curials and local government in visigothic hispania;* Curchin, Leonard A.
+*The Visigothic Settlement in Aquitania: Imperial Motives;* Burns, Vincent; 2012
+*New Directions in the Study of Visigothic Spain;* Jamie Wood and Javier Martínez; Jiménez University  
 
 <hr> 
 
@@ -60,3 +60,5 @@ Theoderic gothic emporer late 5th century.
 Muslims maintained visigoth history.  
   
 Gothic was known for anything different. Alaric was given bad treatment, but a lot of history is owed to him.
+
+

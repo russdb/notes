@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook #associatedfunctions
 
 ### [#Methods Syntax](https://doc.rust-lang.org/book/ch05-03-method-syntax.html#method-syntax) 

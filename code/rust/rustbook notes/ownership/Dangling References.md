@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook #ownership #danglingreferences
 
 ### [#Dangling #References](https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html#dangling-references)

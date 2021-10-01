@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook
 ### [The `_` #Placeholder](https://doc.rust-lang.org/book/ch06-02-match.html#the-_-placeholder)
 a pattern we can use when we don’t want to list all possible values.

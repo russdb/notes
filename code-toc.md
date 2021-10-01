@@ -1,3 +1,3 @@
 [[solidity]]  
 [[tensorflow|tensorflow coursera]]  
-[[rustbook-toc|rustbook]]
+[[code/rust/rustbook notes/rust-toc|rustbook]]

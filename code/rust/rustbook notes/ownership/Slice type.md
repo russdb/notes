@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook #ownership
 
 ### [The #Slice Type](https://doc.rust-lang.org/book/ch04-03-slices.html#the-slice-type)

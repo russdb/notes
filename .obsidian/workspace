@@ -7,8 +7,11 @@
         "id": "a2d26f600f332feb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "history/Visigoths/visigoth-toc.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "history/Visigoths/visigoth-toc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "book-resources.md",
-    "history/Visigoths/All Notes Unorganized.md",
-    "Untitled.md",
     "history/Visigoths/visigoth-toc.md",
-    "code/git/git push.md",
-    "code/git/git clone.md",
-    "code/git/git commit.md",
-    "code/git/git init.md",
-    "git/git cheatsheet.md"
+    "history/Visigoths/Untitled.md",
+    "toc links.md",
+    "rust-toc.md",
+    "code/rust/rustbook notes/rust-toc.md",
+    "code/rust/rustbook notes/common concepts/Keywords.md",
+    "code/rust/rustbook notes/basics/Rust Setup.md",
+    "code/rust/rustbook notes/Collections/Access values in hash maps.md",
+    "code/rust/rustbook notes/rustbook-toc.md",
+    "code/rust/rustbook notes/Collections/indexing into strings.md"
   ]
 }

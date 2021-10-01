@@ -1,4 +1,4 @@
-[[rustbook-toc]]
+[[code/rust/rustbook notes/rust-toc]]
 #lowlevel #rust #rustbook #enums
 ### [The #match Control Flow #Operator](https://doc.rust-lang.org/book/ch06-02-match.html#the-match-control-flow-operator)
 extremely powerful control flow operator called `match`
