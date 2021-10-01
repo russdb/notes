@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "history/Visigoths/visigoth-toc.md",
-            "mode": "preview"
+            "file": "Conquest of Iberia.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 196
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Visigoths/visigoth-toc.md",
+                "file": "Conquest of Iberia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Two Hispanias.md",
+    "Background Provinces and Regions of Roman Hispania.md",
+    "Hispania Ulterior 1.md",
+    "Hispania Ulterior.md",
+    "template.md",
+    "history/Visigoths/hispania.md",
+    "README.md",
     "history/Visigoths/visigoth-toc.md",
-    "history/Visigoths/Untitled.md",
-    "toc links.md",
-    "rust-toc.md",
-    "code/rust/rustbook notes/rust-toc.md",
-    "code/rust/rustbook notes/common concepts/Keywords.md",
-    "code/rust/rustbook notes/basics/Rust Setup.md",
-    "code/rust/rustbook notes/Collections/Access values in hash maps.md",
-    "code/rust/rustbook notes/rustbook-toc.md",
-    "code/rust/rustbook notes/Collections/indexing into strings.md"
+    "history/Visigoths/Borders, Centres, Peripheries and Visigothic Iberia.md"
   ]
 }
