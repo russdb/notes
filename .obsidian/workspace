@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Conquest of Iberia.md",
-            "mode": "source"
+            "file": "Keep Cola.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conquest of Iberia.md",
+                "file": "Keep Cola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,13 +90,13 @@
   "lastOpenFiles": [
     "Untitled.md",
     "Two Hispanias.md",
+    "code-toc.md",
+    "202110122154.md",
     "Background Provinces and Regions of Roman Hispania.md",
     "Hispania Ulterior 1.md",
     "Hispania Ulterior.md",
     "template.md",
     "history/Visigoths/hispania.md",
-    "README.md",
-    "history/Visigoths/visigoth-toc.md",
-    "history/Visigoths/Borders, Centres, Peripheries and Visigothic Iberia.md"
+    "README.md"
   ]
 }
