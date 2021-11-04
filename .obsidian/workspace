@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Keep Cola.md",
-            "mode": "preview"
+            "file": "Genuis of Michaelangelo quick notes.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 196
+    "width": 294
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keep Cola.md",
+                "file": "Genuis of Michaelangelo quick notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
-    "Keep Cola.md",
     "Untitled.md",
-    "Two Hispanias.md",
-    "code-toc.md",
-    "202110122154.md",
     "Background Provinces and Regions of Roman Hispania.md",
-    "Hispania Ulterior 1.md",
-    "Hispania Ulterior.md",
     "template.md",
-    "history/Visigoths/hispania.md"
+    "code-toc.md",
+    "Conquest of Iberia.md",
+    "Hispania Citerior.md",
+    "Hispania Ulterior.md",
+    "Keep Cola.md",
+    "Two Hispanias.md",
+    "202110122154.md"
   ]
 }
