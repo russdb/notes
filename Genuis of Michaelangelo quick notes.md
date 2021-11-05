@@ -180,7 +180,7 @@ delphic sibyl
 naval of the earth, delphi greece. considered to be the center of the world in ani
 most comely, preistess and greek maiding. startled sideways g lance, like she can see the narrative unfold on her scroll. her sight in insight full of spiritual illumination. there are helpers in the back doing stuff. how can mich be accused insensitivity to the female form (gee i wonder why..)
 
-propher tdaniel. 
+prophet daniel. 
 works with a large book that is help up by a small genuis on his shoulders. 
 notice how many of the prohets reading and writing? Making people aware of the knowledge in books. yet we require no book the read the ceiling since everything is so visible and comprehensible. show dont tell, right? 
 
