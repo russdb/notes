@@ -6,11 +6,11 @@
       {
         "id": "a2d26f600f332feb",
         "type": "leaf",
-        "dimension": 60.031847133757964,
+        "dimension": 46.77290836653387,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SIstine Chapel Fresco Process.md",
+            "file": "Untitled 1.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "658cb8888fa6b89f",
         "type": "leaf",
-        "dimension": 39.96815286624204,
+        "dimension": 53.22709163346614,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SIstine Chapel Fresco Process.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
-    "SIstine Chapel Fresco Process.md",
-    "Genuis of Michaelangelo quick notes.md",
-    "Sistine Chapel Intro.md",
-    "Sistine Chapel Quote.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Sistine Chapel.md",
-    "Background Provinces and Regions of Roman Hispania.md",
     "template.md",
-    "code-toc.md"
+    "Sisinte Chapel Cartoons.md",
+    "Sistine Chapel Conservation Project.md",
+    "Genuis of Michaelangelo quick notes.md",
+    "Untitled.md",
+    "Sistine Chapel Intro.md",
+    "SIstine Chapel Fresco Process.md",
+    "Sistine Chapel Quote.md",
+    "Sistine Chapel.md"
   ]
 }

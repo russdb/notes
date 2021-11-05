@@ -38,6 +38,8 @@ even in michs day they had tried cleaning it. put some kind of wax on it to try 
 scaffold bridge is what mich built to get close
 holes in side of the ceiling to help hold and move the bridge down the chapel as he worked. previously thought scaffold came from floor, but this is wrong. restoration used the same technique and holes
 number of days it took were figured out during resotration. we can now see exactly where the itonaco met each other. 
+
+
 prophet zacharia is a good example.
 painted in pieces, with over 300 bodieso on the ceiling. 
 prophets and sibyl very large on a curved wall, some are 14 feet high
