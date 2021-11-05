@@ -6,6 +6,19 @@
       {
         "id": "a2d26f600f332feb",
         "type": "leaf",
+        "dimension": 60.031847133757964,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SIstine Chapel Fresco Process.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "658cb8888fa6b89f",
+        "type": "leaf",
+        "dimension": 39.96815286624204,
         "state": {
           "type": "markdown",
           "state": {
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 223
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genuis of Michaelangelo quick notes.md",
+                "file": "SIstine Chapel Fresco Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +101,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "SIstine Chapel Fresco Process.md",
+    "Genuis of Michaelangelo quick notes.md",
+    "Sistine Chapel Intro.md",
+    "Sistine Chapel Quote.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "Sistine Chapel.md",
     "Background Provinces and Regions of Roman Hispania.md",
     "template.md",
-    "code-toc.md",
-    "Conquest of Iberia.md",
-    "Hispania Citerior.md",
-    "Hispania Ulterior.md",
-    "Keep Cola.md",
-    "Two Hispanias.md",
-    "202110122154.md"
+    "code-toc.md"
   ]
 }

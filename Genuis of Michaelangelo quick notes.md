@@ -241,6 +241,6 @@ it was kind of a shock for people.
 so cool, right?  
 helps to assist in the meaning of chapel and things in the distance.
 
-the ceiling is a compendium of the renaissance and theology. greco roman is combined with the hebrew world, pagan and christian side by side. its a work of genuis that cannot be exhausted through talking and examining. besare called it the lamp of our art.
+compendium of the renaissance and theology. greco roman is combined with the hebrew world, pagan and christian side by side. its a work of genuis that cannot be exhausted through talking and examining. besare called it the lamp of our art.
 
 was unveiled all saints day nov 1 1512. mich was laconic when he wrot about. I have finished the chapel I have been painting, the pope is very well satisfied.
