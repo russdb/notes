@@ -10,8 +10,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistine Chapel Conservation Project.md",
-            "mode": "source"
+            "file": "Genuis of Michaelangelo quick notes.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -23,7 +24,8 @@
           "type": "markdown",
           "state": {
             "file": "Genuis of Michaelangelo quick notes.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223
+    "width": 356
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistine Chapel Conservation Project.md",
+                "file": "Genuis of Michaelangelo quick notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
   },
   "active": "a2d26f600f332feb",
   "lastOpenFiles": [
+    "Genuis of Michaelangelo quick notes.md",
+    "Conquest of Iberia.md",
+    "Hispania Citerior.md",
+    "SIstine Chapel Fresco Process.md",
+    "Sistine Chapel Intro.md",
+    "Sistine Chapel Quote.md",
     "Sistine Chapel Conservation Project.md",
     "Sisinte Chapel Cartoons.md",
     "Pasted image 20211104213632.png",
-    "Pasted image 20211104213005.png",
-    "Pasted image 20211104211807.png",
-    "Keep Colab Open.md",
-    "Untitled 1.md",
-    "Genuis of Michaelangelo quick notes.md",
-    "template.md",
-    "Untitled.md"
+    "Pasted image 20211104213005.png"
   ]
 }
