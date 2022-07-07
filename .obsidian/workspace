@@ -4,26 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a2d26f600f332feb",
+        "id": "71c673abd9589fb1",
         "type": "leaf",
-        "dimension": 46.77290836653387,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 1.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "658cb8888fa6b89f",
-        "type": "leaf",
-        "dimension": 53.22709163346614,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Genuis of Michaelangelo quick notes.md",
-            "mode": "source"
+            "file": "random/Fascism Quotes.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -65,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223
+    "width": 320
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "random/Fascism Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 166,
     "collapsed": true
   },
-  "active": "a2d26f600f332feb",
+  "active": "71c673abd9589fb1",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "template.md",
-    "Sisinte Chapel Cartoons.md",
-    "Sistine Chapel Conservation Project.md",
-    "Genuis of Michaelangelo quick notes.md",
-    "Untitled.md",
-    "Sistine Chapel Intro.md",
-    "SIstine Chapel Fresco Process.md",
-    "Sistine Chapel Quote.md",
-    "Sistine Chapel.md"
+    "random/Fascism Quotes.md",
+    "history/history-toc.md",
+    "history/Marx and Lincoln.md",
+    "toc links.md",
+    "history/Visigoths/All Notes Unorganized.md",
+    "history/Visigoths/visigoth-toc.md",
+    "history/Visigoths/Two Hispanias.md",
+    "history/Visigoths/Hispania Ulterior.md",
+    "history/Visigoths/Hispania Citerior.md",
+    "history/Visigoths/hispania.md"
   ]
 }
