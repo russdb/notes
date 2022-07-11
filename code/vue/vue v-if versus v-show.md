@@ -9,7 +9,7 @@ results in the following output:
 `<div>one</div>`
 Compare that to v-show, which uses CSS to show and hide the element.
 
-The following Vue [[template]]
+The following Vue [[a - template]]
 ```<div v-show="true">one</div> 
 <div v-show="false">two</div> 
 ```

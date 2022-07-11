@@ -6,7 +6,7 @@ https://medium.com/@shivamrawat_756/how-to-prevent-google-colab-from-disconnecti
 
 Javascript: In console, enter  
 
-```
+```js
 function ClickConnect(){  
 	console.log("Working");   
 	document.querySelector("colab-toolbar-button#connect").click()   
@@ -17,7 +17,7 @@ setInterval(ClickConnect,60000)
 
 Python version:
 
-```
+```python
 #@markdown #**Anti-Disconnect for Google Colab**
 #@markdown ## Run this to stop it from disconnecting automatically 
 #@markdown **disconnects anyhow after 6 - 12 hrs for using the free version of Colab.)**
