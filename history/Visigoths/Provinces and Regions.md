@@ -12,7 +12,12 @@ In the Laterculus Veronensis (Verona L ist)
 Baetica,
 Lusitania, Carthaginiensis, Gallaecia, Tarraconensis, and Mauretania Tingitana.  
 
-[[Tetrarchic reforms]] recognized the long-standing connections that existed between the country and the westernmost parts of northern Africa. Throughout antiquity there had been a large amount of economic, political, and military contact across the Straits of Gibraltar, which consistently performed a connective rather than a divisive function
+[[Tetrarchic reforms]] recognized the long-standing connections that existed between the country and the westernmost parts of northern Africa. Throughout antiquity there had been a large amount of economic, political, and military contact across the Straits of Gibraltar, which consistently performed a connective rather than a divisive function  
+
+Tetrachic reorganization of the administrative structures of Hispania thus recognized the economic and cultural realities of ongoing and substantial contacts between the Iberian Peninsula and northern Africa  
+
+<hr>
+
 
 organization of Spain remained largely as it had under Augustus until the late third century CE.   
 
@@ -22,3 +27,13 @@ Baetica and Lusitania were maintained, the massive province of Hispania Citerior
 
 new Spanish diocese was completed by the addition of Mauretania Tingitana, a stretch of land across the Straits of Gibraltar in modern-day Morocco  
 
+In the Laterculus Veronensis (Verona L ist) 
+“the Spains”) is comprised of the six provinces 
+Baetica,
+Lusitania, Carthaginiensis, Gallaecia, Tarraconensis, and Mauretania Tingitana.  
+
+[[Tetrarchic reforms]] recognized the long-standing connections that existed between the country and the westernmost parts of northern Africa. Throughout antiquity there had been a large amount of economic, political, and military contact across the Straits of Gibraltar, which consistently performed a connective rather than a divisive function  
+
+Tetrachic reorganization of the administrative structures of Hispania thus recognized the economic and cultural realities of ongoing and substantial contacts between the Iberian Peninsula and northern Africa  
+
+organization and boundaries of the Spanish provinces were often dependent on the decisions of the government. As we shall see in what follows, socio-economic linkages across the Straits of Gibraltar endured long after the Western Roman Empire had lost control of Hispania and the connective nature of the Straits pushed elites on both sides to try to extend their power to the other side

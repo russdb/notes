@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "history/Visigoths/Provinces and Regions.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f5763bbaf09b5ef0",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Visigoths/Provinces and Regions.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "73919f14f9957752",
   "lastOpenFiles": [
+    "Untitled.md",
     "history/Visigoths/Provinces and Regions.md",
     "history/Visigoths/Two Hispanias.md",
     "history/Visigoths/Hispania Ulterior.md",
