@@ -7,8 +7,12 @@
         "id": "73919f14f9957752",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "history/Visigoths/Provinces and Regions.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "history/Visigoths/Provinces and Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,15 @@
     "collapsed": true
   },
   "active": "73919f14f9957752",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "history/Visigoths/Provinces and Regions.md",
+    "history/Visigoths/Two Hispanias.md",
+    "history/Visigoths/Hispania Ulterior.md",
+    "history/Visigoths/visigoth-toc.md",
+    "history/Visigoths/Hispania Citerior.md",
+    "history/Visigoths/hispania.md",
+    "history/Visigoths/Borders, Centres, Peripheries and Visigothic Iberia.md",
+    "history/Visigoths/Background Provinces and Regions of Roman Hispania.md",
+    "history/Visigoths/All Notes Unorganized.md"
+  ]
 }
