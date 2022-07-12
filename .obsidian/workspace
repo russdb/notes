@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "a0b9e36e0e21f943",
+    "id": "278dd596c398bd77",
     "type": "split",
     "children": [
       {
-        "id": "71c673abd9589fb1",
+        "id": "73919f14f9957752",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "code/git/git add.md",
-            "mode": "source",
-            "source": false
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9391da2dd7cf099e",
+    "id": "40194f789800f7f1",
     "type": "split",
     "children": [
       {
-        "id": "71afddd0d535a5e1",
+        "id": "4f4b583f10c3df2c",
         "type": "tabs",
         "children": [
           {
-            "id": "2234aadecbfc6895",
+            "id": "3f2234ce464abc53",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,16 +31,16 @@
             }
           },
           {
-            "id": "596e16edd801819a",
+            "id": "b8b6214d56092804",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Enums",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -52,23 +49,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 300
   },
   "right": {
-    "id": "ca23ee4c9adfc541",
+    "id": "f5763bbaf09b5ef0",
     "type": "split",
     "children": [
       {
-        "id": "1095e9924c1b0ec9",
+        "id": "f0bd8d7674d96045",
         "type": "tabs",
         "children": [
           {
-            "id": "5637b126eb331717",
+            "id": "f6f7432e2fd74828",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/git add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +79,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166,
+    "width": 300,
     "collapsed": true
   },
-  "active": "71c673abd9589fb1",
-  "lastOpenFiles": [
-    "code/git/git add.md",
-    "code/git/git commit.md",
-    "code/git/git - in a nutshell.md",
-    "code/git/git cheatsheet.md",
-    "Curve Wars/Curve Wars.md",
-    "random/Fascism Quotes.md",
-    "history/history-toc.md",
-    "history/Marx and Lincoln.md",
-    "toc links.md",
-    "history/Visigoths/All Notes Unorganized.md"
-  ]
+  "active": "73919f14f9957752",
+  "lastOpenFiles": []
 }
