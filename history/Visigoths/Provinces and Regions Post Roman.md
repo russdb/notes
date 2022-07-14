@@ -32,4 +32,6 @@ illustrates that the continuing vitality of the late Roman provincial vocabulary
 
 the beginning of the fifth century suggests that the Roman provinces were still considered to be the basic building blocks of the Iberian Peninsula
 
+> When the provinces of Spain had been laid waste by the destructive progress of the disasters just described, the Lord in his compassion turned the barbarians to the establishment of peace. They then apportioned to themselves by lot areas of the provinces for settlement: the Vandals took possession of Gallaecia and the Sueves that part of the Gallaecia which is situated on the very western edge of the Ocean. The Alans were allotted the provinces of Lusitania and Carthaginiensis, and the Siling Vandal Baetica.  
 
+For all except the first decade of the fifth century it is very hard to speak of Hispania as a unified political or administrative entity
