@@ -23,5 +23,27 @@ Roman government to utilize another barbarian group, the Visigoths, as foederati
 
 In 418 the Visigoths were settled in the province of Aquitania Secunda
 
+gradual diminution of Roman power in Hispania over the remainder of the fifth century was accompanied by increasingly independent action by the Visigoths  
+
+
+impetus to expansion in Iberia came in 507 when Gallic holdings were seriously reduced by the [[Franks]] who, under King Clovis (d. 511), defeated the Visigoths and killed their king at the Battle of Vouille´. The Visigothic kingdom was saved from total destruction by the intervention of the [[Ostrogoths]] under [[Theoderic the Great]] (d. 526).  
+
+From the early sixth century, therefore, the remnants of Visigothic-controlled [[Gaul]] and Hispania became part of a greater Ostrogothic polity centred on Italy.  
+
+should not imagine that the Visigoths were in complete control of Hispania
+either before or after the disaster at Vouille.   
+
+Although there are reports of kings and their forces in cities across the peninsula during the first half of the sixth century, this does not constitute definitive proof of permanent Visigothic control. The conquest of Hispania was a drawn-out process and not completed until the final quarter of the century.4  
+
+economic, political, and military contact across the Straits of Gibraltar had been common throughout antiquity.48 These contacts continued as the Visigoths extended their control over Hispania in the course of the sixth century.  
+
+Eastern Roman Empire had not given up hope of regaining control of the
+western provinces and this was to lead to further interaction across the Straits  
+
+
+
+
+
+
 
 
