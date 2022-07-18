@@ -40,6 +40,28 @@ economic, political, and military contact across the Straits of Gibraltar had be
 Eastern Roman Empire had not given up hope of regaining control of the
 western provinces and this was to lead to further interaction across the Straits  
 
+between Cartagena and Ma´laga, although the province, known as Spania, was not taken by the Visigoths until the 620s.52 It is likely that Spania was under the jurisdiction of the African exarchate.53 The small distance that separated Hispania from Africa meant that any power wishing to secure their possessions on one side was almost inevitably drawn to intervene on the other   
+
+considerable debate in recent years over the nature of a frontier
+between Spania and the territory that was under Visigothic control  
+
+very difficult to identify which areas were under Visigothic and Eastern Roman control  
+
+regardless, material evidence suggests that there was considerable interaction across the “border  
+
+area of south-eastern Spain that was conquered by Eastern Roman forces was thus as integrated administratively and economically with Africa as it was with the rest of the Iberian Peninsula, acting as a conduit for the exchange of goods, people, and ideas into the Visigothic kingdom  
+
+kings seem to have recognized that it was in their strategic interests to cultivate their influence across the Straits into northern Africa. Their power in the Iberian Peninsula was by no means total. They had to compete with a range of local, regional, and international powers.   
+
+
+
+
+
+
+
+
+
+
 
 
 
