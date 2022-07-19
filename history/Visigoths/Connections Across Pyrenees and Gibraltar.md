@@ -53,6 +53,8 @@ area of south-eastern Spain that was conquered by Eastern Roman forces was thus 
 
 kings seem to have recognized that it was in their strategic interests to cultivate their influence across the Straits into northern Africa. Their power in the Iberian Peninsula was by no means total. They had to compete with a range of local, regional, and international powers.   
 
+There were continuing contacts across the Straits of Gibraltar, culminating in the Arab-Muslim invasion of 711, which led quickly to the downfall of the Visigothic kingdom.  
+
 
 
 
