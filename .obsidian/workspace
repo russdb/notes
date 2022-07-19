@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "history/Visigoths/Connections Across Pyrenees and Gibraltar.md",
+            "file": "history/Visigoths/Ecclesiastical Organization of Visigothic Spain.md",
             "mode": "source",
             "source": false
           }
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f5763bbaf09b5ef0",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Visigoths/Connections Across Pyrenees and Gibraltar.md",
+                "file": "history/Visigoths/Ecclesiastical Organization of Visigothic Spain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +91,11 @@
   },
   "active": "205d717ddc11e28a",
   "lastOpenFiles": [
+    "history/Visigoths/Connections Across Pyrenees and Gibraltar.md",
     "history/Visigoths/Two Hispanias.md",
     "history/Visigoths/Roman Conquest of Iberia.md",
     "history/Visigoths/Regionalization of Visigothic Spain.md",
     "King Leovigild.md",
-    "history/Visigoths/Connections Across Pyrenees and Gibraltar.md",
     "history/Visigoths/Late 4th Century Spaniards 1.md",
     "history/Visigoths/Provinces and Regions Post Roman.md",
     "history/Visigoths/visigoth-toc.md",
