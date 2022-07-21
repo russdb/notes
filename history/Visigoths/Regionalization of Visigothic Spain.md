@@ -3,7 +3,8 @@
 #history #late-antiquity #visigoths #roman-empire #iberian-peninsula #hispania #medieval #provincial-organization   
 
 *Borders, Centres and Peripheries in late Roman and Visigothic Iberia*
-Jamie Wood University of Lincoln, UK  
+Jamie Wood University of Lincoln, UK   
+*Visigothic Spain 409–711, Roger Collins*
 
 ### Regionalization of Visigothic Spain
 

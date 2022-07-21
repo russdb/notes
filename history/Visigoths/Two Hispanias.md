@@ -18,8 +18,8 @@ division of the parts of the Iberian Peninsula that were controlled by Rome into
 
 Named for their disance from Rome. established early 2nd century bce
 
-**Hispania Criterior**  - Terraconensis capital of Tarragona - "Nearer" - controlled eastern spain 
-**Hispania Ulterior**  - Two capitals Cordoba (of Baetica) & Merida (of Lusitania) - "Further"  - controlled southern spain  
+**[[Hispania Criterior]]**  - Terraconensis capital of Tarragona - "Nearer" - controlled eastern spain 
+**[[Hispania Ulterior]]**  - Two capitals Cordoba (of Baetica) & Merida (of Lusitania) - "Further"  - controlled southern spain  
 
 #roman influence did not extend to western or northern spain until 1st century
 
