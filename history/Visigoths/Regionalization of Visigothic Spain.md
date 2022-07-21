@@ -7,7 +7,7 @@ Jamie Wood University of Lincoln, UK
 
 ### Regionalization of Visigothic Spain
 
-
+![[Pasted image 20220721010228.png]]
 
 
 gradual evolution best characterizes the transition from the Roman to the Visigothic period
