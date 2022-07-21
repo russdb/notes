@@ -8,11 +8,11 @@
 
 From Empire to Kingdom, 409–507  
 
-If a date had to be set for the ending of Roman imperial rule in the Iberian peninsula, the autumn of 409 would be as good a one as any. On either September 28 or October 12 of that year – an all too typical contradiction between two contemporary sources makes it impos- sible to choose between them –  
+the ending of Roman imperial rule in the Iberian peninsula, the autumn of 409 would be as good a one as any. On either September 28 or October 12 of that year 
 
 loose and recently formed alliance of “barbarians,” ([[Alans]], the [[Sueves]], and the [[Vandals]].) came through the passes over the the Pyrenees into Spain.  
 
-Whether the Spanish priest Orosius, writing his Seven Books of Histories Against the Pagans in 417, was right in suggesting that Constantine’s soldiers deliberately allowed the Vandals and the others across the Pyrenees in order to conceal the looting of the civilian population they themselves had been carrying out is impossible to tell. But the Roman government of the legitimate western emperor Honorius (395–423) was never able thereafter to reimpose its authority on all of the Spanish provinces.  
+the Roman government of the legitimate western emperor Honorius (395–423) was never able thereafter to reimpose its authority on all of the Spanish provinces.  
 
 probably seeking to reach some form of accommodation with the Roman government, by offering to provide military service in return for regular pay and supplies 
 
@@ -20,7 +20,15 @@ in such periods of disturbance there were more potential soldiers looking for go
 
 They were not able to maintain themselves as armies without access to regular food supplies, and they could not disperse widely over the countryside if faced by a military threat from hostile Roman forces  
 
+seem to have made a treaty of federation with a Roman government.  the invaders were having to take short-term and desperate measures  
 
-seem to have made a treaty of federation
-with a Roman government.  
+By 410, Visigoths either had to move on, to inflict similar misery on other untouched areas, or to change the nature of their relationship with the Roman ruling classes.  unable to cross into North Africa, the latter policy was the only alternative left to them .  
+
+The emperor with whom they made the agreement was called [[Maximus]], and his rule was centered on #Tarragona and #Barcelona on the Mediterranean coast  
+
+Maximus wasnot  in a position to resist the Alans, Sueves, and Vandals,
+
+
+
+
 
