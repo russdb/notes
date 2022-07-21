@@ -1,6 +1,8 @@
 #### Notes on the Visigoths  
 
 [[All Notes Unorganized]]
+[[Visigoths in the 21st Century]]  
+[[Political History]]
 [[Borders, Centres, Peripheries and Visigothic Iberia]]
 [[hispania]]  
 [[Background Provinces and Regions of Roman Hispania]]  
