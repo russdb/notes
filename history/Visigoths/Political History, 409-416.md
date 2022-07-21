@@ -26,7 +26,15 @@ By 410, Visigoths either had to move on, to inflict similar misery on other unto
 
 The emperor with whom they made the agreement was called [[Maximus]], and his rule was centered on #Tarragona and #Barcelona on the Mediterranean coast  
 
-Maximus wasnot  in a position to resist the Alans, Sueves, and Vandals,
+Maximus wasnot  in a position to resist the Alans, Sueves, and Vandals,  this was not to be. In the winter of 410/11 the Visigoths withdrew from Italy  
+
+army of the legitimate emperor Honorius was thus free to try and reestablish his rule in Gaul. This was achieved quite rapidly in the course of 411
+
+regime of Maximus collapsed and he had to take refuge with his new Alan and Vandal allies in the interior of the peninsula  and wait for honorius
+
+This operation was to be carried out not by imperial forces, but by those of Rome’s new ally, the Visigothic king Wallia (415–19).  
+
+
 
 
 
