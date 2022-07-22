@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "history/Visigoths/Political History, 409-416.md",
+            "file": "history/history-toc.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/Visigoths/Political History, 409-416.md",
+                "file": "history/history-toc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "205d717ddc11e28a",
   "lastOpenFiles": [
-    "history/Visigoths/The Visigoths.md",
+    "history/Marx and Lincoln.md",
     "history/Visigoths/Political History, 409-416.md",
+    "history/Visigoths/The Visigoths.md",
     "history/Visigoths/visigoth-toc.md",
     "Alaric.md",
     "book-resources.md",
     "Vandals.md",
     "Sueves.md",
     "Alans.md",
-    "history/Visigoths/Visigoths in the 21st Century.md",
-    "history/Visigoths/Background Provinces and Regions of Roman Hispania.md"
+    "history/Visigoths/Visigoths in the 21st Century.md"
   ]
 }
