@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code/git/git add.md",
-            "mode": "source",
+            "file": "history/Visigoths/All Notes Unorganized.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/git add.md",
+                "file": "history/Visigoths/All Notes Unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "71c673abd9589fb1",
   "lastOpenFiles": [
-    "code/git/git add.md",
+    "history/Visigoths/All Notes Unorganized.md",
+    "code/git/git branch.md",
+    "code/git/git pull.md",
+    "code/git/git move.md",
+    "code/git/git merge.md",
+    "code/git/git switch.md",
     "code/git/git commit.md",
-    "code/git/git - in a nutshell.md",
-    "code/git/git cheatsheet.md",
-    "Curve Wars/Curve Wars.md",
-    "random/Fascism Quotes.md",
-    "history/history-toc.md",
-    "history/Marx and Lincoln.md",
-    "toc links.md",
-    "history/Visigoths/All Notes Unorganized.md"
+    "code/git/git push.md",
+    "code/git/git add.md",
+    "code/git/git - in a nutshell.md"
   ]
 }
