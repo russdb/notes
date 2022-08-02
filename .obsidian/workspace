@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code/js/Destructure potentially empty values.md",
+            "file": "code/js/Destructure inside a loop.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/js/Destructure potentially empty values.md",
+                "file": "code/js/Destructure inside a loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "71c673abd9589fb1",
   "lastOpenFiles": [
+    "code/js/Destructure potentially empty values.md",
     "code/js/Destructure with a different name.md",
     "code/js/Destructure nested object properties.md",
-    "code/js/Destructure potentially empty values.md",
     "code/git/git - in a nutshell.md",
     "code/git/git cheatsheet.md",
     "code/git/git init.md",
