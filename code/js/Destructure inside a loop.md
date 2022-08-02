@@ -7,10 +7,16 @@ https://h.daily-dev-tips.com/javascript-object-destructuring-tips
 destructure some properties under a different name.can use the semicolon `:` divider to address a new name.  
 
 ```js
-const { address: shippingAddress } = user;
-
-console.log(shippingAddress);
-// { country: 'South Africa', postalCode: '7700' }
+const users = [
+  {
+    name: 'Chris',
+    age: 33,
+  },
+  {
+    name: 'Yaatree',
+    age: 2,
+  },
+];
 
 ```
 
