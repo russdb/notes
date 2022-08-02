@@ -12,7 +12,7 @@ Index:
 [[git diff]]
 [[git commit]]
 [[git reset]]
-[[git remove]]
+[[git remove]]  
 [[git move]]
 [[git branch]]
 [[git switch]]
