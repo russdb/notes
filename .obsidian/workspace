@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code/js/Destructure nested object properties.md",
+            "file": "code/js/Destructure potentially empty values.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/js/Destructure nested object properties.md",
+                "file": "code/js/Destructure potentially empty values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,16 +87,16 @@
     "width": 166,
     "collapsed": true
   },
-  "active": "2234aadecbfc6895",
+  "active": "71c673abd9589fb1",
   "lastOpenFiles": [
+    "code/js/Destructure with a different name.md",
+    "code/js/Destructure nested object properties.md",
     "code/js/Destructure potentially empty values.md",
     "code/git/git - in a nutshell.md",
     "code/git/git cheatsheet.md",
     "code/git/git init.md",
     "code/git/git workflow.png",
     "code/js/Destructure inside a loop.md",
-    "code/js/Destructure with a different name.md",
-    "code/js/Destructure nested object properties.md",
     "code/js/destructure and keep a rest object.md",
     "code/js/basic destructuring.md"
   ]
