@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "code/js/Destructure inside a loop.md",
+            "file": "random/Fascism Quotes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/js/Destructure inside a loop.md",
+                "file": "random/Fascism Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "71c673abd9589fb1",
   "lastOpenFiles": [
+    "code/js/Destructure inside a loop.md",
     "code/js/Destructure potentially empty values.md",
     "code/js/Destructure with a different name.md",
     "code/js/Destructure nested object properties.md",
@@ -96,7 +97,6 @@
     "code/git/git cheatsheet.md",
     "code/git/git init.md",
     "code/git/git workflow.png",
-    "code/js/Destructure inside a loop.md",
     "code/js/destructure and keep a rest object.md",
     "code/js/basic destructuring.md"
   ]
