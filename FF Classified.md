@@ -24,4 +24,4 @@ https://docs.google.com/spreadsheets/d/13qirsS5CK62b9efia3DSG9a4yy9cziFvA2mURKWc
 <hr>
 For discord
 
-[Yahoo][TeamStake] - 2 Needed for long time redraft  league (with 3 keepers + idp players). Draft is Sunday prior to season start. $30 entry. See player stats here: https://docs.google.com/spreadsheets/d/13qirsS5CK62b9efia3DSG9a4yy9cziFvA2mURKWch3Y/edit?usp=sharing, see points settings here: https://ibb.co/Fhb62Ty Join Here: https://football.fantasysports.yahoo.com/f1/199968/invitation?key=c7b7b735b81d7d78&soc_trk=lnk&ikey=713aa9a2b46d634e
+[Yahoo][TeamStake] - 1 Needed for long time 14 team redraft  league (with 3 keepers + idp players). Draft is Sunday prior to season start. $30 entry. See player stats here: https://docs.google.com/spreadsheets/d/13qirsS5CK62b9efia3DSG9a4yy9cziFvA2mURKWch3Y/edit?usp=sharing, see points settings here: https://ibb.co/Fhb62Ty Join Here: https://football.fantasysports.yahoo.com/f1/199968/invitation?key=c7b7b735b81d7d78&soc_trk=lnk&ikey=713aa9a2b46d634e
