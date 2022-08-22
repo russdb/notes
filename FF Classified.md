@@ -10,7 +10,7 @@ Positions:  QB, WR, WR, RB, RB, W/R/T, D, D, D, D, DB, DB, BN, BN, BN, BN, BN, B
 
 That's right, no TE, no K, no DEF.   
 
-Here is the points breakdown, we do everything we can to try and ensure that defensive players are equal to offensive players.  
+Here is the points breakdown, we do everything we can to try and ensure that defensive players are equal to offensive players.    
 
 https://ibb.co/Fhb62Ty  
 
