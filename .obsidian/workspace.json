@@ -23,9 +23,11 @@
             "id": "be29448ec5336f50",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "dalle-2 unbundling.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
