@@ -1,3 +1,5 @@
+url: https://bakztfuture.substack.com/p/dall-e-2-unbundling
+
 subject:  
 Illustration of a soccer pitch in the UK at night time with stadium lights on. 
 

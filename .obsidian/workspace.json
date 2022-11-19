@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "be29448ec5336f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dalle-2 unbundling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,17 +95,17 @@
     "width": 166,
     "collapsed": true
   },
-  "active": "be29448ec5336f50",
+  "active": "71c673abd9589fb1",
   "lastOpenFiles": [
-    "FF Classified.md",
-    "code/js/Destructure with a different name.md",
-    "random/Fascism Quotes.md",
-    "code/js/Destructure inside a loop.md",
-    "code/js/Destructure potentially empty values.md",
-    "code/js/Destructure nested object properties.md",
-    "code/git/git - in a nutshell.md",
-    "code/git/git cheatsheet.md",
-    "code/git/git init.md",
-    "code/git/git workflow.png"
+    "history/Sistine Chapel/Sistine Chapel Conservation Project.md",
+    "history/Sistine Chapel/Pasted image 20211104213632.png",
+    "history/Sistine Chapel/Pasted image 20211104213005.png",
+    "history/Sistine Chapel/Genuis of Michaelangelo quick notes.md",
+    "dalle-2 unbundling.md",
+    "Alaric.md",
+    "Vandals.md",
+    "Sueves.md",
+    "README.md",
+    "FF Classified.md"
   ]
 }
