@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "71c673abd9589fb1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dalle-2 unbundling.md",
-            "mode": "source",
-            "source": false
+        "id": "d0d0ae5f79612940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c673abd9589fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dalle-2 unbundling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be29448ec5336f50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +48,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -87,7 +106,7 @@
     "width": 166,
     "collapsed": true
   },
-  "active": "71c673abd9589fb1",
+  "active": "be29448ec5336f50",
   "lastOpenFiles": [
     "FF Classified.md",
     "code/js/Destructure with a different name.md",
