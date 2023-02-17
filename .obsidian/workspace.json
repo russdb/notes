@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "24968090e6c9e269",
+        "id": "7288a379e80e64cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e10f50b28dbd779a",
+            "id": "71c673abd9589fb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dalle-2 unbundling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08a74f623da79148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +120,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2234aadecbfc6895",
+  "active": "08a74f623da79148",
   "lastOpenFiles": [
+    "dalle-2 unbundling.md",
     "FF Classified.md",
     "code/js/Destructure with a different name.md",
     "random/Fascism Quotes.md",
@@ -112,7 +131,6 @@
     "code/js/Destructure nested object properties.md",
     "code/git/git - in a nutshell.md",
     "code/git/git cheatsheet.md",
-    "code/git/git init.md",
-    "code/git/git workflow.png"
+    "code/git/git init.md"
   ]
 }
