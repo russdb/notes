@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "a0b9e36e0e21f943",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f00d0e3aebc8d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c673abd9589fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FF Classified.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff31ff2130331c92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9391da2dd7cf099e",
+    "type": "split",
+    "children": [
+      {
+        "id": "71afddd0d535a5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2234aadecbfc6895",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "596e16edd801819a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tags",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "right": {
+    "id": "ca23ee4c9adfc541",
+    "type": "split",
+    "children": [
+      {
+        "id": "1095e9924c1b0ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5637b126eb331717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FF Classified.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 166,
+    "collapsed": true
+  },
+  "active": "ff31ff2130331c92",
+  "lastOpenFiles": [
+    "code/js/Destructure with a different name.md",
+    "FF Classified.md",
+    "random/Fascism Quotes.md",
+    "code/js/Destructure inside a loop.md",
+    "code/js/Destructure potentially empty values.md",
+    "code/js/Destructure nested object properties.md",
+    "code/git/git - in a nutshell.md",
+    "code/git/git cheatsheet.md",
+    "code/git/git init.md",
+    "code/git/git workflow.png"
+  ]
+}
