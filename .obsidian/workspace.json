@@ -16,8 +16,21 @@
                 "file": "code/git/git workflow.png"
               }
             }
+          },
+          {
+            "id": "68e87d7f54e8ae01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "async js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/git workflow.png",
+                "file": "async js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +118,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "71c673abd9589fb1",
+  "active": "68e87d7f54e8ae01",
   "lastOpenFiles": [
+    "code/git/git workflow.png",
     "code/git/git - in a nutshell.md",
     "code/git/git checkout.md",
     "code/astro.md",
@@ -115,7 +129,6 @@
     "FF Classified.md",
     "code/js/Destructure with a different name.md",
     "random/Fascism Quotes.md",
-    "code/js/Destructure inside a loop.md",
-    "code/js/Destructure potentially empty values.md"
+    "code/js/Destructure inside a loop.md"
   ]
 }
