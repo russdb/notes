@@ -22,3 +22,4 @@ The `promise` object returned by the `new Promise` constructor has these interna
 So the executor eventually moves `promise` to one of these states:  
 ![[Pasted image 20230218164455.png]]
 
+properties `state` and `result` of the Promise object are internal. We can’t directly access them. We can use the methods [[.then/.catch/]] & [[.finally]] for that.
