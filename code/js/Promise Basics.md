@@ -18,34 +18,31 @@ When the executor obtains the result, be it soon or late, doesn’t matter, it s
 The `promise` object returned by the `new Promise` constructor has these internal properties:
 -   `state` — initially `"pending"`, then changes to either `"fulfilled"` when `resolve` is called or `"rejected"` when `reject` is called.
 -   `result` — initially `undefined`, then changes to `value` when `resolve(value)` is called or `error` when `reject(error)` is called.
-
+- 
 So the executor eventually moves `promise` to one of these states:  
 ![[Pasted image 20230218164455.png]]
-example of a promise constructor and a simple executor function with “producing code” that takes time (via `setTimeout`):
-```javascript
-let promise = new Promise(function(resolve, reject) {
-  // the function is executed automatically when the promise is constructed
 
-  // after 1 second signal that the job is done with the result "done"
-  setTimeout(() => resolve("done"), 1000);
-});
-```
-We can see two things by running the code above:
+There can be only a single result or an error
+The executor should call only one `resolve` or one `reject`. Any state change is final.
+All further calls of `resolve` and `reject` are ignored:
+The idea is that a job done by the executor may have only one result or an error.
+Also, `resolve`/`reject` expect only one argument (or none) and will ignore additional arguments.
+Reject with `Error` objects, it is recommended to use `Error` objects (or objects that inherit from `Error`). 
 
-1.  The executor is called automatically and immediately (by `new Promise`).
-2.  The executor receives two arguments: `resolve` and `reject`. These functions are pre-defined by the JavaScript engine, so we don’t need to create them. We should only call one of them when ready.
-3. After one second of “processing”, the executor calls `resolve("done")` to produce the result. This changes the state of the `promise` object:
-
-![[Pasted image 20230218165449.png]]
-
-an example of the executor rejecting the promise with an error:
+Immediately calling `resolve`/`reject`
+In practice, an executor usually does something asynchronously and calls `resolve`/`reject` after some time, but it doesn’t have to. We also can call `resolve` or `reject` immediately, like this:
 
 ```javascript
 let promise = new Promise(function(resolve, reject) {
-  // after 1 second signal that the job is finished with an error
-  setTimeout(() => reject(new Error("Whoops!")), 1000);
+  // not taking our time to do the job
+  resolve(123); // immediately give the result: 123
 });
 ```
 
-The call to `reject(...)` moves the promise object to `"rejected"` state:
-![[Pasted image 20230218170235.png]]
+For instance, this might happen when we start to do a job but then see that everything has already been completed and cached.
+
+That’s fine. We immediately have a resolved promise.
+
+The `state` and `result` are internal
+
+The properties `state` and `result` of the Promise object are internal. We can’t directly access them. We can use the methods `.then`/`.catch`/`.finally` for that. They are described below.
