@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/js/Promise Tips.md",
+                "file": "code/js/Promise Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,8 +35,12 @@
             "id": "16644fae518e2408",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Promise .then & .catch.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Promise .then & .catch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +132,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "16644fae518e2408",
+  "active": "2234aadecbfc6895",
   "lastOpenFiles": [
     "code/js/Promise Finally.md",
     "code/js/Promise Basics.md",
     "code/js/Promise Tips.md",
+    "Promise .then & .catch.md",
     "Promise try/catch.md",
     "code/js/Destructure with a different name.md",
     "Pasted image 20230218164455.png",
     "Pasted image 20230218165449.png",
     "Pasted image 20230218170235.png",
-    "conversion of the Visigoths.md",
-    "Vandals.md"
+    "conversion of the Visigoths.md"
   ]
 }
