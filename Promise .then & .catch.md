@@ -13,4 +13,9 @@ promise.then(
 ```  
 
 The first argument of `.then` is a function that runs when the promise is resolved and receives the result.
-The second argument of `.then` is a function that runs when the promise is rejected and receives the error.
+The second argument of `.then` is a function that runs when the promise is rejected and receives the error.  
+If we’re interested only in successful completions, then we can provide only one function argument to `.then`  
+
+```javascript
+promise.then(alert); // shows "done!" after 1 second
+```
