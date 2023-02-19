@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10f1a90b428a648c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code/js/Promise Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,17 +132,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "07f1da5f04445d9f",
+  "active": "10f1a90b428a648c",
   "lastOpenFiles": [
     "code/js/Promise Tips.md",
-    "code/js/Promise Basics.md",
+    "code/js/finally.md",
     "Promise try/catch.md",
+    "code/js/Promise Basics.md",
     "code/js/Destructure with a different name.md",
     "Pasted image 20230218164455.png",
     "Pasted image 20230218165449.png",
     "Pasted image 20230218170235.png",
     "conversion of the Visigoths.md",
-    "Vandals.md",
-    "Sueves.md"
+    "Vandals.md"
   ]
 }
