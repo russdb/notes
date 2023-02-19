@@ -10,4 +10,7 @@ promise.then(
   result => alert(result), // shows "done!" after 1 second
   error => alert(error) // doesn't run
 );
-```
+```  
+
+The first argument of `.then` is a function that runs when the promise is resolved and receives the result.
+The second argument of `.then` is a function that runs when the promise is rejected and receives the error.
