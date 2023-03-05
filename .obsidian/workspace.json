@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random/Fascism Quotes.md",
-                "mode": "source",
+                "file": "code/js/Promise Basics.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random/Fascism Quotes.md",
+                "file": "code/js/Promise Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "16644fae518e2408",
   "lastOpenFiles": [
-    "Promise .then & .catch.md",
+    "code/js/Promise Finally.md",
+    "code/js/Promise Tips.md",
+    "code/js/Promise Basics.md",
+    "code/js/Promise .then & .catch.md",
+    "random/Fascism Quotes.md",
     "King Leovigild.md",
     "Sueves.md",
     "Vandals.md",
     "Alans.md",
-    "code/js/Promise Finally.md",
-    "code/js/Promise Basics.md",
-    "code/js/Promise Tips.md",
-    "Promise try/catch.md",
-    "code/js/Destructure with a different name.md"
+    "Promise try/catch.md"
   ]
 }
