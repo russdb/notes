@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "code/js/Promise Finally.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320,
-    "collapsed": true
+    "width": 320
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -135,10 +134,10 @@
   },
   "active": "07f1da5f04445d9f",
   "lastOpenFiles": [
+    "code/js/Promise .then & .catch.md",
     "code/js/Promise Basics.md",
     "code/js/Promise Finally.md",
     "code/js/Promise Tips.md",
-    "code/js/Promise .then & .catch.md",
     "random/Fascism Quotes.md",
     "King Leovigild.md",
     "Sueves.md",
