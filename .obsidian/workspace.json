@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/js/Promise Basics.md",
+                "file": "code/js/Promise Tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59506ef6310d318d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code/js/Promise-api.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,18 +39,6 @@
               "state": {
                 "file": "code/js/Promise Finally.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16644fae518e2408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code/js/Promise Basics.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/js/Promise Finally.md",
+                "file": "code/js/Promise-api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +132,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "07f1da5f04445d9f",
+  "active": "59506ef6310d318d",
   "lastOpenFiles": [
+    "code/js/Promise Tips.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "code/js/Promise Basics.md",
     "code/js/Promise Finally.md",
     "code/js/Promise .then & .catch.md",
-    "code/js/Promise Tips.md",
     "random/Fascism Quotes.md",
     "King Leovigild.md",
     "Sueves.md",
-    "Vandals.md",
-    "Alans.md",
-    "Promise try/catch.md"
+    "Vandals.md"
   ]
 }
