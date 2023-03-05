@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 320,
+    "collapsed": true
   },
   "right": {
     "id": "ca23ee4c9adfc541",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/js/Promise Basics.md",
+                "file": "code/js/Promise Finally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,11 +133,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "16644fae518e2408",
+  "active": "07f1da5f04445d9f",
   "lastOpenFiles": [
+    "code/js/Promise Basics.md",
     "code/js/Promise Finally.md",
     "code/js/Promise Tips.md",
-    "code/js/Promise Basics.md",
     "code/js/Promise .then & .catch.md",
     "random/Fascism Quotes.md",
     "King Leovigild.md",
