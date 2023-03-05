@@ -1,6 +1,7 @@
 #promises #callbacks #async #await #javascript  #final
 
 https://javascript.info/promise-basics  
+https://exploringjs.com/es6/ch_promises.html
 
 1.  A “producing code” that does something and takes time.
 2.  A “consuming code” that wants the result of the “producing code” once it’s ready. Many functions may need that result. 

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "code/js/Promise Finally.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -134,9 +134,9 @@
   },
   "active": "07f1da5f04445d9f",
   "lastOpenFiles": [
-    "code/js/Promise .then & .catch.md",
     "code/js/Promise Basics.md",
     "code/js/Promise Finally.md",
+    "code/js/Promise .then & .catch.md",
     "code/js/Promise Tips.md",
     "random/Fascism Quotes.md",
     "King Leovigild.md",
