@@ -1,4 +1,5 @@
-https://git-scm.com/docs/git-checkout
+https://git-scm.com/docs/git-checkout  
+https://www.w3docs.com/learn-git/git-checkout.html
 
 Git checkout is used to switch branches and if you don’t specify a branch name it updates files in the working tree to that in the index (staging area).
 
