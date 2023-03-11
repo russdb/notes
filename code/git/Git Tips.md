@@ -64,3 +64,34 @@ git add . # or add individual files
 git commit -m "your message here";
 # now your changes are on the correct branch
 ```
+
+One can also use `cherr-pick`
+```git
+git checkout name-of-the-correct-branch
+# grab the last commit to master
+git cherry-pick master
+# delete it from master
+git checkout master
+git reset HEAD~ --hard
+``` 
+
+### Run `diff` and nothing happens? 
+
+probably `add`-ed your files to staging and you need to use a special flag.
+
+```git
+git diff --staged
+```  
+
+Need to do a commit from like 10 minutes ago?  
+```git
+# find the commit you need to undo
+git log
+# use the arrow keys to scroll up and down in history
+# once you've found your commit, save the hash
+git revert [saved hash]
+# git will create a new commit that undoes that commit
+# follow prompts to edit the commit message
+# or just save and commit
+```
+
