@@ -95,3 +95,18 @@ git revert [saved hash]
 # or just save and commit
 ```
 
+If you committed a bug, you can undo the commit all in one go with `revert`.
+
+You can also revert a single file instead of a full commit! But of course, in true git fashion, it's a completely different set of fucking commands...  
+
+### Undo changes to a file
+
+```git
+# find a hash for a commit before the file was changed
+git log
+# use the arrow keys to scroll up and down in history
+# once you've found your commit, save the hash
+git checkout [saved hash] -- path/to/file
+# the old version of the file will be in your index
+git commit -m "Wow, you don't have to copy-paste to undo"
+```
