@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/git/git checkout.md",
+                "file": "code/git/git switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a6c32a23cb295f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code/git/Git Tips.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/git checkout.md",
+                "file": "code/git/Git Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +132,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "59506ef6310d318d",
+  "active": "0a6c32a23cb295f1",
   "lastOpenFiles": [
-    "code/js/Promise Finally.md",
+    "code/git/git - in a nutshell.md",
+    "code/git/Git Tips.md",
+    "code/git/git switch.md",
+    "code/git/git tag.md",
+    "code/git/git workflow.png",
     "code/git/git checkout.md",
+    "code/js/Promise Finally.md",
     "code/js/Promise .then & .catch.md",
     "code/js/Promise Basics.md",
-    "code/js/Promise-api.md",
-    "code/js/Promise Tips.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "random/Fascism Quotes.md",
-    "King Leovigild.md"
+    "code/js/Promise-api.md"
   ]
 }

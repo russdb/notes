@@ -2,6 +2,7 @@
 ![[git workflow.png]]
 
 [[git cheetsheet]]
+[[git tips]]
 
 Index: 
 
@@ -23,3 +24,5 @@ Index:
 [[git fetch]]
 [[git merge]]
 [[git reset]]
+[[git status]]
+[[git tag]]
