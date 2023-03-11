@@ -30,3 +30,24 @@ git commit --amend --no-edit
 # WARNING: never amend public commits
 ```  
 
+You could also make the change as a new commit and then do `rebase -i` in order to squash them both together, but this is about a million times faster.
+
+_Warning: You should never amend commits that have been pushed up to a public/shared branch! Only amend commits that only exist in your local copy or you're gonna have a bad time._ 
+
+### To change the last commit message  
+```git
+git commit --amend
+# follow prompts to change the commit message
+```
+
+### Accidentally commit to master branch instead of a different one 
+```git
+# create a new branch from the current state of master
+git branch some-new-branch-name
+# remove the last commit from the master branch
+git reset HEAD~ --hard
+git checkout some-new-branch-name
+# your commit lives in this branch now :)
+```  
+
+- doesn't work if you've already pushed the commit to a public/shared branch
