@@ -40,7 +40,7 @@ git commit --amend
 # follow prompts to change the commit message
 ```
 
-### Accidentally commit to master branch instead of a different one 
+### Accidentally commit to master branch instead of a new one 
 ```git
 # create a new branch from the current state of master
 git branch some-new-branch-name
@@ -50,4 +50,17 @@ git checkout some-new-branch-name
 # your commit lives in this branch now :)
 ```  
 
-- doesn't work if you've already pushed the commit to a public/shared branch
+- doesn't work if you've already pushed the commit to a public/shared branch  
+
+### Accidentally commit to wrong brach 
+```git
+# undo the last commit, but leave the changes available
+git reset HEAD~ --soft
+git stash
+# move to the correct branch
+git checkout name-of-the-correct-branch
+git stash pop
+git add . # or add individual files
+git commit -m "your message here";
+# now your changes are on the correct branch
+```
