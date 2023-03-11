@@ -109,4 +109,12 @@ git log
 git checkout [saved hash] -- path/to/file
 # the old version of the file will be in your index
 git commit -m "Wow, you don't have to copy-paste to undo"
+```  
+
+If you need to give up 
+```git
+cd ..
+sudo rm -r fucking-git-repo-dir
+git clone https://some.github.url/fucking-git-repo-dir.git
+cd fucking-git-repo-dir
 ```
