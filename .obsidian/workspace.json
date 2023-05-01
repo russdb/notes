@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7288a379e80e64cb",
+        "id": "c8047535e3508f48",
         "type": "tabs",
         "children": [
           {
-            "id": "71c673abd9589fb1",
+            "id": "9fe8e42137819a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/js/Promise Tips.md",
+                "file": "res working.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "59506ef6310d318d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code/git/git switch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a6c32a23cb295f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code/git/Git Tips.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc169564c162c0f2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/git/Git Tips.md",
+                "file": "res working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +107,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fc169564c162c0f2",
+  "active": "9fe8e42137819a81",
   "lastOpenFiles": [
+    "res working.md",
     "code/git/git - in a nutshell.md",
     "code/git/Git Tips.md",
     "code/git/git switch.md",
