@@ -12,5 +12,15 @@ _FULL STACK WEB DEVELOPER_ - (2015 - Current) - United Parcel Service, Remote
 * Expert in performing T-SQL DDL/DML/DCL commands using SQL Server Management Studio (SSMS)
 * Rich development experience in creating tables, views, triggers, stored procedures, jobs, user defined functions, CTE’s and other T-SQL statements handling large amounts of data 
 * Utilized different transformations like Lookups, Derived Column, Merge, Join, Fuzzy Lookup, For Loop, For Each Loop, Conditional, Split, Union all, etc
- * Demonstrates leadership abilities and teamwork skills as well as the ability to accomplish tasks under minimal direction and supervision
+ * Demonstrates leadership abilities and teamwork skills as well as the ability to accomplish tasks under minimal direction and supervision  
+
+_BELT SUPERVISOR_ - (2012 - 2015) - United Parcel Service, Gainesville FL
+* Supervised and mentored at least eight employees on a daily basis  
+* Work group achieved number one ranking in company
+* Ensures that all employees are acting in accordance with UPS safety regulations 
+* Oversees that all daily routines are made by the employees in satisfactory time including hazmat and international operations   
+
+<hr>
+
+
 
