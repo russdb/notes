@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc169564c162c0f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0a6c32a23cb295f1",
+  "active": "fc169564c162c0f2",
   "lastOpenFiles": [
     "code/git/git - in a nutshell.md",
     "code/git/Git Tips.md",
