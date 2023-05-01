@@ -1,3 +1,6 @@
 
 ## David Russell 
-##### San Mateo, United States - davidbrussell@gmail.com
+davidbrussell@gmail.com - 352-262-0013 - San Mateo, Ca
+<hr>  
+
+
