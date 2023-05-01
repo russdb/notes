@@ -1,8 +1,10 @@
 
 ## David Russell 
 davidbrussell@gmail.com - 352-262-0013 - San Mateo, Ca - russdb.github.io  
+
 <hr>  
 
+<hr> 
 ### Experience
 _FULL STACK WEB DEVELOPER_ - (2015 - Current) - United Parcel Service, Remote  
 * Works with key business users to identify business needs worth millions of dollars in revenue and process improvements
@@ -22,5 +24,8 @@ _BELT SUPERVISOR_ - (2012 - 2015) - United Parcel Service, Gainesville FL
 
 <hr>
 
+### Education  
+_Web Programming_, Associates of Science - Santa Fe College, Gainesville, Fl 
+_Political Science_, Associate of Arts - Santa Fe College, Gainesville, Fl
 
 
