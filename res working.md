@@ -26,7 +26,7 @@ _BELT SUPERVISOR_ - (2012 - 2015) - United Parcel Service, Gainesville FL
 ### Skills  
 _Front End:_ HTML5, CSS, Javascript, NodeJS, Coldfusion, EJS, Express  
 _Back End:_ MSSQL, TSQL, PL/SQL  
-_Other:_ C#, Rust, Azure, JSON,
+_Other:_ C#, Rust, Azure, JSON
 
 <hr> 
 
