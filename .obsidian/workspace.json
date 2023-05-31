@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c8047535e3508f48",
+        "id": "d0d0ae5f79612940",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe8e42137819a81",
+            "id": "71c673abd9589fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "res working.md",
+                "file": "zelda likes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dec944bdac81a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zelda likes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,13 +61,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tags",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "883608b8b00bf6d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "res working.md",
+                "file": "zelda likes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,18 +128,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9fe8e42137819a81",
+  "active": "4dec944bdac81a4d",
   "lastOpenFiles": [
-    "res working.md",
-    "code/git/git - in a nutshell.md",
-    "code/git/Git Tips.md",
-    "code/git/git switch.md",
-    "code/git/git tag.md",
-    "code/git/git workflow.png",
-    "code/git/git checkout.md",
-    "code/js/Promise Finally.md",
-    "code/js/Promise .then & .catch.md",
-    "code/js/Promise Basics.md",
-    "code/js/Promise-api.md"
+    "random/Fascism Quotes.md",
+    "zelda likes.md",
+    "README.md",
+    "Untitled 1.md",
+    "dalle-2 unbundling.md",
+    "history/Sistine Chapel/Sistine Chapel Conservation Project.md",
+    "history/Sistine Chapel/Pasted image 20211104213632.png",
+    "history/Sistine Chapel/Pasted image 20211104213005.png",
+    "history/Sistine Chapel/Genuis of Michaelangelo quick notes.md",
+    "Alaric.md",
+    "Vandals.md",
+    "Sueves.md"
   ]
 }
