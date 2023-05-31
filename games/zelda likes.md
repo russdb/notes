@@ -13,4 +13,19 @@ If you're looking for games like Zelda, I've got you covered. I've personally pl
 That should be more than enough to get you started. If you want more Zelda-likes, check out these previous two posts of mine:
 
 -   [The Zelda-like Genre: From 1987 to Today](https://www.reddit.com/r/truezelda/comments/lb2bde/the_zeldalike_genre_from_1987_to_today/)
--   [The Zelda-like Genre: 2021 and Beyond](https://www.reddit.com/r/truezelda/comments/mlaew7/the_zeldalike_genre_2021_and_beyond/)
+-   [The Zelda-like Genre: 2021 and Beyond](https://www.reddit.com/r/truezelda/comments/mlaew7/the_zeldalike_genre_2021_and_beyond/)  
+
+
+Hey folks. Here's a list me, Professor Q, Loyal and a couple of others have put together over at the [r/metroidvania](https://old.reddit.com/r/metroidvania) discord server. Loyal made this handy excel file I'm linking to below (and which I've now added several games to that I thought were already on it).
+
+[https://docs.google.com/spreadsheets/d/1HrV_51VBgX18hl2Y9v001z3ShBHlKFJV/edit?usp=sharing&ouid=110507989581185950715&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1HrV_51VBgX18hl2Y9v001z3ShBHlKFJV/edit?usp=sharing&ouid=110507989581185950715&rtpof=true&sd=true)
+
+​
+
+Also, here's an older list from a reddit post that also attempts to make a more detailed sorting:
+
+[https://www.reddit.com/r/truezelda/comments/lb2bde/the_zeldalike_genre_from_1987_to_today/](https://www.reddit.com/r/truezelda/comments/lb2bde/the_zeldalike_genre_from_1987_to_today/)
+
+​
+
+Go ahead and mention games in this thread, that aren't on either list and you think should be.
