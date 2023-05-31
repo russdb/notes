@@ -1,4 +1,4 @@
-url: 
+url: https://old.reddit.com/r/truezelda/comments/prkxoc/hello_rtruezelda_community_im_here_with_two/hdjl8km/
 
 If you're looking for games like Zelda, I've got you covered. I've personally played and would recommend:
 
