@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6fbc235ff37d59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "llm jailbreaks.md",
+                "file": "current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +176,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "91dffd5ea6c538c9",
+  "active": "f6fbc235ff37d59b",
   "lastOpenFiles": [
-    "life ~ 70,000 years ago.md",
     "llm jailbreaks.md",
+    "current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
+    "life ~ 70,000 years ago.md",
     "res working.md",
     "King Leovigild.md",
     "README.md",
@@ -193,7 +206,6 @@
     "random/Fascism Quotes.md",
     "history/Sistine Chapel/Sistine Chapel Conservation Project.md",
     "history/Sistine Chapel/Pasted image 20211104213632.png",
-    "history/Sistine Chapel/Pasted image 20211104213005.png",
-    "history/Sistine Chapel/Genuis of Michaelangelo quick notes.md"
+    "history/Sistine Chapel/Pasted image 20211104213005.png"
   ]
 }
