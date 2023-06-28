@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7ad346a9ddb9a68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +126,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "d0b21d3f775eb53a",
+  "active": "d7ad346a9ddb9a68",
   "lastOpenFiles": [
     "history/on brutal of daily life in the middle ages in terms of random violence.md",
     "res working.md",
