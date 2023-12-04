@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "res working.md",
+                "file": "code/git/git cheatsheet.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fac314088c5d6389",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "res working.md",
+                "file": "code/git/git cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +125,11 @@
   },
   "active": "9fe8e42137819a81",
   "lastOpenFiles": [
-    "history/on brutal of daily life in the middle ages in terms of random violence.md",
+    "code/git/git cheatsheet.md",
+    "code/git/git status.md",
+    "code/git/Git Tips.md",
     "res working.md",
+    "history/on brutal of daily life in the middle ages in terms of random violence.md",
     "history/life ~ 70,000 years ago.md",
     "llm jailbreaks.md",
     "history/current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
@@ -159,9 +152,6 @@
     "202305310227.md",
     "a - template.md",
     "202211190139.md",
-    "202305310226.md",
-    "random/Fascism Quotes.md",
-    "history/Sistine Chapel/Sistine Chapel Conservation Project.md",
     "history/Sistine Chapel/Pasted image 20211104213632.png",
     "history/Sistine Chapel/Pasted image 20211104213005.png"
   ]
