@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fac314088c5d6389",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,6 +66,14 @@
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "de1f7008e46a93d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -107,7 +126,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9fe8e42137819a81",
+  "active": "fac314088c5d6389",
   "lastOpenFiles": [
     "res working.md",
     "code/git/git - in a nutshell.md",
