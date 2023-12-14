@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/code-toc.md",
+                "file": "code/js/basic destructuring.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/code-toc.md",
+                "file": "code/js/basic destructuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +125,7 @@
   },
   "active": "9fe8e42137819a81",
   "lastOpenFiles": [
+    "code/code-toc.md",
     "code/js/basic destructuring.md",
     "code/git/git cheatsheet.md",
     "code/git/git status.md",
@@ -151,7 +152,6 @@
     "history/Marx and Lincoln.md",
     "202305310228 Best Medieval History books.md",
     "202305310227.md",
-    "a - template.md",
     "history/Sistine Chapel/Pasted image 20211104213632.png",
     "history/Sistine Chapel/Pasted image 20211104213005.png"
   ]
