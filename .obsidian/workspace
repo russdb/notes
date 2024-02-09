@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "dalle-2 unbundling.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -89,6 +88,7 @@
   },
   "active": "71c673abd9589fb1",
   "lastOpenFiles": [
+    "dalle-2 unbundling.md",
     "FF Classified.md",
     "code/js/Destructure with a different name.md",
     "random/Fascism Quotes.md",
@@ -97,7 +97,6 @@
     "code/js/Destructure nested object properties.md",
     "code/git/git - in a nutshell.md",
     "code/git/git cheatsheet.md",
-    "code/git/git init.md",
-    "code/git/git workflow.png"
+    "code/git/git init.md"
   ]
 }
