@@ -1,39 +1,50 @@
 {
   "main": {
-    "id": "a0b9e36e0e21f943",
+    "id": "6f28985b5f6b824e",
     "type": "split",
     "children": [
       {
-        "id": "a57c5a96bb74a50d",
+        "id": "c8047535e3508f48",
         "type": "tabs",
         "children": [
           {
-            "id": "d0b21d3f775eb53a",
+            "id": "9fe8e42137819a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "games/zelda likes.md",
+                "file": "res working.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fac314088c5d6389",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9391da2dd7cf099e",
+    "id": "ae162e63e2bed17c",
     "type": "split",
     "children": [
       {
-        "id": "71afddd0d535a5e1",
+        "id": "28f282cfe0865add",
         "type": "tabs",
         "children": [
           {
-            "id": "2234aadecbfc6895",
+            "id": "502225e86fa6b15b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,18 +54,26 @@
             }
           },
           {
-            "id": "596e16edd801819a",
+            "id": "cfaf6d23e8d300df",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "de1f7008e46a93d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           },
           {
@@ -69,23 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320
+    "width": 300
   },
   "right": {
-    "id": "ca23ee4c9adfc541",
+    "id": "25c0d9a6508d164f",
     "type": "split",
     "children": [
       {
-        "id": "1095e9924c1b0ec9",
+        "id": "e1325540a75c5e48",
         "type": "tabs",
         "children": [
           {
-            "id": "5637b126eb331717",
+            "id": "661929822970fcf2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games/zelda likes.md",
+                "file": "res working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
