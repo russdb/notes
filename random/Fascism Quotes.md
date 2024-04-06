@@ -40,3 +40,6 @@ Milton Sanford Mayer
 ![[Pasted image 20240406015205.png]]
 
 ![[Pasted image 20240406014850.png]]
+![[Pasted image 20240406020505.png]]
+![[Pasted image 20240406020542.png]]
+![[Pasted image 20240406020624.png]]
