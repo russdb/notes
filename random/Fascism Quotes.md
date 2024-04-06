@@ -25,3 +25,7 @@
 Milton Sanford Mayer
 - [*They Thought They Were Free: The Germans 1933-45*](https://www.goodreads.com/work/quotes/963585)  
 - https://disturbingthecomfortable.blogspot.com/2007/07/one-great-shocking-occasion-when-tens.html
+
+![[Pasted image 20240406014149.png]]
+
+![[Pasted image 20240406014258.png]]
