@@ -32,4 +32,11 @@ Milton Sanford Mayer
 
 ![[Pasted image 20240406014817.png]]
 
+![[Pasted image 20240406015310.png]]
+![[Pasted image 20240406015402.png]]
+![[Pasted image 20240406015430.png]]
+![[Pasted image 20240406015117.png]]
+
+![[Pasted image 20240406015205.png]]
+
 ![[Pasted image 20240406014850.png]]
