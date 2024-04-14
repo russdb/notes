@@ -23,9 +23,11 @@
             "id": "3f11842381ce3969",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "random/Fascism Quotes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -136,8 +138,14 @@
   },
   "active": "3f11842381ce3969",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "random/Fascism Quotes.md",
+    "Pasted image 20240406014258.png",
     "Pasted image 20240406021017.png",
     "Pasted image 20240406020939.png",
+    "history/Best book for daily life in the Middle Ages.md",
+    "history/on brutal of daily life in the middle ages in terms of random violence.md",
+    "history/life ~ 70,000 years ago.md",
     "Pasted image 20240406020743.png",
     "Pasted image 20240406020713.png",
     "Pasted image 20240406020624.png",
@@ -145,18 +153,13 @@
     "Pasted image 20240406020505.png",
     "Pasted image 20240406015430.png",
     "Pasted image 20240406015402.png",
-    "Pasted image 20240406015354.png",
-    "Pasted image 20240406015310.png",
     "202305310228 Best Medieval History books.md",
-    "random/Fascism Quotes.md",
     "code/js/basic destructuring.md",
     "code/code-toc.md",
     "code/git/git cheatsheet.md",
     "code/git/git status.md",
     "code/git/Git Tips.md",
     "res working.md",
-    "history/on brutal of daily life in the middle ages in terms of random violence.md",
-    "history/life ~ 70,000 years ago.md",
     "llm jailbreaks.md",
     "history/current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
     "King Leovigild.md",
@@ -167,7 +170,6 @@
     "dalle-2 unbundling.md",
     "conversion of the Visigoths.md",
     "Alaric.md",
-    "history/Best book for daily life in the Middle Ages.md",
     "games/zelda likes.md",
     "history/Crusades/Children's Crusade/Was the Children's Crusade really Children.md",
     "history/Best Medieval History books.md",
