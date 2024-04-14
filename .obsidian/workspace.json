@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f11842381ce3969",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "9fe8e42137819a81",
+  "active": "3f11842381ce3969",
   "lastOpenFiles": [
     "Pasted image 20240406021017.png",
     "Pasted image 20240406020939.png",
