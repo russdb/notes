@@ -35,9 +35,11 @@
             "id": "631ecd7b54211702",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "random/Fascism Quotes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -148,11 +150,16 @@
   },
   "active": "631ecd7b54211702",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "a - template.md",
     "random/Fascism Quotes.md",
+    "Pasted image 20240406020505.png",
+    "Pasted image 20240406020939.png",
+    "Sueves.md",
+    "res working.md",
+    "book-resources.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20240406014258.png",
     "Pasted image 20240406021017.png",
-    "Pasted image 20240406020939.png",
     "history/Best book for daily life in the Middle Ages.md",
     "history/on brutal of daily life in the middle ages in terms of random violence.md",
     "history/life ~ 70,000 years ago.md",
@@ -160,7 +167,6 @@
     "Pasted image 20240406020713.png",
     "Pasted image 20240406020624.png",
     "Pasted image 20240406020542.png",
-    "Pasted image 20240406020505.png",
     "Pasted image 20240406015430.png",
     "Pasted image 20240406015402.png",
     "202305310228 Best Medieval History books.md",
@@ -169,20 +175,16 @@
     "code/git/git cheatsheet.md",
     "code/git/git status.md",
     "code/git/Git Tips.md",
-    "res working.md",
     "llm jailbreaks.md",
     "history/current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
     "King Leovigild.md",
     "README.md",
-    "Sueves.md",
     "Vandals.md",
     "FF Classified.md",
     "dalle-2 unbundling.md",
     "conversion of the Visigoths.md",
     "Alaric.md",
     "games/zelda likes.md",
-    "history/Crusades/Children's Crusade/Was the Children's Crusade really Children.md",
-    "history/Best Medieval History books.md",
-    "history/history-toc.md"
+    "history/Crusades/Children's Crusade/Was the Children's Crusade really Children.md"
   ]
 }
