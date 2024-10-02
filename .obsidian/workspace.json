@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99f3b18611860ef7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +146,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "3f11842381ce3969",
+  "active": "99f3b18611860ef7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "random/Fascism Quotes.md",
