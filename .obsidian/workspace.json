@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "res working.md",
+                "file": "conversion of the Visigoths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "res working"
+              "title": "conversion of the Visigoths"
             }
           }
         ],
@@ -166,12 +166,16 @@
   },
   "active": "4f0225c7724f2333",
   "lastOpenFiles": [
+    "res working.md",
+    "code/js/Promise-api.md",
+    "code/js/Promise Tips.md",
+    "code/js/Promise Finally.md",
+    "code/js/Promise Basics.md",
+    "code/astro.md",
     "code/js/basic destructuring.md",
     "code/js/Destructure inside a loop.md",
     "code/js/Destructure nested object properties.md",
     "code/js/Promise .then & .catch.md",
-    "code/js/Promise Finally.md",
-    "code/js/Promise Basics.md",
     "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "202410021502.md",
@@ -194,14 +198,10 @@
     "code/git/git cheatsheet.md",
     "code/git/git status.md",
     "code/git/Git Tips.md",
-    "res working.md",
     "llm jailbreaks.md",
     "history/current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
     "King Leovigild.md",
     "README.md",
-    "Sueves.md",
-    "Vandals.md",
-    "FF Classified.md",
-    "dalle-2 unbundling.md"
+    "Sueves.md"
   ]
 }
