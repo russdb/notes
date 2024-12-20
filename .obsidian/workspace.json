@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conversion of the Visigoths.md",
+                "file": "code/astro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conversion of the Visigoths"
+              "title": "astro"
             }
           }
         ],
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "res working.md",
+                "file": "code/astro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for res working"
+              "title": "Backlinks for astro"
             }
           },
           {
@@ -144,8 +144,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,6 +165,9 @@
   },
   "active": "4f0225c7724f2333",
   "lastOpenFiles": [
+    "code/code-toc.md",
+    "code/colab tips.md",
+    "conversion of the Visigoths.md",
     "res working.md",
     "code/js/Promise-api.md",
     "code/js/Promise Tips.md",
@@ -194,14 +196,11 @@
     "Pasted image 20240406015430.png",
     "Pasted image 20240406015402.png",
     "202305310228 Best Medieval History books.md",
-    "code/code-toc.md",
     "code/git/git cheatsheet.md",
     "code/git/git status.md",
     "code/git/Git Tips.md",
     "llm jailbreaks.md",
     "history/current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
-    "King Leovigild.md",
-    "README.md",
-    "Sueves.md"
+    "King Leovigild.md"
   ]
 }
