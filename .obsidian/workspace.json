@@ -8,53 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fe8e42137819a81",
+            "id": "c9631689fe8c2fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random/Fascism Quotes.md",
+                "file": "res working.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f11842381ce3969",
+            "id": "86302cfe32e09c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random/Fascism Quotes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "631ecd7b54211702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "random/Fascism Quotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f036dfa70ec4e43",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random/Fascism Quotes.md",
+                "file": "res working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,16 +135,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "2f036dfa70ec4e43",
+  "active": "c9631689fe8c2fe2",
   "lastOpenFiles": [
-    "a - template.md",
+    "conflict-files-obsidian-git.md",
+    "res working.md",
     "random/Fascism Quotes.md",
+    "Untitled.canvas",
+    "202410021502.md",
+    "a - template.md",
     "Pasted image 20240406020505.png",
     "Pasted image 20240406020939.png",
     "Sueves.md",
-    "res working.md",
     "book-resources.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240406014258.png",
     "Pasted image 20240406021017.png",
     "history/Best book for daily life in the Middle Ages.md",
@@ -193,8 +172,6 @@
     "FF Classified.md",
     "dalle-2 unbundling.md",
     "conversion of the Visigoths.md",
-    "Alaric.md",
-    "games/zelda likes.md",
-    "history/Crusades/Children's Crusade/Was the Children's Crusade really Children.md"
+    "Alaric.md"
   ]
 }

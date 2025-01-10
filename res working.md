@@ -1,13 +1,11 @@
-
 ## David Russell 
-davidbrussell@gmail.com - 352-262-0013 - San Mateo, Ca - russdb.github.io  
+davidbrussell@gmail.com - 352-262-0013 - Seattle, WA - russdb.github.io  
 
 <hr>  
 
 ### Experience
 _FULL STACK WEB DEVELOPER_ - (2015 - Current) - United Parcel Service, Remote  
-* Works with key business users to identify business needs worth millions of dollars in revenue and process improvements
-* Design, develop, and maintain local UPS intranet sites using MSSQL, TSQL, JS, CSS, and Coldfusion
+* Worked with key business users to identify a bug that saved the business millions of dollars in revenue and process improvements
 * Over 7 years of experience as SQL Server/Business Intelligence developer in database designing, modeling, and reporting using SQL Server (2000 - 2021)
 * Experience in requirement analysis, designing, coding, testing, and evolution phases in a software development lifecycle
 * Expert in performing T-SQL DDL/DML/DCL commands using SQL Server Management Studio (SSMS)
