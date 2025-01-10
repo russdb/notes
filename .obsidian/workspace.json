@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f036dfa70ec4e43",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "631ecd7b54211702",
+  "active": "2f036dfa70ec4e43",
   "lastOpenFiles": [
     "a - template.md",
     "random/Fascism Quotes.md",
