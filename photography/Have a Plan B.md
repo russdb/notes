@@ -1,0 +1,6 @@
+tags: #photography #tips
+url: https://fstoppers.com/education/5-things-professional-photographers-beginners-dont-719969
+
+Professionals operate on the principle that two is one and one is none. If something is important enough to need, it's important enough to have a backup. This means carrying a second camera body even if it's an older or less capable unit. It means having four times as many batteries as they think they'll need. It means shooting with cameras that write simultaneously to dual card slots so that every single image exists in two physical locations from the moment of capture. It means knowing exactly what they will do if it starts raining, if the venue changes the rules, or if a key piece of equipment stops working.
+
+This redundancy extends beyond physical gear. Professionals have backup plans for every meaningful variable. They know where they'll move the shoot if the primary location becomes unavailable. They've already identified alternative backgrounds if the planned setup doesn't work. They carry [gaffer tape](https://www.bhphotovideo.com/c/search?q=gaffer+tape&BI=6857&KBID=7410&KWID=719969-14596) and clamps and zip ties and all manner of problem-solving tools because they've been in situations where such things made the difference between delivering and failing.

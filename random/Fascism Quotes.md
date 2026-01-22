@@ -7,7 +7,7 @@
 - Jean-Paul Sartre
 
 
-> Fascism is a form of political behavior marked by obsessive preoccupation with community decline, humiliation, or victimhood, and by compensatory cult of unity, energy, and purity in which a mass based party of committed nationalist militants, working in an uneasy but effective collaboration with traditional elites, abandons democratic liberties and persues with redemptive violence and without ethical or legal restraints, goals of eternal cleansing and external expansion. 
+> Fascism is a form of political behavior marked by obsessive preoccupation with community decline, humiliation, or victimhood, and by compensatory cult of unity, energy, and purity in which a mass based party of committed nationalist militants, working in an uneasy but effective collaboration with traditional elites,   abandons democratic liberties and pursues with redemptive violence and without ethical or legal restraints, goals of eternal cleansing and external expansion. 
 
 - Robert Paxton, *anatomy of fascism*.  
 

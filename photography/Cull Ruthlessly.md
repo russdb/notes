@@ -1,0 +1,4 @@
+tags: #photography #tips
+url: https://fstoppers.com/education/5-things-professional-photographers-beginners-dont-719969
+
+The professional operates on what might be called the one percent rule. They shoot a thousand frames and deliver fifty. Of those fifty, perhaps ten make it to their website. Of those ten, maybe one goes into the portfolio they show prospective clients. This aggressive culling isn't about being wasteful with shutter actuations; it's about understanding a fundamental truth of how audiences perceive photographic work. Your portfolio is judged by your weakest image, not your strongest. A collection of ten excellent photographs will always make a better impression than a collection of ten excellent photographs diluted by fifteen mediocre ones. The viewer's brain doesn't average your work; it anchors on the lowest point.

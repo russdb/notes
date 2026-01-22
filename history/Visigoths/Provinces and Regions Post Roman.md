@@ -7,7 +7,7 @@ Jamie Wood University ofLincoln, UK
 
 ### The Provinces and Regions of the Post Roman Spain  
 
-Power waned quickly after 'barbarians' moved into spain in 406 AD. Rome used visigoths (remnants of [[alaric]])  
+Power waned quickly after 'barbarians' moved into spain in 406 AD. Rome used visigoths (remnants of [[Alaric]])  
 
 
 The empire seems to have maintained effective control in [[Tarraconensis]] and parts of [[Carthaginiensis]] until around 460.  

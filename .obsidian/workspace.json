@@ -4,42 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "0560364a98c58bae",
+        "id": "5caf922e9e9bc8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "0f3062965b1c681e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "4f0225c7724f2333",
+            "id": "61eb573238b55034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random/Fascism Quotes.md",
+                "file": "photography/Obsess Over the Background.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fascism Quotes"
+              "title": "Obsess Over the Background"
+            }
+          },
+          {
+            "id": "afaba8352fd398ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "photography/Make Light.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Make Light"
+            }
+          },
+          {
+            "id": "12f632f4085c2e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "photography/Cull Ruthlessly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cull Ruthlessly"
+            }
+          },
+          {
+            "id": "2a4d82f454d2f4da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "photography/Have a Plan B.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Have a Plan B"
+            }
+          },
+          {
+            "id": "3ac8a4f36b42c92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "photography/Cull Ruthlessly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cull Ruthlessly"
+            }
+          },
+          {
+            "id": "7c0d255f08db4ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "photography/Obsess Over the Background.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsess Over the Background"
+            }
+          },
+          {
+            "id": "ec23356cba8eed50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "img/Set up for old lenses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set up for old lenses"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -58,7 +125,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -70,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tags",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "25c0d9a6508d164f",
@@ -121,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random/Fascism Quotes.md",
+                "file": "AAST Raw Notes Week  7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fascism Quotes"
+              "title": "Backlinks for AAST Raw Notes Week  7"
             }
           },
           {
@@ -140,67 +208,79 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
+      "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "4f0225c7724f2333",
+  "active": "ec23356cba8eed50",
   "lastOpenFiles": [
-    "res working.md",
-    "code/astro.md",
-    "conflict-files-obsidian-git.md",
-    "code/code-toc.md",
-    "code/colab tips.md",
-    "conversion of the Visigoths.md",
-    "code/js/Promise-api.md",
-    "code/js/Promise Tips.md",
-    "code/js/Promise Finally.md",
-    "code/js/Promise Basics.md",
-    "code/js/basic destructuring.md",
-    "code/js/Destructure inside a loop.md",
-    "code/js/Destructure nested object properties.md",
-    "code/js/Promise .then & .catch.md",
-    "Untitled.canvas",
-    "202410021502.md",
-    "random/Fascism Quotes.md",
-    "Pasted image 20240406014258.png",
-    "Pasted image 20240406021017.png",
-    "Pasted image 20240406020939.png",
-    "history/Best book for daily life in the Middle Ages.md",
+    "photography/Adobe Best Workflow.md",
+    "img/Set up for old lenses.md",
+    "photography/Shoot With the Edit in Mind.md",
+    "photography/Obsess Over the Background.md",
+    "photography/Cull Ruthlessly.md",
+    "photography",
+    "photography/Have a Plan B.md",
+    "photography/Make Light.md",
+    "llm/prompts/System 2 thinking.md",
+    "llm/prompts/System 2 thinking Expanded.md",
+    "llm/prompts/PROMPT ENGINEER v2026.2.md",
+    "FF Payouts.md",
+    "history/Anglo-Saxon - Did invasion cause migration.md",
+    "llm/devops for fake town.md",
+    "history/Anglo-Saxon - Invasion or Migration.md",
+    "history/Anglo-Saxon - Invasion or Migration 2.md",
+    "history/Anglo-Saxon - Invasion or Migration 3.md",
     "history/on brutal of daily life in the middle ages in terms of random violence.md",
-    "history/life ~ 70,000 years ago.md",
-    "Pasted image 20240406020743.png",
-    "Pasted image 20240406020713.png",
-    "Pasted image 20240406020624.png",
-    "Pasted image 20240406020542.png",
-    "Pasted image 20240406020505.png",
-    "Pasted image 20240406015430.png",
-    "Pasted image 20240406015402.png",
-    "202305310228 Best Medieval History books.md",
-    "code/git/git cheatsheet.md",
-    "code/git/git status.md",
-    "code/git/Git Tips.md",
-    "llm jailbreaks.md",
+    "history/Crusades/Children's Crusade/Was the Children's Crusade really Children.md",
+    "history/Sistine Chapel/Genuis of Michaelangelo quick notes.md",
+    "history/Sistine Chapel/SIstine Chapel Fresco Process.md",
+    "history/Sistine Chapel/Sisinte Chapel Cartoons.md",
+    "history/Sistine Chapel/Pasted image 20211104213005.png",
+    "history/202305310228 Best Medieval History books.md",
+    "history/Alaric.md",
+    "history/Best Medieval History books.md",
     "history/current Academic consensus - Anglo-Saxon Invasion, Migration or not.md",
-    "King Leovigild.md"
+    "history/King Leovigild.md",
+    "code/Advanced Application Security Training",
+    "Untitled 1.base",
+    "Untitled.base",
+    "img/{7C075057-474F-48A3-8EE5-676DD33D1EA9}.png",
+    "img/{797914C8-A74C-4896-A9A5-8226451D3253}.png",
+    "img/{B62D9322-1A87-4A03-91FB-C655986FF83C}.png",
+    "img/{EE7EC9A6-0084-4088-9552-AC37EF3C5B94}.png",
+    "img/{8CE764D9-7B0F-4748-B941-555C2E2B525E}.png",
+    "img/{F7C31EFB-8D40-4760-831B-2631E2E13BF3}.png",
+    "img/{04B10114-0DF4-4354-BE1F-07651F446FA1}.png",
+    "img/{DCC04F6C-411A-4589-8DF8-0449DC0AB49B}.png",
+    "img/{1B2CE34A-63FB-4B90-94DF-4BB33A5A06FF}.png",
+    "templates",
+    "llm/prompts",
+    "resume",
+    "llm/jail breaks/older",
+    "llm/jail breaks",
+    "llm",
+    "Untitled.canvas"
   ]
 }
