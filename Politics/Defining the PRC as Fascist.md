@@ -1,0 +1,37 @@
+**tags:** #China, #PRC, #Fascism, #Authoritarianism, #Economics
+
+**url:** [https://www.reddit.com/r/linguistics/comments/a883a4/lost_in_translation_how_language_is_used_to/ec983u4/](https://www.google.com/search?q=https://www.reddit.com/r/linguistics/comments/a883a4/lost_in_translation_how_language_is_used_to/ec983u4/)
+
+Fascism is broadly classified as "radical authoritarian right-wing utra-nationalism" but that description isn't really accurate. Only the "radical ultra-nationalism" part is really intrinsic to Fascism and I'm sure you don't need me to explain why that accurately describes the current PRC. Fascism is a complicated thing to define, because the ideology is fundamentally derived from a national narrative or mythos, and every nation is going to be different in this regard. However, here are some traits specific to Fascism, all of which are thoroughly satisfied by the PRC.
+
+Third-positionism. Fascists in practice are neither liberal, conservative, communist, or capitalist. Economically, they use whatever is advantageous to making the country more powerful. Socially, they generally seek to reconstruct societal values in their entirely based on a mythologically derived "ideal state", and thus do not fit on the traditional political spectrum.
+
+```
+The PRC's economy is heavily capitalistic (Unions are nonexistent) yet the most important corporations are still owned by the state and it is impossible to do business if the government doesn't want you to. This ensures that all resources are under the full control of the government, and thus can be used in the interests of the nation. Classic fascist economics.
+The PRC is anti-racist, anti-sexist, anti-religious, traditionally far-left ideas. However, at the same time there are laws that mandate children to take care of their parents, as is Chinese tradition. They also take great pains to propagate and glorify traditional cultural practices. The "New China" narrative mandates that they preserve and highlight the "good" parts of traditional culture while replacing the "bad" parts which are incompatible with strengthening the country in the modern world.
+```
+
+Obsession with strength and humilation. Fascists see the current nation as weak and victimized by the international community. This is narratively attributed to some previous era of defeat in which the nation was humiliated and subjugated. Fascists fundamentally seek strengthen the nation in order to regain what they perceive as its "rightful place" in the world. Irredentism is often a major factor in this.
+
+```
+This one should be pretty obvious if you've been paying attention to China's foreign policy and its interactions with the current world hegemons.
+The citizenry of the PRC is constantly reminded of the so-called "Century of Humiliation" as justification for political decisions.
+The PRC presents the narrative that the current country as incomplete, with every chunk of missing territory being a point of shame for every Chinese citizen (there's even a song about it). Hence, we have the shit show that is the South China Sea territorial disputes.
+Although the PRC does not treat the former colonial powers that wrecked China as outright enemies, they often intentionally refuse to cooperate out of spite on international issues and the political failings of the former colonial nations are broadcast on state news with an air of schadenfreude.
+```
+
+Disdain for degeneracy. While the nation's fall from glory may be attributed to foreign powers, Fascists also blame the people of the nation for why the nation hasn't picked itself back up yet. Fascists see the people as having similarly fallen in decline, due to a so-called "culture of degeneracy", often synonymous with the values of the current world hegemony and foreign influence in general. Fascists seek to instill what they perceive to be a "pure" and "strong" culture, derived from an anachronistic mix ancient traditions (pick the "best parts" of each era) with an added dose of ordinary ultra-nationalism. It is believed that this new culture will not only bring the nation to the height of its former achievements, but also surpass them, hence why Fascist culture is not totally conservative. Cultural works that do not fit into this narrative however, are treated with disdain along with its creator.
+
+```
+The majority of artistic and cultural works which are censored in the PRC are not outright political criticisms. Rather, they are works which contradict the previously mentioned "New China" narrative. Creating a work which celebrates the influence of the colonial powers, questions the necessarity of irredentism, or claims "Western" culture as superior to "Chinese" for example, won't get you landed in a gulag but you'll never be able to distribute it and it might get you publicly branded as a decadent traitor. The reason for the PRC's wish-washy stance on homosexual marriage for example, is basically because they haven't decided whether it is degenerate or not. While modern "gay culture" is indubitably Western and degenerate, the Ancient Chinese were also pretty gay.
+The appropriation of Confucianism for nationalistic purposes by the PRC is also integral in the creation of the "New China" culture. The enduring wisdom of Confucius is often used as a counterpoint to the degenerate culture of the Western world and justification for why it is inevitable that China will surpass the West.
+```
+
+Revolutionary populism. Fascism is revolutionary. According to the narrative, they are liberating the nation from the yoke placed on it by foreign powers and overthrowing the decadent societal structure that infected the downtrodden nation. More importantly, they do this all "for the people". Fascists place the responsibility of restoring the nation on every citizen, as the glory of the nation is synonymous with the glory of the people. Individual citizens are encouraged to dutifully produce for the nation and uphold the revolution by stamping out degenerate culture on a local scale.
+
+```
+In order to counteract the aftermath of the one child policy, the government is encouraging companies to provide massive benefits for women to have children. It is propagated that the absolute best thing the female Chinese citizen can do for the nation is literally (re)producing. Very classic Fascism.
+All aspects of propaganda directly associate the individual PRC citizen with the "Chinese nation". Hence why you got angry mobs smashing Japanese cars during the Senkaku Islands dispute. While the government doesn't officially advocate as such, the nationalist fervor created by the propaganda results in mass boycotts of products from whichever country the PRC currently has disputes with.
+The rise of "angry youths", who act basically exactly the same as Mao's Red Guards, but instead of trying to ruin peoples' lives for counter-revolutionary activities, they do so for degeneracy and perceived betrayal of the "Chinese nation". Their actions range from destroying "heretical" internet communities by reporting them to the authorities for (baseless) illegal activities to doxxing and protests and petitions to remove an "undesirable" personality from society.
+The relegation of power to Xi is claimed to be "democratic", as Xi is devoted to strengthening the nation, which is equivalent to the people, and thus all his actions are in accordance with the will of the people
+```

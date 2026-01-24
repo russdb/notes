@@ -1,0 +1,18 @@
+While the almost peaceful "convivencia" (co-existence) among different religious communities in medieval Iberia, as presented in one of the classics on medieval Iberia, [Menocal's _The Ornament of the World_ (linked to goodreads.com)](https://www.goodreads.com/book/show/292846.The_Ornament_of_the_World), perhaps goes too far, the religious aspect of so-called Reconquista, especially in popular history, is often exaggerated (Do you know that the word (_Reconquista_) itself was not exactly contemporary one?)
+
+Reconquista often took a form of the re-settlement/ allocation of the population in the frontier countryside. While the new Christian militias also sometimes played an important role in the conquest, new Christian landlord (especially such as large ones of religious institution like the military order, though it might also be relevant to the transmission of archival sources) often preferred pragmatism, and allowed some Muslim peasants called _mudejar_ to keep on cultivating their former land under the new landlordship. The almost complete continuity of the politico-social order on the local level beyond the conquest by Christian powers were never guaranteed, however. It seems not to be so easy to generalized the situation - in spite of the subjugation treaty between the conqueror and the vanquished, the land/ property ownership might have sometimes been transferred by not so totally peaceful means (the document of granting pieces of land to new Christian settlers often does not specify how the new landlord got these lands in their hands).
+
+Catlos summarizes the problem of continuity in Reconquista as following, with emphasis on regional divergence even in Medieval Iberian Peninsula:
+
+> "What survived, then, were socially and economically diverse autonomous communities, living largely according to their pre-conquest organization under an often largely abstract Christian jurisdiction, alongside a small but steady stream of non-Muslim settlers who were establishing themselves in these newly conquered territories (Catlos 2014: 42).
+
+On the other hand, a few Muslim aristocrats are also known to have concluded a subjugation treaty with the Christian ruler and became his "vassals" in the process of the conquest. How they survived (or failed in surviving) the new ruler with different religion has also recently apparently attracted some attention from researchers.
+
+References:
+
+- Catlos, Brian. _Muslims of Medieval Latin Christendom, c. 1050-1614_. Cambridge: Cambridge UP, 2014.
+- (Open Access): García-Sanjuán, Alejandro. "Rejecting al-Andalus, exalting the _Reconquista_: historical memory in contemporary Spain." _Journal of Medieval Iberian Studies_ 10:1 (2018): 127-145. DOI: 10.1080/17546559.2016.1268263
+- KURODA, Yuga. "Reconquista and Muslim Vassals: Religion, Politics, and Violence on the Medieval Iberian Peninsula." In: _Christianity and Violence in the Middle Ages and Early Modern Period: Perspectives from Europe and Japan_, ed. Fernanda Alfieri & Takashi Jinno, pp. 127-142. Berlin, Boston: De Gruyter Oldenbourg, 2021. [https://doi.org/10.1515/9783110643978-009](https://doi.org/10.1515/9783110643978-009)
+- Jensen, Kurt Villads. _Crusading on the Edges of Europe: Denmark and Portugal c. 1000-c. 1250_. London: Routledge, 2017.  
+    
+- Torro, Josep. "Al-Tabisi and His descendants: The Failed Integration of a Military Andalsi Family into the Christian Society of the Kingdom of Valencia (1238-83)." In: _Convivencia and Medieval Spain: Essays in Honor of Thomas F. Glick_, ed. Mark T. Abate, pp. 193-227. Basingstoke: Palgrave, 2019.

@@ -4,7 +4,4 @@ date: {{date}}
 #tags  
 
 { sources here }
-
-### Title
-
 #### subtitles
