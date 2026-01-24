@@ -1,0 +1,44 @@
+url: https://old.reddit.com/r/AskHistorians/comments/lhouro/during_the_third_crusade_both_conrad_of/gn0pbh5/
+tags: #history #crusades #3rd_Crusade #saladin #conrad_of_montferrat #guy_of_lusignan #jerusalem
+
+In hindsight it seems like the ideal crusade would be Christian forces united together to fight a common Muslim enemy - but this ideal fell apart during the Third Crusade once everyone arrived and got involved in the local political situation. (This was also true of the Second Crusade; we could probably argue that it was the case for every crusade.) Sometimes Christian crusaders quarrelled with each other and found it useful to negotiate with the Muslims in order to advance their own interests. The enemy of your enemy is your friend.
+
+The basic background is, well…kind not that basic at all actually, and goes back to the decades before the Third Crusade. King Amalric of Jerusalem was married to Agnes of Courtenay and had two children, Baldwin and Sibylla. But their marriage was annulled and he married the Byzantine princess Maria Komnene, and had another daughter, Isabella.
+
+Amalric died in 1174 and was succeeded by his son, now Baldwin IV, but he was a leper and had no children of his own. He died in 1185 and was succeeded by his nephew, Baldwin V, who was the son of Sibylla and her first husband William of Montferrat. William had died before Baldwin V was even born, and now Sibylla was married to Guy of Lusignan. When Baldwin V died shortly thereafter in 1186, Sibylla became queen. Supposedly, the other nobles forced her to divorce Guy first; she agreed as long as she could choose her next husband. As soon as she was crowned king, she married Guy again and crowned him as king. It sounds a bit preposterous but that’s how the story was told in the 13th century, apparently!
+
+Guy’s most notable achievement was losing the Battle of Hattin and being taken prisoner by Saladin in July of 1187. Saladin recaptured Jerusalem and virtually every other city in the kingdom over the next year. The only city he was unable to take was Tyre - which was defended thanks to the fortuitous arrival of William of Montferrat’s brother Conrad from Europe. 
+
+So, who was the true king (or queen) of Jerusalem now that almost all of it had been conquered? Sibylla and Guy surely, but Conrad wouldn’t let them rule from Tyre. Guy collected whatever remaining forces he could and laid siege to Acre, but during the siege, Sibylla died of an illness that plagued the crusader camp. Guy now had no legal claim to the kingdom. He was just some guy. The kingdom passed to Sibylla’s next closest relative, her half-sister Isabella.
+
+Isabella was already married to Humphrey IV, Lord of Toron, a relatively minor territory in the Kingdom of Jerusalem, but for whatever reason he was considered unacceptable as a king-consort. At least some crusaders thought this was the perfect opportunity to give Conrad a claim to the throne - Isabella and Humphrey’s marriage could be dissolved and Conrad could marry Isabella. The full force of the Third Crusade hadn’t arrived yet but some were starting to trickle in, including the Archbishop of Canterbury and the Archbishop of Pisa. The Archbishop of Canterbury thought this was completely absurd and refused to participate, but the Archbishop of Pisa was happy to go along with it. In November 1190 the marriage was annulled, on the technical grounds that Isabella and Humphrey had been 11 and 13 when they got married and therefore too young to consent. Isabella then married Conrad. Easy peasy! Now Conrad was king.
+
+When Philip II of France arrived at Acre in 1191 he thought, sure, this makes sense, and allied with Conrad’s faction. Richard I of England, of course, allied with Guy when he arrived a few weeks later - not simply because Richard and Philip already hated each other and would have taken opposite sides anyway, but also because Guy’s family in Lusignan were vassals of Richard, in his capacity as Count of Poitou in France. In June Acre was captured, but Conrad was not allowed to enter so he returned to Tyre. Meanwhile Philip and Richard couldn't get along, and Philip gave up and went home in September. The local crusader nobility and the remaining French crusaders continued to support Conrad though.
+
+At this point Both Saladin and Conrad seem to have realized the possibility of an alliance against Richard. Saladin suggested that Conrad retake Acre and hand it back to the Muslims, in return for Sidon and Beirut, which Conrad could then rule undisturbed. But Saladin was playing both sides and negotiating for peace with Richard as well. Richard knew all about this, it wasn't a secret at all. 
+
+In April 1192, Richard held a council and everyone agreed that Richard should recognize Conrad as the new king. Presumably this was just so Richard could claim he had no choice, but really, Richard probably knew he couldn’t stay forever. He knew that Conrad was much stronger than Guy and no one would accept Guy’s claim once Richard was gone. In compensation, Guy received Cyprus, which Richard had sort of accidentally conquered on his way to Acre in 1190. 
+
+In Saladin’s eyes this also meant that if he made a peace treaty with Richard, Conrad would be the one left in charge. Saladin could negotiate with him separately as a way of saying, see, I knew you would be king all along. Maybe Conrad would be more amenable to Saladin afterwards.
+
+Only a few days later on April 28, Conrad, who was still in Tyre, was murdered by two Assassins. They claimed Richard had sent them, and some people of course believed them. Isabella (who was pregnant) was then hastily remarried for a third time to Count Henry II of Champagne, Richard’s nephew…so it's possible that Richard didn’t want either Guy or Conrad as king, he wanted one of his own close relatives. Among the Muslims it was also rumoured that Saladin had sent the Assassins to kill both Richard and Conrad, but they only managed to get Conrad. But I don’t know…it seems weird (to me anyway) that either of them would have Conrad assassinated after apparently agreeing to a truce where Conrad would be king. I’ve always thought the Assassins acted on their own, just to add a bit of chaos. No one really knows for sure though.
+
+Meanwhile, Guy had been compensated with the island of Cyprus, which Richard had sort of accidentally conquered on his way to the Holy Land in 1190. Guy never seems to have negotiated with Saladin to support his claim as King of Jerusalem - Guy was completely overshadowed by Richard and in no position to negotiate anything on his own, and Saladin probably wouldn't have taken him very seriously if he had tried. But the Muslim chroniclers do mention that he was mad about being shuffled off to Cyprus and might have tried to ally with Saladin against Richard in the aftermath of Conrad's murder. 
+
+If Guy was really negotiating with Saladin, their plans came to nothing. In the end, Saladin actually turned out *not* to be fully intent on destroying the Kingdom of Jerusalem. He and Richard were basically at a stalemate and both of their armies were eager to return home. He was happy to leave them with their little strip of land along the coast. Christians could have access to the churches in Jerusalem but Saladin retained control of the city. Richard and Saladin agreed to this truce and Richard and his army returned home.
+
+Incidentally, on his way back to England, Richard ended up being arrested and imprisoned for Conrad's murder by the Holy Roman Emperor, a relative of Conrad. As for Saladin, he died the next year in 1193, and Guy died on Cyprus a year after that in 1194. King Henry died too, after accidentally falling out of a window in 1197. Isabella, widowed again, married her fourth husband - Guy's brother Aimery. So ultimately the Lusignans did successfully reclaim the title!
+
+Sources:
+
+Malcolm C. Lyons, and D. E. P. Jackson, *Saladin**: The Politics of the Holy War* (Cambridge University Press, 1982)
+
+John Gillingham, *Richard I* (Yale University Press, 1999)
+
+David Jacoby, "Conrad, Marquis of Montferrat, and the Kingdom of Jerusalem (1187-1192)" in *Dai feudi monferrini e diJl Piemonte ai nuovi mondi oltre gli Oceani*, ed. L. Balletto (Alessandria, 1993)
+
+The primary Muslim and Christian sources for Conrad's actions are:
+
+Baha' al-Din ibn Shaddad, *The Rare and Excellent History of* *Saladin**, al-Nawadir al-Sultaniyya wa'l-Mahasin al-Yusufiyya*, trans. D. S. Richards (Ashgate, 2002)
+
+*The Chronicle of the Third Crusade: The Itinerarium Peregrinorum et Gesta Regis Ricardi*, trans. Helen J. Nicholson (Ashgate, 1997)
