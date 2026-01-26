@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm/prompts/wikipedia sign of ai writing.md",
+                "file": "llm/prompts/Prompting  Tips - Roles Dont Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wikipedia sign of ai writing"
+              "title": "Prompting  Tips - Roles Dont Work"
             }
           }
         ],
@@ -165,8 +165,9 @@
   },
   "active": "a32446bbd25ac07e",
   "lastOpenFiles": [
-    "llm/OS-that-runs-on-AI.md",
     "llm/prompts/wikipedia sign of ai writing.md",
+    "llm/prompts/Prompting  Tips - Roles Dont Work.md",
+    "llm/OS-that-runs-on-AI.md",
     "llm/devops for fake town.md",
     "llm/Avoiding Entropy.md",
     "llm/dalle-2 unbundling.md",
@@ -191,7 +192,6 @@
     "Politics/Trump Sabotaged Response.md",
     "Politics/COVID-19 Herd Immunity.md",
     "Politics/Red State Handouts.md",
-    "random/Termux Linux Setup.md",
     "Politics",
     "games/Untitled",
     "Untitled",
