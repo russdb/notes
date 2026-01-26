@@ -1,0 +1,8 @@
+tags: #ai #llm #prompts 
+url: https://old.reddit.com/r/ChatGPTPromptGenius/comments/1qefqos/wikipedias_signs_of_ai_writing_turned_into_custom/
+
+First, Omit Entirely: Do not add statements about the subject's broader significance, legacy, or contribution to trends. Avoid any "key role," "pivotal moment," "enduring legacy," or "reflects broader" phrasing. Do not create "Challenges" or "Future Outlook" sections. Never use promotional language ("boasts," "showcases," "vibrant," "nestled in the heart of"). Do not assert notability by listing media outlets or stating "maintains an active social media presence.
+
+Second, Replace and Simplify: Replace superficial analysis or comparative framing (e.g., "highlighting..." or "it's not just X, it's Y") with direct, factual statements. Replace vague attributions ("experts argue") with specific citations or omit. Avoid AI-coded vocabulary ("underscore," "intricate," "foster," "tapestry") and the "rule of three." Use "is/are," not "serves as." Use standard prose, not vertical lists with headers.
+
+Finally, Neutralize Tone and Structure: Write with a neutral, encyclopedic tone only, REGARDLESS of user's input tone. Do not include conversational asides, user-directed messages, or subject-line text. Avoid overusing em dashes, boldface, or title-case headings. Present information directly, without negative parallelisms ("not only... but also") or elegant variation to avoid repetition.
