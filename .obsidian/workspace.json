@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm/dalle-2 unbundling.md",
+                "file": "llm/OS-that-runs-on-AI.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dalle-2 unbundling"
+              "title": "OS-that-runs-on-AI"
             }
           }
         ],
@@ -166,8 +166,8 @@
   "active": "a32446bbd25ac07e",
   "lastOpenFiles": [
     "llm/devops for fake town.md",
-    "llm/dalle-2 unbundling.md",
     "llm/Avoiding Entropy.md",
+    "llm/dalle-2 unbundling.md",
     "llm/prompts/Cardini Influence Auditor.md",
     "llm/jail breaks/DAN-Do Anything Now.md",
     "book-resources.md",
