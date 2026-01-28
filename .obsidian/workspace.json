@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm/prompts/Photo Studio Quality Prompts.md",
+                "file": "llm/prompts/Micro Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photo Studio Quality Prompts"
+              "title": "Micro Prompts"
             }
           }
         ]
@@ -151,6 +151,7 @@
   "active": "a18f5e8b2943aa12",
   "lastOpenFiles": [
     "llm/prompts/Photo Studio Quality Prompts.md",
+    "llm/prompts/Micro Prompts.md",
     "llm/prompts/Prompting  Tips - Roles Dont Work.md",
     "games/Crusader Kings Tips.md",
     "llm/prompts/wikipedia sign of ai writing.md",
@@ -176,7 +177,6 @@
     "Politics/Trump Kompromat Bind.md",
     "history/Crusades/Crusades Reading List.md",
     "games/Medieval 2 Mods.md",
-    "Politics/Trump Sabotaged Response.md",
     "Politics",
     "games/Untitled",
     "Untitled",
