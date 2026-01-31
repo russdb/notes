@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm/Setup Flux Dev (FP8).md",
+                "file": "llm/prompts/Photo Studio Quality Prompts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup Flux Dev (FP8)"
+              "title": "Photo Studio Quality Prompts"
             }
           }
         ]
@@ -150,8 +150,9 @@
   },
   "active": "a18f5e8b2943aa12",
   "lastOpenFiles": [
-    "llm/prompts/Photo Studio Quality Prompts.md",
+    "llm/prompts/3 Different thinking prompts.md",
     "llm/Setup Flux Dev (FP8).md",
+    "llm/prompts/Photo Studio Quality Prompts.md",
     "llm/prompts/Micro Prompts.md",
     "llm/prompts/Prompting  Tips - Roles Dont Work.md",
     "games/Crusader Kings Tips.md",
@@ -171,7 +172,6 @@
     "history/Fuedalism/friendship, the arbitrator in conflict solutions, or theocratic rulership.md",
     "history/nature and existence of fuedalism.md",
     "history/Fuedalism",
-    "llm/prompts/3 Different thinking prompts.md",
     "Politics/Defining the PRC as Fascist.md",
     "Politics/Defining Fascism.md",
     "Politics/Trump Covid Failures.md",
