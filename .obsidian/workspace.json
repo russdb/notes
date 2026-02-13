@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
-          },
-          {
-            "id": "12fa10641824a8a5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +148,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "12fa10641824a8a5",
+  "active": "a18f5e8b2943aa12",
   "lastOpenFiles": [
     "llm/prompts/Photo Studio Quality Prompts.md",
     "llm/Untitled.md",
