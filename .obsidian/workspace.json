@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm/Untitled.md",
+                "file": "llm/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -150,8 +150,9 @@
   },
   "active": "a18f5e8b2943aa12",
   "lastOpenFiles": [
-    "llm/prompts/Photo Studio Quality Prompts.md",
     "llm/Untitled.md",
+    "llm/Untitled 1.md",
+    "llm/prompts/Photo Studio Quality Prompts.md",
     "llm/prompts/3 Different thinking prompts.md",
     "llm/Setup Flux Dev (FP8).md",
     "llm/prompts/Micro Prompts.md",
@@ -176,7 +177,6 @@
     "Politics/Defining the PRC as Fascist.md",
     "Politics/Defining Fascism.md",
     "Politics/Trump Covid Failures.md",
-    "Politics/Trump Kompromat Bind.md",
     "Politics",
     "games/Untitled",
     "Untitled",
