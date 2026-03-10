@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm/What is the VAE.md",
+                "file": "photography/Have a Plan B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is the VAE"
+              "title": "Have a Plan B"
             }
           }
         ]
@@ -150,11 +150,15 @@
   },
   "active": "a18f5e8b2943aa12",
   "lastOpenFiles": [
+    "book-resources.md",
+    "FF Classified.md",
+    "FF Payouts.md",
+    "toc links.md",
     "llm/Untitled.md",
     "llm/Setup Flux Dev (FP8).md",
-    "llm/OS-that-runs-on-AI.md",
     "llm/devops for fake town.md",
     "llm/What is the VAE.md",
+    "llm/OS-that-runs-on-AI.md",
     "llm/prompts/Photo Studio Quality Prompts.md",
     "llm/prompts/3 Different thinking prompts.md",
     "llm/prompts/Micro Prompts.md",
@@ -165,7 +169,6 @@
     "llm/dalle-2 unbundling.md",
     "llm/prompts/Cardini Influence Auditor.md",
     "llm/jail breaks/DAN-Do Anything Now.md",
-    "book-resources.md",
     "history/life ~ 70,000 years ago.md",
     "history/Ancient African Empires.md",
     "history/Fuedalism/Fuedalism AMA.md",
@@ -174,9 +177,6 @@
     "history/Fuedalism/friendship, the arbitrator in conflict solutions, or theocratic rulership.md",
     "history/nature and existence of fuedalism.md",
     "history/Fuedalism",
-    "Politics/Defining the PRC as Fascist.md",
-    "Politics/Defining Fascism.md",
-    "Politics/Trump Covid Failures.md",
     "Politics",
     "games/Untitled",
     "Untitled",
