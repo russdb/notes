@@ -25,12 +25,14 @@
             "id": "a39ee47e7ab78981",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "resume/res working.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "res working"
             }
           }
         ],
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAST Raw Notes Week  7.md",
+                "file": "resume/res working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AAST Raw Notes Week  7"
+              "title": "Backlinks for res working"
             }
           },
           {
@@ -145,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,6 +166,8 @@
   },
   "active": "a39ee47e7ab78981",
   "lastOpenFiles": [
+    "resume/Untitled.md",
+    "resume/res working.md",
     "book-resources.md",
     "FF Classified.md",
     "FF Payouts.md",
@@ -187,8 +192,6 @@
     "history/Fuedalism/Fuedalism AMA.md",
     "history/Fuedalism/Books on Fuedalism.md",
     "history/Crusades/framing the Reconquista.md",
-    "history/Fuedalism/friendship, the arbitrator in conflict solutions, or theocratic rulership.md",
-    "history/nature and existence of fuedalism.md",
     "history/Fuedalism",
     "Politics",
     "games/Untitled",
