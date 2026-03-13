@@ -1,0 +1,5 @@
+>I’ve seen people have the most luck with a step-by-step prompt that first asks the AI to analyze the job description for keywords, then compares it to the resume, then drafts bullet point suggestions, then rewrites the summary/cover letter. Breaking it into stages usually gets way better results than a single huge prompt.
+
+>If you want a shortcut, you can use Nova Search AI to run the same prompt across multiple models at once. That way you can compare how GPT-4, Claude, etc. tackle the resume/cover letter workflow and pick what’s best. The side-by-side view is pretty useful for this kind of prompt iteration.
+
+> A good prompt usually works best if you split the task instead of asking for everything at once. First have the model analyze the job description and extract key skills and ATS keywords, then compare that with your resume to find gaps, and only after that generate optimized resume bullets and a cover letter. This keeps the output more focused and accurate. Structured workflows like this tend to work better overall, which is similar to how tools like Traycer AI break tasks into clear planning and execution stages.
