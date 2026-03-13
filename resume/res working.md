@@ -19,7 +19,7 @@ _FULL STACK WEB DEVELOPER_ - (2015 - Current) - United Parcel Service, Remote
 _Front End:_ HTML5, CSS, Javascript, NodeJS, Coldfusion 
 _Back End:_ MSSQL, TSQL, SSIS, ETL, PL/SQL  
 *Cloud*: Azure, Openshift
-*CD/CD*: Azure Git & Pipelines, Jenkins, ArgoCD
+*CD/CD*: AzureDevOps & Pipelines, Jenkins, ArgoCD
 _Other:_ C#,  JSON, Bash, Grafana, SMC, Express, Axios, SSRS, Service Now, Hashicorp Vault 
 
 <hr> 
