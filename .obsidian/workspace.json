@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/Journey CL.md",
+                "file": "llm/prompts/Resume Optimization Suite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journey CL"
+              "title": "Resume Optimization Suite"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/Journey CL.md",
+                "file": "llm/prompts/Resume Optimization Suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Journey CL"
+              "title": "Backlinks for Resume Optimization Suite"
             }
           },
           {
@@ -151,9 +151,10 @@
   },
   "active": "a39ee47e7ab78981",
   "lastOpenFiles": [
+    "resume/Journey CL.md",
+    "llm/prompts/Resume Optimization Suite.md",
     "resume/Journey res.md",
     "resume/resume prompt tips.md",
-    "resume/Journey CL.md",
     "photography/Have a Plan B.md",
     "resume/res working.md",
     "resume/jobs",
@@ -177,7 +178,6 @@
     "llm/prompts/Cardini Influence Auditor.md",
     "llm/jail breaks/DAN-Do Anything Now.md",
     "history/life ~ 70,000 years ago.md",
-    "history/Ancient African Empires.md",
     "history/Fuedalism",
     "Politics",
     "games/Untitled",
