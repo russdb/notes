@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/res working.md",
+                "file": "resume/Journey CL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "res working"
+              "title": "Journey CL"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/res working.md",
+                "file": "resume/Journey CL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for res working"
+              "title": "Backlinks for Journey CL"
             }
           },
           {
@@ -166,10 +166,11 @@
   },
   "active": "a39ee47e7ab78981",
   "lastOpenFiles": [
+    "resume/Journey res.md",
+    "resume/Journey CL.md",
     "photography/Have a Plan B.md",
     "resume/res working.md",
     "resume/jobs",
-    "resume/Untitled.md",
     "book-resources.md",
     "FF Classified.md",
     "FF Payouts.md",
@@ -192,7 +193,6 @@
     "history/life ~ 70,000 years ago.md",
     "history/Ancient African Empires.md",
     "history/Fuedalism/Fuedalism AMA.md",
-    "history/Fuedalism/Books on Fuedalism.md",
     "history/Fuedalism",
     "Politics",
     "games/Untitled",
