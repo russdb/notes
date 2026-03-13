@@ -1,5 +1,10 @@
 >I’ve seen people have the most luck with a step-by-step prompt that first asks the AI to analyze the job description for keywords, then compares it to the resume, then drafts bullet point suggestions, then rewrites the summary/cover letter. Breaking it into stages usually gets way better results than a single huge prompt.
-
 >If you want a shortcut, you can use Nova Search AI to run the same prompt across multiple models at once. That way you can compare how GPT-4, Claude, etc. tackle the resume/cover letter workflow and pick what’s best. The side-by-side view is pretty useful for this kind of prompt iteration.
 
 > A good prompt usually works best if you split the task instead of asking for everything at once. First have the model analyze the job description and extract key skills and ATS keywords, then compare that with your resume to find gaps, and only after that generate optimized resume bullets and a cover letter. This keeps the output more focused and accurate. Structured workflows like this tend to work better overall, which is similar to how tools like Traycer AI break tasks into clear planning and execution stages.
+
+
+>I came out with a skills workflow to do this.
+>The first skill resume-builder compares the JD with my repository of past resume bullet points, scoring the fit over 100. It then provides a resume summary and suggested bullet points from its knowledge about my past experiences.
+>The second skill ats-scoring compares the JD to my refined resume. It scores my resume based on the ATS used (e.g. Lever or Greenhouse) and returns a score out of 100. It then provides suggested keywords to include.
+>The last skill resume-suggestions acts on ats-scoring. It compares the JD to my keyword refined resume and provides suggestions on bullet points that are irrelevant to the JD or useful to include in the resume. It also proofreads for grammatical or spelling errors and identifies technical terms that may confuse the recruiter or hiring manager.
