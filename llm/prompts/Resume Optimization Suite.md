@@ -1,6 +1,11 @@
+[[toc links]] 
+https://github.com/lowtouch-ai/promptstash-templates/tree/main/social%20media/marketing/promotion
+#prompts #ai #llm #chat 
+
+
 Step 0 | Upload Resume (Required First Step)
 ───────────────────────────────────────────
-Please upload your resume now. This document will serve as the exclusive factual foundation for every following task.
+Please use the attached resume
 
 After the resume is uploaded, I will ask you to perform one or more of the following numbered operations:
 
