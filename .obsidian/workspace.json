@@ -164,11 +164,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "502225e86fa6b15b",
+  "active": "a39ee47e7ab78981",
   "lastOpenFiles": [
+    "photography/Have a Plan B.md",
+    "resume/res working.md",
     "resume/jobs",
     "resume/Untitled.md",
-    "resume/res working.md",
     "book-resources.md",
     "FF Classified.md",
     "FF Payouts.md",
@@ -211,7 +212,6 @@
     "img/{DCC04F6C-411A-4589-8DF8-0449DC0AB49B}.png",
     "img/{1B2CE34A-63FB-4B90-94DF-4BB33A5A06FF}.png",
     "templates",
-    "llm/prompts",
     "Untitled.canvas"
   ]
 }
