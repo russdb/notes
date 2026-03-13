@@ -1,13 +1,13 @@
 03/13/2026
 
-Hiring Manager
+Talent Acquisition Team
 Employment Security Department
 IT Finance Transformation Team
 Washington State
 
 **RE: IT Application Developer-Journey: Project/Virtual**
 
-
+Dear Talent Acquisition Team, 
 
 With a deep passion for leveraging technology to empower government programs and directly help people, I am thrilled to apply for the IT Application Developer-Journey position with the Washington State Employment Security Department (ESD). My Associate’s degrees in Political Science and Web Programming uniquely align my academic background with this role's intersection of civic duty and technical excellence. With over ten years of experience as a Full Stack Web Developer building robust, enterprise-grade applications, I am eager to contribute to ESD's mission of providing equitable access to resources that improve economic security, and help support essential operations that impact Washingtonians.
 
