@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Have a Plan B"
             }
+          },
+          {
+            "id": "a39ee47e7ab78981",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "a18f5e8b2943aa12",
+  "active": "a39ee47e7ab78981",
   "lastOpenFiles": [
     "book-resources.md",
     "FF Classified.md",
