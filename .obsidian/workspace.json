@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm/prompts/Resume Optimization Suite.md",
+                "file": "resume/res working.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resume Optimization Suite"
+              "title": "res working"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "llm/prompts/Resume Optimization Suite.md",
+                "file": "resume/res working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Resume Optimization Suite"
+              "title": "Backlinks for res working"
             }
           },
           {
@@ -151,8 +151,8 @@
   },
   "active": "a39ee47e7ab78981",
   "lastOpenFiles": [
-    "llm/prompts/Sound human.md",
     "llm/prompts/Resume Optimization Suite.md",
+    "llm/prompts/Sound human.md",
     "resume/Journey CL.md",
     "resume/Journey res.md",
     "resume/resume prompt tips.md",
