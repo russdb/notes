@@ -3,6 +3,7 @@
 
 [[git cheetsheet]]
 [[git tips]]
+[[Useful Git Config Options]]
 
 Index: 
 
