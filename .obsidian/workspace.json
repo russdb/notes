@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
+                "file": "Politics/Fascism/Characteristics of Fascism - Britt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eco's 14 Points of Fascism Applied"
+              "title": "Characteristics of Fascism - Britt"
             }
           }
         ],
@@ -168,10 +168,11 @@
   },
   "active": "cb2928aef247ec98",
   "lastOpenFiles": [
+    "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
+    "Politics/Fascism/Characteristics of Fascism - Britt.md",
     "Politics/Fascism/Defining the PRC as Fascist.md",
     "Politics/Fascism/Defining Fascism.md",
     "Politics/Fascism/Fascism Quotes.md",
-    "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
     "Politics/The Role of Fox News in Normalizing Corruption.md",
     "Politics/Fascism",
     "code/git/Useful Git Config Options.md",
@@ -195,7 +196,6 @@
     "llm/prompts/Resume Optimization Suite.md",
     "llm/prompts/Sound human.md",
     "resume/Journey res.md",
-    "resume/resume prompt tips.md",
     "resume/jobs",
     "history/Fuedalism",
     "Politics",
