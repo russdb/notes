@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/git/Useful Git Config Options.md",
+                "file": "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Git Config Options"
+              "title": "Eco's 14 Points of Fascism Applied"
             }
           }
         ],
@@ -168,14 +168,19 @@
   },
   "active": "cb2928aef247ec98",
   "lastOpenFiles": [
-    "code/git/git - in a nutshell.md",
+    "Politics/Fascism/Defining the PRC as Fascist.md",
+    "Politics/Fascism/Defining Fascism.md",
+    "Politics/Fascism/Fascism Quotes.md",
+    "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
+    "Politics/The Role of Fox News in Normalizing Corruption.md",
+    "Politics/Fascism",
     "code/git/Useful Git Config Options.md",
+    "code/git/git - in a nutshell.md",
     "code/git/Git Tips.md",
     "Politics/Understanding Fascism.md",
     "Politics/Wage Slave Empire.md",
     "Politics/Jeff Bezos and the National Enquirer.md",
     "Politics/Ilhan Omar and AIPAC.md",
-    "Politics/Fascism Quotes.md",
     "Untitled.md",
     "random/Pasted image 20240406014149.png",
     "random/Termux Linux Setup.md",
@@ -185,17 +190,13 @@
     "history/Charlemagne Biographies.md",
     "history/conversion of the Visigoths.md",
     "Politics/Trump’s Record with the Military.md",
-    "Politics/Defining the PRC as Fascist.md",
     "resume/res working.md",
     "resume/Journey CL.md",
     "llm/prompts/Resume Optimization Suite.md",
     "llm/prompts/Sound human.md",
     "resume/Journey res.md",
     "resume/resume prompt tips.md",
-    "photography/Have a Plan B.md",
     "resume/jobs",
-    "book-resources.md",
-    "FF Classified.md",
     "history/Fuedalism",
     "Politics",
     "games/Untitled",
@@ -213,7 +214,6 @@
     "img/{F7C31EFB-8D40-4760-831B-2631E2E13BF3}.png",
     "img/{04B10114-0DF4-4354-BE1F-07651F446FA1}.png",
     "img/{DCC04F6C-411A-4589-8DF8-0449DC0AB49B}.png",
-    "templates",
     "Untitled.canvas"
   ]
 }
