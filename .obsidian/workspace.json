@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "GPU listins"
             }
+          },
+          {
+            "id": "3839243a0ad7e2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motherboard Check.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motherboard Check"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,15 +166,15 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "3289bda60a804833",
+  "active": "3839243a0ad7e2ac",
   "lastOpenFiles": [
-    "code/git/Git Tips.md",
     "GPU listins.md",
+    "Motherboard Check.md",
+    "code/git/Git Tips.md",
     "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
     "Politics/Christchurch terrorists propaganda exposed.md",
     "toc links.md",
     "ESP32 Manufacturer Chart.md",
-    "Untitled.md",
     "{A1219E72-87B6-4303-BD94-DF5E175C6BBB}.png",
     "Politics/Fascism/Fascism Quotes.md",
     "Politics/Fascism/Defining Fascism.md",
