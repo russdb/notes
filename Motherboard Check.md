@@ -114,14 +114,14 @@ Execute this hardware validation protocol on an open bench before building insid
 
 ## Final Validation Sign-Off
 
-| Metric | Target / Requirement | Observed Value | Status (Pass/Fail) |
-| :--- | :--- | :--- | :--- |
-| **BIOS Version** | Latest Non-Beta Release | | |
-| **MemTest86** | 4 Full Passes / 64GB DDR4 @ 3200 | 0 Errors | |
-| **PCIe Slot 1 Bus** | Under Load via GPU-Z | `PCIe x8 4.0 @ x8 4.0` | |
-| **PCIe Slot 2 Bus** | Under Load via GPU-Z | `PCIe x8 4.0 @ x8 4.0` | |
-| **PCIe Slot 3 Bus** | Under Load via GPU-Z | `PCIe x4 3.0 @ x4 3.0` | |
-| **Samsung 990 Pro** | CrystalDiskMark Seq Read | ~7,000+ MB/s | |
-| **HWiNFO64 WHEA** | 60-Min Prime95 + Dual GPU Load | **0 Errors** | |
-| **VRM MOS Temp** | 60-Min Peak Temperature | < 85°C | |
-| **30-Day Return Expiry**| Date: `____________________` | Tested on Day: | |
+| Metric                   | Target / Requirement             | Observed Value         | Status (Pass/Fail) |
+| :----------------------- | :------------------------------- | :--------------------- | :----------------- |
+| **BIOS Version**         | Latest Non-Beta Release          |                        |                    |
+| **MemTest86**            | 4 Full Passes / 64GB DDR4 @ 3200 | 0 Errors               |                    |
+| **PCIe Slot 1 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` |                    |
+| **PCIe Slot 2 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` |                    |
+| **PCIe Slot 3 Bus**      | Under Load via GPU-Z             | `PCIe x4 3.0 @ x4 3.0` |                    |
+| **Samsung 990 Pro**      | CrystalDiskMark Seq Read         | ~7,000+ MB/s           |                    |
+| **HWiNFO64 WHEA**        | 60-Min Prime95 + Dual GPU Load   | **0 Errors**           |                    |
+| **VRM MOS Temp**         | 60-Min Peak Temperature          | < 85°C                 |                    |
+| **30-Day Return Expiry** | Date: `____________________`     | Tested on Day:         |                    |
