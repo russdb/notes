@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPU listins.md",
+                "file": "ESP32 Manufacturer Chart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPU listins"
+              "title": "ESP32 Manufacturer Chart"
             }
           }
         ],
@@ -167,11 +167,11 @@
   },
   "active": "3839243a0ad7e2ac",
   "lastOpenFiles": [
+    "GPU listins.md",
     "Motherboard Check.md",
     "book-resources.md",
     "ESP32 Manufacturer Chart.md",
     "toc links.md",
-    "GPU listins.md",
     "code/git/Git Tips.md",
     "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
     "Politics/Christchurch terrorists propaganda exposed.md",
