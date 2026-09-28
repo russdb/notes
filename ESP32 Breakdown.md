@@ -1,3 +1,5 @@
+# General Info
+
 ### 1. Form Factors
 
 |**Form Factor**|**Description**|**Included Components**|**Primary Use Case**|
@@ -17,10 +19,14 @@
 | **ESP32-C6** _(Smart Home)_       | Single-Core RISC-V @ 160 MHz       | **Wi-Fi 6 (2.4 GHz only)** + BLE 5 + Zigbee/Thread                         | Smart home mesh (Matter over Thread/Wi-Fi). Great for IoT networks.                                          |
 | **ESP32-H2** _(Battery & Mesh)_   | Single-Core RISC-V @ 96 MHz        | Zigbee + Thread + BLE **(NO WI-FI)**                                       | Ultra-low power, mesh-only. Ideal for battery-powered smart sensors & Zigbee/Matter nodes.                   |
 
-### Key Differences: ESP32-C5 vs. ESP32-C6
+### Pre-Soldered
+"Presoldered" means the manufacturer has already attached the necessary components or connection points using solder (a melted metal alloy that creates an electrical connection) before shipping it to you.
 
-While both the C5 and C6 are modern, single-core RISC-V chips built for smart home and IoT mesh applications (both supporting Zigbee, Thread, and Matter), they have two major hardware distinctions:
+When buying development boards like an ESP32 or a XIAO, you will often see the option to buy them "presoldered" or "unsoldered," which specifically refers to the **pin headers** (the little metal legs sticking out of the bottom):
 
-- **Wi-Fi Frequency Bands:** The **ESP32-C6** only operates on the crowded **2.4 GHz** Wi-Fi band. The **ESP32-C5** introduces **Dual-Band Wi-Fi 6**, allowing the device to connect to either **2.4 GHz or 5 GHz** networks. This makes the C5 ideal for environments with heavy 2.4 GHz interference.
-        
-- **Processing Power:** The **ESP32-C6** is clocked at **160 MHz**, which is sufficient for typical sensors and relays. The **ESP32-C5** features a faster processor clocked up to **240 MHz**, giving it a performance edge for more demanding tasks.
+- **Presoldered:** The metal pins are already permanently attached to the board. You can take it right out of the box and push it straight into a breadboard to start prototyping.
+    
+- **Unsoldered:** The board comes with a strip of loose pins in the bag. You will need to use your own soldering iron and solder to attach the pins yourself before you can plug the board into a breadboard.
+    
+
+If you do not own a soldering iron or don't want to deal with the hassle, always look for the presoldered version so it is ready to use immediately.
