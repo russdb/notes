@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESP32 Breakdown.md",
+                "file": "ESP32 Manufacturer Chart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESP32 Breakdown"
+              "title": "ESP32 Manufacturer Chart"
             }
           }
         ],
@@ -181,8 +181,8 @@
   },
   "active": "05783dd3e0020bdf",
   "lastOpenFiles": [
-    "ESP32 Manufacturer Chart.md",
     "ESP32 Breakdown.md",
+    "ESP32 Manufacturer Chart.md",
     "GPU listins.md",
     "Motherboard Check.md",
     "book-resources.md",
