@@ -30,3 +30,17 @@ When buying development boards like an ESP32 or a XIAO, you will often see the o
     
 
 If you do not own a soldering iron or don't want to deal with the hassle, always look for the presoldered version so it is ready to use immediately.
+
+
+
+### References & Citations
+
+1. **ESP32 Form Factors (SoC, Module, Dev Board):** Sourced from the "Understanding the ESP32 Ecosystem" reference chart.
+    
+2. **ESP32 Chip Families (Original, S3, C3, C6, H2):** Sourced from the "Understanding the ESP32 Ecosystem" reference chart, detailing core architecture, clock speeds, and wireless protocols.
+    
+3. **ESP32-C5 Specifications (Dual-Band Wi-Fi 6, 240 MHz RISC-V):** Sourced from Espressif Systems' official product announcements and hardware briefs for the ESP32-C5 SoC.
+    
+4. **Hardware Comparisons (ESP32-C5 vs. ESP32-C6):** Sourced from Espressif Systems' official datasheets, specifically contrasting the 2.4 GHz limit of the C6 with the 2.4/5 GHz dual-band capability of the C5, and the 160 MHz vs. 240 MHz primary clock speeds.
+    
+5. **Low-Power (LP) Cores Note:** Sourced from Espressif Systems' technical specifications regarding the secondary 20 MHz ultra-low-power RISC-V cores present in modern C-series architectures.
