@@ -2,11 +2,11 @@
 
 ### 1. Form Factors
 
-|**Form Factor**|**Description**|**Included Components**|**Primary Use Case**|
-|---|---|---|---|
-|**SoC (The Chip)**|The raw silicon integrated circuit (IC) (e.g., ESP32-D0WD).|Bare chip.|Requires complex soldering, external circuits, and an antenna to function.|
-|**Module**|Ready-to-integrate module (e.g., ESP32-WROOM-32).|Adds Flash memory, a crystal oscillator, an antenna, and shielding.|Designed to be integrated directly into custom printed circuit boards (PCBs).|
-|**Development Board**|A complete prototyping board (e.g., ESP32-DevKitC).|Adds a USB-to-UART bridge, voltage regulators, Boot/EN buttons, and pin headers.|Ready for immediate prototyping, testing, and breadboard use.|
+| **Form Factor**       | **Description**                                             | **Included Components**                                                          | **Primary Use Case**                                                          |
+| --------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **SoC (The Chip)**    | The raw silicon integrated circuit (IC) (e.g., ESP32-D0WD). | Bare chip.                                                                       | Requires complex soldering, external circuits, and an antenna to function.    |
+| **Module**            | Ready-to-integrate module (e.g., ESP32-WROOM-32).           | Adds Flash memory, a crystal oscillator, an antenna, and shielding.              | Designed to be integrated directly into custom printed circuit boards (PCBs). |
+| **Development Board** | A complete prototyping board (e.g., ESP32-DevKitC).         | Adds a USB-to-UART bridge, voltage regulators, Boot/EN buttons, and pin headers. | Ready for immediate prototyping, testing, and breadboard use.                 |
 
 ### 2. ESP32 Chip Families & Capabilities
 
