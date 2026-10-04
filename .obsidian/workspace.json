@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPU listins.md",
+                "file": "Motherboard Check.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPU listins"
+              "title": "Motherboard Check"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"**ASRock X570 Creator**\"",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,9 +153,9 @@
   },
   "active": "3289bda60a804833",
   "lastOpenFiles": [
+    "GPU listins.md",
     "Motherboard Check.md",
     "code/git/Git Tips.md",
-    "GPU listins.md",
     "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
     "Politics/Christchurch terrorists propaganda exposed.md",
     "toc links.md",
