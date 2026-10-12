@@ -13,7 +13,7 @@ Execute this hardware validation protocol on an open bench before building insid
   - Verify PCIe x16 retention clips are unbroken and have firm mechanical tension.
   - Inspect M.2 standoff threads; ensure standoffs and mounting screws are not stripped, missing, or cross-threaded.
   - Verify all onboard fan headers, USB 3.0/Type-C front-panel pins, and front-panel audio headers are straight.
-- [ ] **1.3 Bench Test Setup**
+- [x] **1.3 Bench Test Setup**
   - Place the motherboard on its original cardboard box (never on anti-static bags, which have conductive outer coatings).
   - Install only:
     - AMD Ryzen 7 3800X CPU + cooler.
