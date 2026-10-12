@@ -6,10 +6,10 @@ Execute this hardware validation protocol on an open bench before building insid
 
 ## Phase 1: Unboxing, Physical Inspection & Out-of-Case POST
 
-- [ ] **1.1 Socket & Trace Inspection**
+- [x] **1.1 Socket & Trace Inspection**
   - Use high-intensity light and magnification to inspect the AM4 pin receptacle holes for bent pins, thermal paste contamination, or foreign debris.
   - Check the back of the PCB around the CPU socket backplate and VRM areas for gouges, severed copper traces, or dark/scorched solder pads.
-- [ ] **1.2 Expansion Slots & Physical Headers**
+- [x] **1.2 Expansion Slots & Physical Headers**
   - Verify PCIe x16 retention clips are unbroken and have firm mechanical tension.
   - Inspect M.2 standoff threads; ensure standoffs and mounting screws are not stripped, missing, or cross-threaded.
   - Verify all onboard fan headers, USB 3.0/Type-C front-panel pins, and front-panel audio headers are straight.
@@ -22,7 +22,7 @@ Execute this hardware validation protocol on an open bench before building insid
     - RTX 2060 or a single 5060 in PCIe Slot 1 for basic display output.
 - [ ] **1.4 BIOS Recovery & AGESA Update**
   - Boot into UEFI or utilize the rear BIOS FlashBack button with a FAT32 USB flash drive.
-  - Flash to the latest stable non-beta BIOS to ensure modern AGESA microcode, PCIe bifurcation stability, and Resizable BAR support.
+  - su  to ensure modern AGESA microcode, PCIe bifurcation stability, and Resizable BAR support.
   - Clear CMOS (short the CLRTC pins or remove the CR2032 battery for 5 minutes) to wipe any previous user overclocking profiles.
 
 ---
