@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "42c5eabf2dd58137",
+        "id": "3d5b44a20b5e2a70",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9603090294b983",
+            "id": "6ca18ef729502ce1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Motherboard listings.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Motherboard listings"
             }
           }
         ]
@@ -149,11 +149,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "ed9603090294b983",
+  "active": "502225e86fa6b15b",
   "lastOpenFiles": [
     "FF Payouts.md",
     "toc links.md",
-    "GPU listins.md",
+    "Motherboard listings.md",
     "Motherboard Check.md",
     "Untitled Document",
     "russd.pub",
