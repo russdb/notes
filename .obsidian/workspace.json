@@ -11,10 +11,14 @@
             "id": "ed9603090294b983",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Motherboard Check.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Motherboard Check"
             }
           }
         ]
@@ -147,12 +151,12 @@
   },
   "active": "ed9603090294b983",
   "lastOpenFiles": [
+    "GPU listins.md",
     "Motherboard Check.md",
     "Untitled Document",
     "russd.pub",
     "russd",
     "toc links.md",
-    "GPU listins.md",
     "conflict-files-obsidian-git.md",
     "ESP32 Breakdown.md",
     "code/git/Git Tips.md",
