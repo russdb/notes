@@ -20,7 +20,7 @@ Execute this hardware validation protocol on an open bench before building insid
     - One 16GB G.Skill DDR4 stick in slot `DIMMA2` (2nd slot from CPU).
     - MSI MAG A1000GL 24-pin ATX + dual 8-pin EPS CPU power cables.
     - RTX 2060 or a single 5060 in PCIe Slot 1 for basic display output.
-- [ ] **1.4 BIOS Recovery & AGESA Update**
+- [x] **1.4 BIOS Recovery & AGESA Update**
   - Boot into UEFI or utilize the rear BIOS FlashBack button with a FAT32 USB flash drive.
   - su  to ensure modern AGESA microcode, PCIe bifurcation stability, and Resizable BAR support.
   - Clear CMOS (short the CLRTC pins or remove the CR2032 battery for 5 minutes) to wipe any previous user overclocking profiles.
@@ -29,13 +29,13 @@ Execute this hardware validation protocol on an open bench before building insid
 
 ## Phase 2: Memory Controller & 4-DIMM Channel Verification
 
-- [ ] **2.1 Populate All Memory Slots**
+- [x] **2.1 Populate All Memory Slots**
   - Install all four 16GB G.Skill Ripjaws V DDR4 modules (`DIMMA1`, `DIMMA2`, `DIMMB1`, `DIMMB2`) to fully load both memory channels and test the traces to all four slots.
-- [ ] **2.2 UEFI Configuration**
+- [x] **2.2 UEFI Configuration**
   - Enter UEFI and verify all 64GB (65,536 MB) is recognized at baseline JEDEC speeds (2133/2400 MHz).
   - Enable **DOCP / XMP Profile 1** (3200 MHz, 16-18-18-38 @ 1.35V).
   - Set `FLCK` (Infinity Fabric) manually to `1600 MHz` (1:1 ratio with 3200 MT/s RAM).
-- [ ] **2.3 MemTest86 Cold-Boot Pass**
+- [x] **2.3 MemTest86 Cold-Boot Pass**
   - Boot into a UEFI MemTest86 USB drive before loading any operating system.
   - Run **4 complete passes** across all 13 tests.
   - **Pass Criteria:** Strictly **0 errors**. Any error indicates cold solder joints under the AM4 socket, broken DIMM slot traces, or weak memory trace signal integrity.
