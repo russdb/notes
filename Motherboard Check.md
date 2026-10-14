@@ -50,7 +50,7 @@ Execute this hardware validation protocol on an open bench before building insid
   - Install the **RTX 5060 Ti 16GB** into PCIe Slot 1 (`PCI_E1`).
   - Install the **RTX 5060 8GB** into PCIe Slot 2 (`PCI_E2` / `PCI_E3` bifurcated x8 slot).
   - Connect separate, dedicated PCIe power cables from the MSI A1000GL to each card (no daisy-chain pigtails).
-- [ ] **3.2 BIOS Bifurcation Settings**
+- [x] **3.2 BIOS Bifurcation Settings**
   - Navigate to: `Advanced` > `PCI Subsystem Settings` (or chipset specific lane configuration).
   - Set `PCIe_1 / PCIe_2 Lane Configuration` from `Auto` to **`x8 / x8`**.
   - Set `PCIe Link Speed` manually to **`Gen 4`**.
