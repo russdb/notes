@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fix Obsidian SSH.md",
+                "file": "Motherboard Check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fix Obsidian SSH"
+              "title": "Motherboard Check"
             }
           }
         ]
@@ -151,8 +151,8 @@
   },
   "active": "6ca18ef729502ce1",
   "lastOpenFiles": [
-    "Motherboard Check.md",
     "Fix Obsidian SSH.md",
+    "Motherboard Check.md",
     "Motherboard listings.md",
     "toc links.md",
     "FF Payouts.md",
