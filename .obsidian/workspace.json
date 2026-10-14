@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motherboard listings.md",
+                "file": "Motherboard Check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motherboard listings"
+              "title": "Motherboard Check"
             }
           }
         ]
@@ -151,9 +151,9 @@
   },
   "active": "6ca18ef729502ce1",
   "lastOpenFiles": [
+    "Motherboard listings.md",
     "Motherboard Check.md",
     "FF Payouts.md",
-    "Motherboard listings.md",
     "toc links.md",
     "Untitled Document",
     "russd.pub",
