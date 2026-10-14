@@ -1,6 +1,6 @@
 # AM4 Motherboard 30-Day RMA Stress-Test Protocol
 
-Execute this hardware validation protocol on an open bench before building inside the NZXT H710i chassis. Complete all phases within the 30-day seller return window to identify broken PCB traces, failed PCIe redrivers, damaged DIMM slots, or degraded VRM power stages.   
+Execute this hardware validation protocol on an open bench before building inside the NZXT H710i chassis. Complete all phases within the 30-day seller return window to identify broken PCB traces, failed PCIe redrivers, damaged DIMM slots, or degraded VRM power stages.     
 
 ---
 
