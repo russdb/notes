@@ -44,7 +44,7 @@ Execute this hardware validation protocol on an open bench before building insid
 
 ## Phase 3: PCIe Bifurcation & Multi-GPU Lane Negotiation
 
-- [x] **3.1 Storage & GPU Populated Layout**
+- [ ] **3.1 Storage & GPU Populated Layout**
   - Install the **Samsung 990 Pro 2TB** into Slot `M.2_1` (CPU direct lanes, top slot).
   - Install the **SK Hynix P31 500GB** into Slot `M.2_2` (Chipset lanes).
   - Install the **RTX 5060 Ti 16GB** into PCIe Slot 1 (`PCI_E1`).
