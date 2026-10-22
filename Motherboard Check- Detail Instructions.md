@@ -99,11 +99,37 @@ nvidia-smi -i 1 --query-gpu="index,name,pstate,pcie.link.gen.current,pcie.link.w
 ```
 
 - **Verification**: `pcie.link.gen.current` should immediately report `4`, and `pcie.link.width.current` should report `8`.
-
 - **Release Clocks When Finished**: Restore default dynamic power states:
-
-DOS
 
 ```
 nvidia-smi -i 1 -rgc
-    ```
+```
+
+If you want actual data moving across the PCIe bus rather than just clock-state verification, use NVIDIA’s official CUDA `bandwidthTest` utility. Unlike DirectX render tests, CUDA targets device IDs directly without Windows display subsystem redirection.
+
+1. Locate or download `bandwidthTest.exe` (part of the NVIDIA CUDA Samples / GPU Deployment Kit).
+2. Run a device-to-host and host-to-device memory copy sweep explicitly targeting device `1`
+```
+bandwidthTest.exe --device=1 --memory=pinned --mode=shmoo
+```
+
+**Expected Throughput Values**:
+
+- **PCIe 4.0 x8 (Slot 1 or Slot 2)**: Sustained transfers between **12.5 GB/s and 14.5 GB/s**.
+- **PCIe 4.0 x4 (Slot 3 via Chipset)**: Sustained transfers between **6.2 GB/s and 7.2 GB/s**.
+- _(If the link drops to Gen 1.1 or Gen 2 during transfers, throughput will collapse below 3 GB/s, confirming a physical bus or signaling issue)._  
+
+> using 1500,2000 neither card gets over 2,8
+
+Locking GPU core clocks with -lgc forces the graphics engine out of sleep, but it generates zero data traffic across the PCIe bus, leaving the link controller in an intermediate Gen 2 (5 GT/s) power-saving state.
+
+On an AMD X570 platform like the ASUS ROG Crosshair VIII Dark Hero, holding at Gen 2 x8 across both slots under a clock clamp points to one of three specific causes: lack of actual bus transfer activity, motherboard hardware-level ASPM overriding the OS, or high-frequency signal attenuation.
+
+
+### Temporarily Move the Display Cable
+
+If you want to use GPU-Z's visual render test specifically on that second card:
+
+1. Shut down the PC.
+2. Move your monitor's DisplayPort/HDMI cable directly to the output ports of the second card.
+3. Boot into Windows. That card will now register as the active WDDM display adapter, forcing GPU-Z's DirectX render test to execute directly on its silicon.
