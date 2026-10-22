@@ -81,7 +81,7 @@ Execute this hardware validation protocol on an open bench before building insid
   - Target the Samsung 990 Pro 2TB (`M.2_1`): Run a 5-pass **64 GiB** Sequential Read/Write profile.
   - **Pass Criteria:** Sequential Read hits ~7,000–7,450 MB/s, confirming direct CPU PCIe 4.0 x4 communication without bus clipping.
   - Target the SK Hynix P31 500GB (`M.2_2`): Run a 5-pass **16 GiB** profile; verify ~3,500 MB/s Sequential Read without chipset dropouts.
-- [ ] **4.2 Combined VRM & Bus Torture Test (60 Minutes)**
+- [x] **4.2 Combined VRM & Bus Torture Test (60 Minutes)**
   - Launch **HWiNFO64** (Sensors Only).
   - Launch **Prime95** -> Select **Small FFTs** (maximum CPU package and VRM current load).
   - Launch **FurMark 2** -> Open two separate render instances, binding one to the RTX 5060 Ti and one to the RTX 5060.
@@ -90,7 +90,7 @@ Execute this hardware validation protocol on an open bench before building insid
   - **VRM MOS Temperature:** Must stabilize under **85°C** with baseline airflow.
   - **Chipset (PCH) Temperature:** Must stay under **75°C** (check active PCH fan on older X570 models).
   - **12V Rail Stability:** Must remain between **11.80V and 12.20V** under total combined draw.
-- [ ] **4.4 WHEA Error Log Inspection**
+- [x] **4.4 WHEA Error Log Inspection**
   - Scroll to the absolute bottom of the HWiNFO64 sensor panel to: **Windows Hardware Errors (WHEA)**.
   - **Pass Criteria:** WHEA Total Errors must read strictly **0**.
   - *(Any number above 0 indicates uncorrectable PCIe bus parity errors, failing motherboard redrivers, or degraded VRM power filtering).*
@@ -117,11 +117,11 @@ Execute this hardware validation protocol on an open bench before building insid
 | Metric                   | Target / Requirement             | Observed Value         | Status (Pass/Fail) |
 | :----------------------- | :------------------------------- | :--------------------- | :----------------- |
 | **BIOS Version**         | Latest Non-Beta Release          |                        |                    |
-| **MemTest86**            | 4 Full Passes / 64GB DDR4 @ 3200 | 0 Errors               |                    |
-| **PCIe Slot 1 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` |                    |
-| **PCIe Slot 2 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` |                    |
-| **PCIe Slot 3 Bus**      | Under Load via GPU-Z             | `PCIe x4 3.0 @ x4 3.0` |                    |
+| **MemTest86**            | 4 Full Passes / 64GB DDR4 @ 3200 | 0 Errors               | Pass               |
+| **PCIe Slot 1 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` | Pass               |
+| **PCIe Slot 2 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` | Pass               |
+| **PCIe Slot 3 Bus**      | Under Load via GPU-Z             | `PCIe x4 3.0 @ x4 3.0` | Pass               |
 | **Samsung 990 Pro**      | CrystalDiskMark Seq Read         | ~7,000+ MB/s           |                    |
-| **HWiNFO64 WHEA**        | 60-Min Prime95 + Dual GPU Load   | **0 Errors**           |                    |
+| **HWiNFO64 WHEA**        | 60-Min Prime95 + Dual GPU Load   | **0 Errors**           | Pass               |
 | **VRM MOS Temp**         | 60-Min Peak Temperature          | < 85°C                 |                    |
 | **30-Day Return Expiry** | Date: `____________________`     | Tested on Day:         |                    |
