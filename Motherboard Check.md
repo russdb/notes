@@ -63,7 +63,7 @@ Execute this hardware validation protocol on an open bench before building insid
     - Card 1 actively reports: `PCIe x8 4.0 @ x8 4.0`.
     - Card 2 actively reports: `PCIe x8 4.0 @ x8 4.0`.
     - *(If either drops to x4, x2, or Gen 1.1/2.0 while under load, the motherboard's PCIe redrivers or lane multiplexer chips are defective).*
-- [ ] **3.4 Phase 2 Slot 3 Test (Chipset x4 Slot)**
+- [x] **3.4 Phase 2 Slot 3 Test (Chipset x4 Slot)**
   - Power down, keep the dual 50-series cards in place, and install the **RTX 2060** into the bottom physical PCIe x16 (wired as x4) chipset slot.
   - Boot into Windows; launch GPU-Z on Card 3.
   - Run the Render Test on the 2060.
@@ -86,7 +86,7 @@ Execute this hardware validation protocol on an open bench before building insid
   - Launch **Prime95** -> Select **Small FFTs** (maximum CPU package and VRM current load).
   - Launch **FurMark 2** -> Open two separate render instances, binding one to the RTX 5060 Ti and one to the RTX 5060.
   - Run both Prime95 and dual FurMark instances concurrently for **60 minutes**.
-- [ ] **4.3 Telemetry Checks (During Load)**
+- [x] **4.3 Telemetry Checks (During Load)**
   - **VRM MOS Temperature:** Must stabilize under **85°C** with baseline airflow.
   - **Chipset (PCH) Temperature:** Must stay under **75°C** (check active PCH fan on older X570 models).
   - **12V Rail Stability:** Must remain between **11.80V and 12.20V** under total combined draw.
@@ -123,5 +123,5 @@ Execute this hardware validation protocol on an open bench before building insid
 | **PCIe Slot 3 Bus**      | Under Load via GPU-Z             | `PCIe x4 3.0 @ x4 3.0` | Pass               |
 | **Samsung 990 Pro**      | CrystalDiskMark Seq Read         | ~7,000+ MB/s           |                    |
 | **HWiNFO64 WHEA**        | 60-Min Prime95 + Dual GPU Load   | **0 Errors**           | Pass               |
-| **VRM MOS Temp**         | 60-Min Peak Temperature          | < 85°C                 |                    |
+| **VRM MOS Temp**         | 60-Min Peak Temperature          | < 85°C                 | Pass               |
 | **30-Day Return Expiry** | Date: `____________________`     | Tested on Day:         |                    |
