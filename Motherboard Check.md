@@ -76,7 +76,7 @@ Execute this hardware validation protocol on an open bench before building insid
 
 ## Phase 4: Full Thermal, VRM & WHEA Error Stress Testing
 
-- [ ] **4.1 NVMe Bus Saturation Test**
+- [x] **4.1 NVMe Bus Saturation Test**
   - Open **CrystalDiskMark** (Admin mode).
   - Target the Samsung 990 Pro 2TB (`M.2_1`): Run a 5-pass **64 GiB** Sequential Read/Write profile.
   - **Pass Criteria:** Sequential Read hits ~7,000–7,450 MB/s, confirming direct CPU PCIe 4.0 x4 communication without bus clipping.
@@ -116,12 +116,12 @@ Execute this hardware validation protocol on an open bench before building insid
 
 | Metric                   | Target / Requirement             | Observed Value         | Status (Pass/Fail) |
 | :----------------------- | :------------------------------- | :--------------------- | :----------------- |
-| **BIOS Version**         | Latest Non-Beta Release          |                        |                    |
-| **MemTest86**            | 4 Full Passes / 64GB DDR4 @ 3200 | 0 Errors               | Pass               |
+| **BIOS Version**         | Latest Non-Beta Release          | Latest                 | Pass               |
+| **MemTest86**            | 4 Full Passes / 64GB DDR4 @ 3200 | 0 Errors               | Pass (0)           |
 | **PCIe Slot 1 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` | Pass               |
 | **PCIe Slot 2 Bus**      | Under Load via GPU-Z             | `PCIe x8 4.0 @ x8 4.0` | Pass               |
 | **PCIe Slot 3 Bus**      | Under Load via GPU-Z             | `PCIe x4 3.0 @ x4 3.0` | Pass               |
-| **Samsung 990 Pro**      | CrystalDiskMark Seq Read         | ~7,000+ MB/s           |                    |
-| **HWiNFO64 WHEA**        | 60-Min Prime95 + Dual GPU Load   | **0 Errors**           | Pass               |
-| **VRM MOS Temp**         | 60-Min Peak Temperature          | < 85°C                 | Pass               |
+| **Samsung 990 Pro**      | CrystalDiskMark Seq Read         | ~7,000+ MB/s           | Pass (7.325)       |
+| **HWiNFO64 WHEA**        | 60-Min Prime95 + Dual GPU Load   | **0 Errors**           | Pass (0)           |
+| **VRM MOS Temp**         | 60-Min Peak Temperature          | < 85°C                 | Pass (57)          |
 | **30-Day Return Expiry** | Date: `____________________`     | Tested on Day:         |                    |
