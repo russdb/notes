@@ -201,3 +201,38 @@ The reason it stops at Gen 2 instead of jumping straight to Gen 4 comes down to 
 To push the controller from Gen 2 up to its full Gen 4 speed:
 1. **Push Real Data Across the Bus**: Run a memory copy payload (such as CUDA `bandwidthTest.exe --device=X --memory=pinned`) or an active compute workload (like an inference model or synthetic stress test). The moment host-to-device memory traffic spikes, the controller will automatically renegotiate the bus to Gen 4.
 2. **Firmware ASPM Override (Optional)**: If you want the link locked at Gen 4 permanently regardless of bus load, disable **Native ASPM** and **PEG - ASPM** in the BIOS under **Advanced** -> **Platform Misc Configuration**.
+
+
+### Zero-Bloat PCIe Bus Saturation Test (Without the 4GB Toolkit)
+
+To verify cards hit **PCIe Gen 4 x8** under load without installing the full CUDA Toolkit, run a lightweight memory copy directly through Python/PyTorch (using portable ComfyUI Python or a venv Python)
+```
+python -c "import torch; d=torch.device('cuda:1'); x=torch.empty((1024, 1024, 512), dtype=torch.float32, device='cpu'); [x.to(d, non_blocking=False) for _ in range(50)]"
+```
+
+While that command executes
+```
+nvidia-smi -i 1 --query-gpu="index,pcie.link.gen.current,pcie.link.width.current" --format="csv" -l 1
+```
+*The active DMA host-to-device buffer copy will immediately push the GPU link controller from `2, 8` to `4, 8`.*  
+
+### Immediate Execution Steps
+
+1. **Skip the Global CUDA Toolkit**: Cancel or delete the standalone `cuda_12.8.x_windows.exe` installer download.
+2. **Deploy Portable ComfyUI**: Extract the standalone ComfyUI portable build onto a high-speed NVMe directory.
+3. **Verify PyTorch CUDA Version**: Open the embedded terminal in your ComfyUI root and verify CUDA version compatibility
+```
+.\python_embeded\python.exe -c "import torch; print('CUDA available:', torch.cuda.is_available()); print('Device count:', torch.cuda.device_count()); print('Arch:', torch.cuda.get_device_name(0))"
+```
+4. **Run the PCIe Link Verification**: Execute the memory copy one-liner using `.\python_embeded\python.exe` while monitoring `nvidia-smi` to confirm full Gen 4 x8 training on both compute slots.
+
+
+standalone release of ComfyUI packages an isolated, pre-configured Python environment directly in its root folder:
+
+1. Download and extract the official **ComfyUI Windows Portable standalone** build to your NVMe drive (e.g., `C:\AI\ComfyUI_windows_portable`).
+2. Inside that directory, an isolated executable exists at:
+```
+.\python_embeded\python.exe
+```
+3. This environment is completely self-contained. It will not conflict with system paths, Windows updates, or other applications on your LTSC build.
+
