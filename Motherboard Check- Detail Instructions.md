@@ -236,3 +236,8 @@ standalone release of ComfyUI packages an isolated, pre-configured Python enviro
 ```
 3. This environment is completely self-contained. It will not conflict with system paths, Windows updates, or other applications on your LTSC build.
 
+If gpu1 fan spinning and gpu0
+
+```
+nvidia-smi --query-gpu="index,name,temperature.gpu,fan.speed,power.draw,pstate" --format="csv"
+```
