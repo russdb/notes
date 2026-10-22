@@ -55,7 +55,7 @@ Execute this hardware validation protocol on an open bench before building insid
   - Set `PCIe_1 / PCIe_2 Lane Configuration` from `Auto` to **`x8 / x8`**.
   - Set `PCIe Link Speed` manually to **`Gen 4`**.
   - Enable **`Above 4G Decoding`** and **`Re-Size BAR Support`**.
-- [ ] **3.3 Windows 11 Lane Verification (GPU-Z)**
+- [x] **3.3 Windows 11 Lane Verification (GPU-Z)**
   - Boot into clean Windows 11 installation; install the latest NVIDIA Studio/Game Ready Driver.
   - Open two simultaneous instances of **GPU-Z** (one targeting Card 1, one targeting Card 2).
   - Click the **`?`** icon next to the "Bus Interface" box on both instances and start the built-in PCIe Render Test.
