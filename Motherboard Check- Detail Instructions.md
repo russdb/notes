@@ -42,8 +42,24 @@ nvidia-smi --query-gpu=index,name,pstate,clocks.gr,pcie.link.gen.current,pcie.li
 ```
 *Pass criteria under lock/load:* Both RTX 5060 cards should report `pcie.link.gen.current: 4` and `pcie.link.width.current: 8`.
 
-5. **Reset Clocks Back to Normal**: Once validation is complete, restore standard dynamic clocking:
+`nvidia-smi --query-gpu=index,name,pcie.link.gen.current,pcie.link.width.current --format=csv`
+
+4. **Reset Clocks Back to Normal**: Once validation is complete, restore standard dynamic clocking:
 ```
 nvidia-smi -rgc
 ```  
 
+5. **Device Manager Audit**: Run `devmgmt.msc` and expand **Display adapters** to confirm all three GPUs are listed cleanly with zero error flags (Code 43).
+
+If you want to manage 3D driver settings (like forcing Prefer Maximum Performance or disabling CUDA P2 State) without any UWP or DCH packages at all:
+
+1. Download the standalone, open-source NVIDIA Profile Inspector.
+
+It is a single, zero-install portable .exe that hooks directly into NVIDIA's driver API (nvapi64.dll).    
+
+2. Scroll down to Common
+
+- Set Power management mode to Prefer maximum performance.
+- Set CUDA - Force P2 State to Off (ensures compute tasks hit full clocks).
+
+3. Click **Apply Changes** in the top right corner. The settings apply to the driver immediately without any Control Panel running.
