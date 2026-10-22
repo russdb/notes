@@ -36,17 +36,14 @@ nvidia-smi -lgc 1500,2000
 _(This locks the minimum and maximum graphics clocks between 1500 MHz and 2000 MHz, immediately forcing the PCIe controller out of ASPM idle)._  
 
 3. **Stream Real-Time PCIe Link Status**: Run a 1-second continuous telemetry loop:
-    
-    DOS
-    
+
 ```
 nvidia-smi --query-gpu=index,name,pstate,clocks.gr,pcie.link.gen.current,pcie.link.width.current --format=csv -l 1
 ```
-    
-4. **Pass criteria under lock/load:** Both RTX 5060 cards should report `pcie.link.gen.current: 4` and `pcie.link.width.current: 8`.
-        
-- **Reset Clocks Back to Normal**: Once validation is complete, restore standard dynamic clocking:
-    
- ```
-    nvidia-smi -rgc
-    ```
+*Pass criteria under lock/load:* Both RTX 5060 cards should report `pcie.link.gen.current: 4` and `pcie.link.width.current: 8`.
+
+5. **Reset Clocks Back to Normal**: Once validation is complete, restore standard dynamic clocking:
+```
+nvidia-smi -rgc
+```  
+
