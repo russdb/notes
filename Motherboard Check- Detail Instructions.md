@@ -40,7 +40,7 @@ _(This locks the minimum and maximum graphics clocks between 1500 MHz and 2000 M
 ```
 nvidia-smi --query-gpu=index,name,pstate,clocks.gr,pcie.link.gen.current,pcie.link.width.current --format=csv -l 1
 ```
-*Pass criteria under lock/load:* Both RTX 5060 cards should report `pcie.link.gen.current: 4` and `pcie.link.width.current: 8`.
+*Pass criteria under lock/load:* Both RTX 5060 cards should report:   `pcie.link.gen.current: 4` and `pcie.link.width.current: 8`
 
 `nvidia-smi --query-gpu=index,name,pcie.link.gen.current,pcie.link.width.current --format=csv`
 
@@ -62,4 +62,48 @@ It is a single, zero-install portable .exe that hooks directly into NVIDIA's dri
 - Set Power management mode to Prefer maximum performance.
 - Set CUDA - Force P2 State to Off (ensures compute tasks hit full clocks).
 
-3. Click **Apply Changes** in the top right corner. The settings apply to the driver immediately without any Control Panel running.
+2. Click **Apply Changes** in the top right corner. The settings apply to the driver immediately without any Control Panel running.
+
+Expected output at Idle:
+```sh
+index, name, pci.bus_id, pcie.link.gen.current, pcie.link.width.current
+0, NVIDIA GeForce RTX 2060, 00000000:04:00.0, 1, 8
+1, NVIDIA GeForce RTX 5060, 00000000:05:00.0, 1, 8
+2, NVIDIA GeForce RTX 5060, 00000000:0A:00.0, 1, 4
+```
+
+Expected output at Load:
+```sh
+index, name, pci.bus_id, pcie.link.gen.current, pcie.link.width.current
+0, NVIDIA GeForce RTX 2060, 00000000:04:00.0, 3, 8
+1, NVIDIA GeForce RTX 5060, 00000000:05:00.0, 4, 8
+2, NVIDIA GeForce RTX 5060, 00000000:0A:00.0, 4, 4
+```
+
+To test and saturate the secondary card's PCIe link independently without display routing interference, use command-line targeting via `nvidia-smi` or run a dedicated CUDA bus test.
+
+1. **Identify the GPU Index**: Run `nvidia-smi` to see which index corresponds to which card:
+```
+nvidia-smi --query-gpu="index,name,pci.bus_id" --format="csv"
+```
+
+2. **Lock Clocks on the Specific Card**: Target only the card that was idling (for example, GPU index `1`)
+```
+nvidia-smi -i 1 -lgc "1500,2000"
+```
+_(This immediately forces GPU 1 out of ASPM power-saving and locks it into an active performance state)._
+
+3. **Monitor Link Training in Real Time**: Open a separate PowerShell window and poll GPU 1 every second:
+```
+nvidia-smi -i 1 --query-gpu="index,name,pstate,pcie.link.gen.current,pcie.link.width.current" --format="csv" -l 1
+```
+
+- **Verification**: `pcie.link.gen.current` should immediately report `4`, and `pcie.link.width.current` should report `8`.
+
+- **Release Clocks When Finished**: Restore default dynamic power states:
+
+DOS
+
+```
+nvidia-smi -i 1 -rgc
+    ```
