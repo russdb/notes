@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motherboard Check.md",
+                "file": "Motherboard Check- Detail Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motherboard Check"
+              "title": "Motherboard Check- Detail Instructions"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.44287109375
+    "width": 304.471435546875
   },
   "right": {
     "id": "25c0d9a6508d164f",
@@ -151,8 +151,10 @@
   },
   "active": "6ca18ef729502ce1",
   "lastOpenFiles": [
-    "Fix Obsidian SSH.md",
     "Motherboard Check.md",
+    "Motherboard Check- Detail Instructions.md",
+    "Untitled",
+    "Fix Obsidian SSH.md",
     "Motherboard listings.md",
     "toc links.md",
     "FF Payouts.md",
@@ -165,7 +167,6 @@
     "Politics/Fascism/Eco's 14 Points of Fascism Applied.md",
     "Politics/Christchurch terrorists propaganda exposed.md",
     "ESP32 Manufacturer Chart.md",
-    "Untitled.md",
     "{A1219E72-87B6-4303-BD94-DF5E175C6BBB}.png",
     "Politics/Fascism/Fascism Quotes.md",
     "Politics/Fascism/Defining Fascism.md",
@@ -182,12 +183,10 @@
     "random/Pasted image 20240406014149.png",
     "random/Termux Linux Setup.md",
     "history/Ancient African Empires.md",
-    "history/Anglo-Saxon - Invasion or Migration 3.md",
     "resume/jobs",
     "history/Fuedalism",
     "Politics",
     "games/Untitled",
-    "Untitled",
     "photography",
     "history/Sistine Chapel/Pasted image 20211104213005.png",
     "img/{7C075057-474F-48A3-8EE5-676DD33D1EA9}.png",
