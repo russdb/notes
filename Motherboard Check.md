@@ -99,13 +99,13 @@ Execute this hardware validation protocol on an open bench before building insid
 
 ## Phase 5: I/O, Networking & Peripheral Validation
 
-- [ ] **5.1 Network Controller Throughput**
+- [x] **5.1 Network Controller Throughput**
   - Plug an Ethernet cable into the onboard RJ-45 LAN port; run a continuous ping test (`ping 1.1.1.1 -t -l 1000`) for 10 minutes. Ensure 0% packet loss.
   - Test Wi-Fi/Bluetooth connectivity (if board is equipped) by pairing an audio device and transferring a file.
-- [ ] **5.2 USB Port Array Verification**
+- [x] **5.2 USB Port Array Verification**
   - Plug a fast USB 3.0 flash drive or external SSD into **every single USB port** on the rear I/O shield individually.
   - Confirm Windows mounts the drive at SuperSpeed without disconnect/reconnect loops (checks for damaged USB controller traces or blown polyfuses).
-- [ ] **5.3 Audio DAC & Ground Plane**
+- [x] **5.3 Audio DAC & Ground Plane**
   - Plug headphones into the rear green 3.5mm line-out jack.
   - Play an audio track while running a heavy GPU render.
   - Verify there is no electrical hiss, coil whine interference, or ground loop buzzing bleeding through the audio traces.
