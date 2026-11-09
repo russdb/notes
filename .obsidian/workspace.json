@@ -145,8 +145,7 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "templates:Insert template": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6ca18ef729502ce1",
