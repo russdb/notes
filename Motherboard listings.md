@@ -49,12 +49,12 @@ These motherboards provide the x8/x8 CPU lane split for dual 50-series cards in 
 
 If you commit strictly to running the RTX 5060 Ti and RTX 5060 without adding a third card, these motherboards provide the required x8/x8 CPU lane split without needing a 3-slot X570 design. *(Any board in the 3-card table above also functions here by leaving the third slot unpopulated).*
 
-| Motherboard | Chipset | PCIe Layout | M.2 Slots | Standout Feature |
-| --- | --- | --- | --- | --- |
-| **ASUS ProArt B550-Creator** | B550 | x8 / x8 | 1x Gen 4, 1x Gen 3 | Dual Thunderbolt 4 ports, dual 2.5GbE LAN |
-| **ASUS ROG Strix B550-E Gaming** | B550 | x8 / x8 | 1x Gen 4, 1x Gen 3 | 14+2 VRM, Q-Code display, built-in Wi-Fi 6 |
-| **Gigabyte B550 VISION D / D-P** | B550 | x8 / x8 | 1x Gen 4, 1x Gen 3 | Dual Thunderbolt 3 (Titan Ridge), creator-focused I/O |
-| **ASRock B550 Taichi / Razer Edition** | B550 | x8 / x8 | 1x Gen 4, 1x Gen 3 | 16-phase power delivery, physical POST display |
-| **Gigabyte X570S AERO G** | X570S | x8 / x8 | 4x PCIe 4.0 | Fanless passive chipset, VisionLINK USB-C |
-| **MSI MPG X570S Carbon MAX WiFi** | X570S | x8 / x8 | 4x PCIe 4.0 | Fanless passive chipset, 4x shielded M.2 heatsinks |
-| **ASRock X570 Creator** | X570 | x8 / x8 | 2x PCIe 4.0 | Dual Thunderbolt 3, AQUANTIA 10GbE LAN |
+| Motherboard                            | Chipset | PCIe Layout | M.2 Slots          | Standout Feature                                      |
+| -------------------------------------- | ------- | ----------- | ------------------ | ----------------------------------------------------- |
+| **ASUS ProArt B550-Creator**           | B550    | x8 / x8     | 1x Gen 4, 1x Gen 3 | Dual Thunderbolt 4 ports, dual 2.5GbE LAN             |
+| **ASUS ROG Strix B550-E Gaming**       | B550    | x8 / x8     | 1x Gen 4, 1x Gen 3 | 14+2 VRM, Q-Code display, built-in Wi-Fi 6            |
+| **Gigabyte B550 VISION D / D-P**       | B550    | x8 / x8     | 1x Gen 4, 1x Gen 3 | Dual Thunderbolt 3 (Titan Ridge), creator-focused I/O |
+| **ASRock B550 Taichi / Razer Edition** | B550    | x8 / x8     | 1x Gen 4, 1x Gen 3 | 16-phase power delivery, physical POST display        |
+| **Gigabyte X570S AERO G**              | X570S   | x8 / x8     | 4x PCIe 4.0        | Fanless passive chipset, VisionLINK USB-C             |
+| **MSI MPG X570S Carbon MAX WiFi**      | X570S   | x8 / x8     | 4x PCIe 4.0        | Fanless passive chipset, 4x shielded M.2 heatsinks    |
+| **ASRock X570 Creator**                | X570    | x8 / x8     | 2x PCIe 4.0        | Dual Thunderbolt 3, AQUANTIA 10GbE LAN                |
