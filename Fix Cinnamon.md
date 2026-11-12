@@ -4,3 +4,4 @@ echo 'alias fix-cinnamenu="grep -q \"globalThis.__meta\" ~/.local/share/cinnamon
 
 Now use `fix-cinnamon` to restart cinnamon automatically.  
 
+
