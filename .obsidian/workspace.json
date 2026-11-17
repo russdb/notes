@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fix Cinnamon.md",
+                "file": "Motherboard Check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fix Cinnamon"
+              "title": "Motherboard Check"
             }
           }
         ],
@@ -165,11 +165,11 @@
   },
   "active": "07c5552c4e49b75d",
   "lastOpenFiles": [
-    "FF Payouts.md",
+    "Motherboard Check- Detail Instructions.md",
     "Fix Cinnamon.md",
+    "FF Payouts.md",
     "FF Classified.md",
     "Motherboard listings.md",
-    "Motherboard Check- Detail Instructions.md",
     "Motherboard Check.md",
     "Untitled",
     "Fix Obsidian SSH.md",
