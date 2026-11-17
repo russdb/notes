@@ -48,9 +48,7 @@
   - [ ] **PCIe Link Speed:** `Gen 4`
   - [ ] **Above 4G Decoding:** `Enabled`
   - [ ] **Re-Size BAR Support:** `Enabled`
-- [ ] **Install Stripped Driver via NVCleanstall*, boot into Windows 11: 
-	- [ ] Run `NVCleanstall_1.19.0.exe`, select the latest WHQL driver supporting the RTX 50-series, keep **NVIDIA Container** checked, strip GeForce Experience/NVIDIA App/Telemetry/Shield 
-	- [ ] under *Expert Tweaks* check **Enable Message Signaled Interrupts (MSI)** (`Interrupt Policy: Default`, `Interrupt Priority: Normal / Undefined`).
+
 - [ ] **Verify Dual-Card Bifurcation Under Load:** open two instances of **GPU-Z**, run the built-in PCIe Render Test (`?` button) on both simultaneously (or check `nvidia-smi -q`), and verify both sustain `PCIe x8 4.0 @ x8 4.0`.
 - [ ] **Install Third GPU (`PCI_E7`):** Power down, seat RTX 2060 6GB in `PCI_E7` (bottom armored slot), boot into Windows, and run GPU-Z Render Test on Card 3.
 - [ ] **Confirm Full Bus Integrity:**
@@ -61,6 +59,8 @@
 ---
 
 ## Phase 5: Thermal, Bus Saturation, VRM & WHEA Torture Testing
+- [ ] **NVCleanstall & Profile Inspector Tuning:**
+  - [ ] Install stripped NVIDIA driver via NVCleanstall (keep **NVIDIA Container**, strip GeForce Experience/Telemetry/Shield, check **Enable Message Signaled Interrupts (MSI)** with `Interrupt Policy: Default` and `Interrupt Priority: Normal / Undefined`).
 - [ ] **NVMe Bus Saturation (`M2_1`):** Run CrystalDiskMark (Admin, 5-pass 64 GiB) on Samsung 990 Pro 2TB; confirm ~`7,000–7,450 MB/s` Sequential Read.
 - [ ] **NVMe Bus Saturation (`M2_2`):** Run CrystalDiskMark (Admin, 5-pass 16 GiB) on SK Hynix Gold P31 512GB; confirm ~`3,500 MB/s` Sequential Read without dropouts.
 - [ ] **60-Minute Combined VRM & GPU Torture:** Launch HWiNFO64 (*Sensors Only*), Prime95 (*Small FFTs*), and two concurrent FurMark 2 instances (RTX 5060 Ti + RTX 5060) for 60 minutes:
@@ -68,8 +68,7 @@
   - [ ] **Chipset (PCH) Temp:** Remains under `70°C–75°C` with steady fan RPM.
   - [ ] **12V Rail Stability:** Holds between `11.80V` and `12.20V`.
   - [ ] **WHEA Hardware Errors:** Reads strictly `0` at the bottom of HWiNFO64.
-- [ ] **NVCleanstall & Profile Inspector Tuning:**
-  - [ ] Install stripped NVIDIA driver via NVCleanstall (keep **NVIDIA Container**, strip GeForce Experience/Telemetry/Shield, check **Enable Message Signaled Interrupts (MSI)** with `Interrupt Policy: Default` and `Interrupt Priority: Normal / Undefined`).
+
   - [ ] Set **Prefer No Sysmem Fallback** in NVIDIA Profile Inspector.
 - [ ] **48-Hour AI Workload Burn-In:** Run a continuous 2+ hour ComfyUI batch + Ollama multi-GPU model split across all three GPUs and keep the system running for 48 hours with **0 WHEA errors**.
 
