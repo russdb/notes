@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motherboard Check.md",
+                "file": "Motherboard Check-dark hero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motherboard Check"
+              "title": "Motherboard Check-dark hero"
+            }
+          },
+          {
+            "id": "3022b714d587080f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSI Prestige X570 Creation Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MSI Prestige X570 Creation Checklist"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,14 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07c5552c4e49b75d",
+  "active": "3022b714d587080f",
   "lastOpenFiles": [
+    "Motherboard Check-dark hero.md",
+    "MSI Prestige X570 Creation Checklist.md",
     "Motherboard Check- Detail Instructions.md",
     "Fix Cinnamon.md",
     "FF Payouts.md",
     "FF Classified.md",
     "Motherboard listings.md",
-    "Motherboard Check.md",
     "Untitled",
     "Fix Obsidian SSH.md",
     "toc links.md",
@@ -197,7 +212,6 @@
     "Politics/Jeff Bezos and the National Enquirer.md",
     "Politics/Ilhan Omar and AIPAC.md",
     "random/Pasted image 20240406014149.png",
-    "random/Termux Linux Setup.md",
     "resume/jobs",
     "history/Fuedalism",
     "Politics",
