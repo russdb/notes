@@ -25,15 +25,15 @@
 - [x] **Stage BIOS Flash Media:** Format an empty USB 2.0 flash drive (≤32GB) to **FAT32 (MBR)** and copy the latest non-beta MSI Prestige X570 Creation BIOS renamed strictly to `MSI.ROM` into the root directory.
 - [x] **Execute Flash BIOS Button:** Insert the USB drive into the dedicated rear **Flash BIOS Port**, flip the PSU rocker switch on, and press the rear **Flash BIOS Button**.
 - [x] **Verify Flash Completion:** Confirm the red LED blinks slowly (~15–20s), blinks rapidly for 4–6 minutes, and shuts off automatically. *(If it stops after 3–5 blinks or stays solid, reformat a different ≤32GB USB 2.0 drive as MBR/FAT32 and repeat).*
-- [ ] **Purge Prior Owner CMOS:** Turn off the PSU switch and press/hold the rear I/O **Clear CMOS** button for 10 seconds (or short `JBAT1` pins) to clear any residual settings from the previous owner.
+- [x] **Purge Prior Owner CMOS:** Turn off the PSU switch and press/hold the rear I/O **Clear CMOS** button for 10 seconds (or short `JBAT1` pins) to clear any residual settings from the previous owner.
 - [ ] **Stage Custom NVIDIA Utilities:** Download `NVCleanstall_1.19.0.exe` (TechPowerUp) and `nvidiaProfileInspector.zip` (GitHub `Orbmu2k/nvidiaProfileInspector`) onto your validation USB drive so they are ready offline on first Windows boot.
 
 ---
 
 ## Phase 3: Core POST, 4-DIMM Memory & CMOS Persistence
-- [ ] **Minimal Out-of-Case Assembly:** Install Ryzen 7 3800X, apply thermal paste, mount cooler, seat one 16GB DDR4 stick in `DIMMA2` (2nd slot from CPU), and seat RTX 5060 Ti 16GB in `PCI_E2` with a monitor attached.
-- [ ] **First Boot & Debug Codes:** Power on via the onboard `POWER1` button (bottom-right PCB). Confirm EZ Debug LEDs (`CPU` → `DRAM` → `VGA` → `BOOT`) clear sequentially and the 2-digit Debug Code LED settles on `AA` or `00` (not stalled on `0d` or `55`).
-- [ ] **Populate All 4 DIMM Slots:** Power down and install all four 16GB sticks (`DIMMA1`, `DIMMA2`, `DIMMB1`, `DIMMB2`).
+- [x] **Minimal Out-of-Case Assembly:** Install Ryzen 7 3800X, apply thermal paste, mount cooler, seat one 16GB DDR4 stick in `DIMMA2` (2nd slot from CPU), and seat RTX 5060 Ti 16GB in `PCI_E2` with a monitor attached.
+- [x] **First Boot & Debug Codes:** Power on via the onboard `POWER1` button (bottom-right PCB). Confirm EZ Debug LEDs (`CPU` → `DRAM` → `VGA` → `BOOT`) clear sequentially and the 2-digit Debug Code LED settles on `AA` or `00` (not stalled on `0d` or `55`).
+- [x] **Populate All 4 DIMM Slots:** Power down and install all four 16GB sticks (`DIMMA1`, `DIMMA2`, `DIMMB1`, `DIMMB2`).
 - [ ] **Configure UEFI Memory & FCLK:** Enter Click BIOS 5 (`Delete`), 
 	- [ ] verify all `65,536 MB` (64GB) registers at baseline JEDEC speeds, 
 	- [ ] enable **A-XMP Profile 1** (`3200 MHz, 16-18-18-38 @ 1.35V`), and 
