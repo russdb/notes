@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSI Prestige X570 Creation Checklist.md",
+                "file": "Motherboard Check- Prestige Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MSI Prestige X570 Creation Checklist"
+              "title": "Motherboard Check- Prestige Creation"
             }
           }
         ],
@@ -177,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3022b714d587080f",
+  "active": "502225e86fa6b15b",
   "lastOpenFiles": [
     "Motherboard Check-dark hero.md",
-    "MSI Prestige X570 Creation Checklist.md",
+    "Motherboard Check- Prestige Creation.md",
     "Motherboard Check- Detail Instructions.md",
     "Fix Cinnamon.md",
     "FF Payouts.md",
