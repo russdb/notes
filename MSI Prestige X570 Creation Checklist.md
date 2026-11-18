@@ -9,22 +9,22 @@
 ---
 
 ## Phase 1: Unboxing, Physical Inspection & Bench Prep (No Power)
-- [ ] **Static-Safe Bench Surface:** Place the motherboard strictly on bare, untaped corrugated cardboard (flip the shipping box over, fold flaps out, or lay plain printer paper over any packing tape). Never rest the board on the conductive exterior of the anti-static bag or directly on static-charged packing tape.
-- [ ] **Socket Pin Inspection:** Under bright light and magnification, verify all 1,331 AM4 pin holes are unobstructed with no bent contacts, sheared gold pins, or debris.
-- [ ] **Backside PCB & Trace Audit:** Check the reverse PCB around the CPU cutout and VRM stages for gouges, severed copper traces, or dark/scorched solder mask.
-- [ ] **Slots & Headers Check:** Verify all three steel-armored PCIe x16 latches (`PCI_E2`, `PCI_E5`, `PCI_E7`) and four DIMM latches click firmly, M.2 standoffs (`M2_1`, `M2_2`) are intact, and all fan, USB 3.0/Type-C, and audio header pins are straight.
-- [ ] **Socket & Backside Cleanup:** Wipe dried white thermal paste off the exterior AM4 socket latch shelf (sweeping away from pin holes) and any flux haze off the backside CPU cutout using a lint-free swab with 91%+ or 99% isopropyl alcohol; air-dry for 2 minutes.
-- [ ] **Install Spare AM4 Backplate:** Mount your spare metal AM4 backplate to the rear of the motherboard.
-- [ ] **Chipset Fan Check:** Spin the black X570 chipset fan gently by finger to confirm smooth rotation without bearing grind, wobble, or shroud scraping.
-- [ ] **CR2032 CMOS Battery Check:** Measure cell voltage with a multimeter; swap in a fresh CR2032 battery if reading below `2.95V`.
+- [x] **Static-Safe Bench Surface:** Place the motherboard strictly on bare, untaped corrugated cardboard (flip the shipping box over, fold flaps out, or lay plain printer paper over any packing tape). Never rest the board on the conductive exterior of the anti-static bag or directly on static-charged packing tape.
+- [x] **Socket Pin Inspection:** Under bright light and magnification, verify all 1,331 AM4 pin holes are unobstructed with no bent contacts, sheared gold pins, or debris.
+- [x] **Backside PCB & Trace Audit:** Check the reverse PCB around the CPU cutout and VRM stages for gouges, severed copper traces, or dark/scorched solder mask.
+- [x] **Slots & Headers Check:** Verify all three steel-armored PCIe x16 latches (`PCI_E2`, `PCI_E5`, `PCI_E7`) and four DIMM latches click firmly, M.2 standoffs (`M2_1`, `M2_2`) are intact, and all fan, USB 3.0/Type-C, and audio header pins are straight.
+- [x] **Socket & Backside Cleanup:** Wipe dried white thermal paste off the exterior AM4 socket latch shelf (sweeping away from pin holes) and any flux haze off the backside CPU cutout using a lint-free swab with 91%+ or 99% isopropyl alcohol; air-dry for 2 minutes.
+- [x] **Install Spare AM4 Backplate:** Mount your spare metal AM4 backplate to the rear of the motherboard.
+- [x] **Chipset Fan Check:** Spin the black X570 chipset fan gently by finger to confirm smooth rotation without bearing grind, wobble, or shroud scraping.
+- [x] **CR2032 CMOS Battery Check:** Measure cell voltage with a multimeter; swap in a fresh CR2032 battery if reading below `2.95V`.
 
 ---
 
 ## Phase 2: Bare-Board Power Delivery & Flash BIOS Button Recovery
-- [ ] **Bare-Board Power Hookup:** Connect **only** the 24-pin `ATX_PWR1` and both 8-pin `CPU_PWR1` / `CPU_PWR2` cables from the MSI MAG A1000GL PSU (leave CPU, RAM, NVMe, and GPUs uninstalled).
-- [ ] **Stage BIOS Flash Media:** Format an empty USB 2.0 flash drive (≤32GB) to **FAT32 (MBR)** and copy the latest non-beta MSI Prestige X570 Creation BIOS renamed strictly to `MSI.ROM` into the root directory.
-- [ ] **Execute Flash BIOS Button:** Insert the USB drive into the dedicated rear **Flash BIOS Port**, flip the PSU rocker switch on, and press the rear **Flash BIOS Button**.
-- [ ] **Verify Flash Completion:** Confirm the red LED blinks slowly (~15–20s), blinks rapidly for 4–6 minutes, and shuts off automatically. *(If it stops after 3–5 blinks or stays solid, reformat a different ≤32GB USB 2.0 drive as MBR/FAT32 and repeat).*
+- [x] **Bare-Board Power Hookup:** Connect **only** the 24-pin `ATX_PWR1` and both 8-pin `CPU_PWR1` / `CPU_PWR2` cables from the MSI MAG A1000GL PSU (leave CPU, RAM, NVMe, and GPUs uninstalled).
+- [x] **Stage BIOS Flash Media:** Format an empty USB 2.0 flash drive (≤32GB) to **FAT32 (MBR)** and copy the latest non-beta MSI Prestige X570 Creation BIOS renamed strictly to `MSI.ROM` into the root directory.
+- [x] **Execute Flash BIOS Button:** Insert the USB drive into the dedicated rear **Flash BIOS Port**, flip the PSU rocker switch on, and press the rear **Flash BIOS Button**.
+- [x] **Verify Flash Completion:** Confirm the red LED blinks slowly (~15–20s), blinks rapidly for 4–6 minutes, and shuts off automatically. *(If it stops after 3–5 blinks or stays solid, reformat a different ≤32GB USB 2.0 drive as MBR/FAT32 and repeat).*
 - [ ] **Purge Prior Owner CMOS:** Turn off the PSU switch and press/hold the rear I/O **Clear CMOS** button for 10 seconds (or short `JBAT1` pins) to clear any residual settings from the previous owner.
 - [ ] **Stage Custom NVIDIA Utilities:** Download `NVCleanstall_1.19.0.exe` (TechPowerUp) and `nvidiaProfileInspector.zip` (GitHub `Orbmu2k/nvidiaProfileInspector`) onto your validation USB drive so they are ready offline on first Windows boot.
 
