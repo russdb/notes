@@ -46,9 +46,9 @@
 ## Phase 4: Triple-GPU Bifurcation & NVMe Lane Audit
 - [ ] **Populate NVMe Drives:** Install the factory-heatsink Samsung 990 Pro 2TB in bare `M2_1` (CPU PCIe 4.0 x4) and SK Hynix Gold P31 512GB in `M2_2` under the silver Shield Frozr cover (chipset PCIe 4.0 x4). Confirm both appear in BIOS `Board Explorer`.
 - [ ] **Install Dual 50-Series GPUs:** Seat RTX 5060 Ti 16GB in `PCI_E2` (top armored slot) and RTX 5060 8GB in `PCI_E5` (middle armored slot) using dedicated, non-daisy-chained PCIe power cables.
-- [ ] **Configure BIOS PCIe Settings:** Navigate to `Settings \ Advanced \ PCI Subsystem Settings` and set:
-  - [ ] **PCIe Lane Configuration:** `x8 / x8`
-  - [ ] **PCIe Link Speed:** `Gen 4`
+- [x] **Configure BIOS PCIe Settings:** Navigate to `Settings \ Advanced \ PCI Subsystem Settings` and set:
+  - [x] **PCIe Lane Configuration:** `x8 / x8`(x8 / x4 / x4)
+  - [x] **PCIe Link Speed:** `Gen 4`
   - [x] **Above 4G Decoding:** `Enabled`
   - [x] **Re-Size BAR Support:** `Enabled`
 
