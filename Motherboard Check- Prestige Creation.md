@@ -34,10 +34,10 @@
 - [x] **Minimal Out-of-Case Assembly:** Install Ryzen 7 3800X, apply thermal paste, mount cooler, seat one 16GB DDR4 stick in `DIMMA2` (2nd slot from CPU), and seat RTX 5060 Ti 16GB in `PCI_E2` with a monitor attached.
 - [x] **First Boot & Debug Codes:** Power on via the onboard `POWER1` button (bottom-right PCB). Confirm EZ Debug LEDs (`CPU` → `DRAM` → `VGA` → `BOOT`) clear sequentially and the 2-digit Debug Code LED settles on `AA` or `00` (not stalled on `0d` or `55`).
 - [x] **Populate All 4 DIMM Slots:** Power down and install all four 16GB sticks (`DIMMA1`, `DIMMA2`, `DIMMB1`, `DIMMB2`).
-- [ ] **Configure UEFI Memory & FCLK:** Enter Click BIOS 5 (`Delete`), 
-	- [ ] verify all `65,536 MB` (64GB) registers at baseline JEDEC speeds, 
-	- [ ] enable **A-XMP Profile 1** (`3200 MHz, 16-18-18-38 @ 1.35V`), and 
-	- [ ] manually set **FCLK (Infinity Fabric)** to `1600 MHz` (1:1 ratio).
+- [x] **Configure UEFI Memory & FCLK:** Enter Click BIOS 5 (`Delete`), 
+	- [x] verify all `65,536 MB` (64GB) registers at baseline JEDEC speeds, 
+	- [x] enable **A-XMP Profile 1** (`3200 MHz, 16-18-18-38 @ 1.35V`), and 
+	- [x] manually set **FCLK (Infinity Fabric)** to `1600 MHz` (1:1 ratio).
 - [ ] **MemTest86 Cold-Boot Validation:** Boot a UEFI MemTest86 USB drive before loading the OS and complete **4 full passes across all 13 tests** with strictly **0 errors**.
 - [ ] **CMOS Persistence Check:** Turn off the PSU rocker switch for 60 seconds, restore power, and enter BIOS to verify the system clock and A-XMP profile survived the AC cut.
 
@@ -49,8 +49,8 @@
 - [ ] **Configure BIOS PCIe Settings:** Navigate to `Settings \ Advanced \ PCI Subsystem Settings` and set:
   - [ ] **PCIe Lane Configuration:** `x8 / x8`
   - [ ] **PCIe Link Speed:** `Gen 4`
-  - [ ] **Above 4G Decoding:** `Enabled`
-  - [ ] **Re-Size BAR Support:** `Enabled`
+  - [x] **Above 4G Decoding:** `Enabled`
+  - [x] **Re-Size BAR Support:** `Enabled`
 
 - [ ] **Verify Dual-Card Bifurcation Under Load:** open two instances of **GPU-Z**, run the built-in PCIe Render Test (`?` button) on both simultaneously (or check `nvidia-smi -q`), and verify both sustain `PCIe x8 4.0 @ x8 4.0`.
 - [ ] **Install Third GPU (`PCI_E7`):** Power down, seat RTX 2060 6GB in `PCI_E7` (bottom armored slot), boot into Windows, and run GPU-Z Render Test on Card 3.
