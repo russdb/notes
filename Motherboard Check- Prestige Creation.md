@@ -39,7 +39,7 @@
 	- [x] enable **A-XMP Profile 1** (`3200 MHz, 16-18-18-38 @ 1.35V`), and 
 	- [x] manually set **FCLK (Infinity Fabric)** to `1600 MHz` (1:1 ratio).
 - [x] **MemTest86 Cold-Boot Validation:** Boot a UEFI MemTest86 USB drive before loading the OS and complete **4 full passes across all 13 tests** with strictly **0 errors**.
-- [ ] **CMOS Persistence Check:** Turn off the PSU rocker switch for 60 seconds, restore power, and enter BIOS to verify the system clock and A-XMP profile survived the AC cut.
+- [x] **CMOS Persistence Check:** Turn off the PSU rocker switch for 60 seconds, restore power, and enter BIOS to verify the system clock and A-XMP profile survived the AC cut.
 
 ---
 
