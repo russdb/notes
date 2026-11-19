@@ -26,7 +26,7 @@
 - [x] **Execute Flash BIOS Button:** Insert the USB drive into the dedicated rear **Flash BIOS Port**, flip the PSU rocker switch on, and press the rear **Flash BIOS Button**.
 - [x] **Verify Flash Completion:** Confirm the red LED blinks slowly (~15–20s), blinks rapidly for 4–6 minutes, and shuts off automatically. *(If it stops after 3–5 blinks or stays solid, reformat a different ≤32GB USB 2.0 drive as MBR/FAT32 and repeat).*
 - [x] **Purge Prior Owner CMOS:** Turn off the PSU switch and press/hold the rear I/O **Clear CMOS** button for 10 seconds (or short `JBAT1` pins) to clear any residual settings from the previous owner.
-- [ ] **Stage Custom NVIDIA Utilities:** Download `NVCleanstall_1.19.0.exe` (TechPowerUp) and `nvidiaProfileInspector.zip` (GitHub `Orbmu2k/nvidiaProfileInspector`) onto your validation USB drive so they are ready offline on first Windows boot.
+- [x] **Stage Custom NVIDIA Utilities:** Download `NVCleanstall_1.19.0.exe` (TechPowerUp) and `nvidiaProfileInspector.zip` (GitHub `Orbmu2k/nvidiaProfileInspector`) onto your validation USB drive so they are ready offline on first Windows boot.
 
 ---
 
@@ -38,7 +38,7 @@
 	- [x] verify all `65,536 MB` (64GB) registers at baseline JEDEC speeds, 
 	- [x] enable **A-XMP Profile 1** (`3200 MHz, 16-18-18-38 @ 1.35V`), and 
 	- [x] manually set **FCLK (Infinity Fabric)** to `1600 MHz` (1:1 ratio).
-- [ ] **MemTest86 Cold-Boot Validation:** Boot a UEFI MemTest86 USB drive before loading the OS and complete **4 full passes across all 13 tests** with strictly **0 errors**.
+- [x] **MemTest86 Cold-Boot Validation:** Boot a UEFI MemTest86 USB drive before loading the OS and complete **4 full passes across all 13 tests** with strictly **0 errors**.
 - [ ] **CMOS Persistence Check:** Turn off the PSU rocker switch for 60 seconds, restore power, and enter BIOS to verify the system clock and A-XMP profile survived the AC cut.
 
 ---
