@@ -51,7 +51,8 @@
   - [x] **PCIe Link Speed:** `Gen 4`
   - [x] **Above 4G Decoding:** `Enabled`
   - [x] **Re-Size BAR Support:** `Enabled`
-
+- [ ] **NVCleanstall & Profile Inspector Tuning:**
+  - [ ] Install stripped NVIDIA driver via NVCleanstall (keep **NVIDIA Container**, strip GeForce Experience/Telemetry/Shield, check **Enable Message Signaled Interrupts (MSI)** with `Interrupt Policy: Default` and `Interrupt Priority: Normal / Undefined`).
 - [ ] **Verify Dual-Card Bifurcation Under Load:** open two instances of **GPU-Z**, run the built-in PCIe Render Test (`?` button) on both simultaneously (or check `nvidia-smi -q`), and verify both sustain `PCIe x8 4.0 @ x8 4.0`.
 - [ ] **Install Third GPU (`PCI_E7`):** Power down, seat RTX 2060 6GB in `PCI_E7` (bottom armored slot), boot into Windows, and run GPU-Z Render Test on Card 3.
 - [ ] **Confirm Full Bus Integrity:**
@@ -62,8 +63,7 @@
 ---
 
 ## Phase 5: Thermal, Bus Saturation, VRM & WHEA Torture Testing
-- [ ] **NVCleanstall & Profile Inspector Tuning:**
-  - [ ] Install stripped NVIDIA driver via NVCleanstall (keep **NVIDIA Container**, strip GeForce Experience/Telemetry/Shield, check **Enable Message Signaled Interrupts (MSI)** with `Interrupt Policy: Default` and `Interrupt Priority: Normal / Undefined`).
+
 - [ ] **NVMe Bus Saturation (`M2_1`):** Run CrystalDiskMark (Admin, 5-pass 64 GiB) on Samsung 990 Pro 2TB; confirm ~`7,000–7,450 MB/s` Sequential Read.
 - [ ] **NVMe Bus Saturation (`M2_2`):** Run CrystalDiskMark (Admin, 5-pass 16 GiB) on SK Hynix Gold P31 512GB; confirm ~`3,500 MB/s` Sequential Read without dropouts.
 - [ ] **60-Minute Combined VRM & GPU Torture:** Launch HWiNFO64 (*Sensors Only*), Prime95 (*Small FFTs*), and two concurrent FurMark 2 instances (RTX 5060 Ti + RTX 5060) for 60 minutes:
