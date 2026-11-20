@@ -53,8 +53,8 @@
   - [x] **Re-Size BAR Support:** `Enabled`
 - [x] **NVCleanstall & Profile Inspector Tuning:**
   - [x] Install stripped NVIDIA driver via NVCleanstall (keep **NVIDIA Container**, strip GeForce Experience/Telemetry/Shield, check **Enable Message Signaled Interrupts (MSI)** with `Interrupt Policy: Default` and `Interrupt Priority: Normal / Undefined`).
-- [ ] **Verify Dual-Card Bifurcation Under Load:** open two instances of **GPU-Z**, run the built-in PCIe Render Test (`?` button) on both simultaneously (or check `nvidia-smi -q`), and verify both sustain `PCIe x8 4.0 @ x8 4.0`.
-- [ ] **Install Third GPU (`PCI_E7`):** Power down, seat RTX 2060 6GB in `PCI_E7` (bottom armored slot), boot into Windows, and run GPU-Z Render Test on Card 3.
+- [x] **Verify Dual-Card Bifurcation Under Load:** open two instances of **GPU-Z**, run the built-in PCIe Render Test (`?` button) on both simultaneously (or check `nvidia-smi -q`), and verify both sustain `PCIe x8 4.0 @ x8 4.0`.
+- [x] **Install Third GPU (`PCI_E7`):** Power down, seat RTX 2060 6GB in `PCI_E7` (bottom armored slot), boot into Windows, and run GPU-Z Render Test on Card 3.
 - [ ] **Confirm Full Bus Integrity:**
   - [ ] `PCI_E7` (RTX 2060) sustains `PCIe x4 3.0 @ x4 3.0`.
   - [ ] Both NVMe drives remain mounted in Disk Management (zero chipset lane collision).
