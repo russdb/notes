@@ -51,8 +51,8 @@
   - [x] **PCIe Link Speed:** `Gen 4`
   - [x] **Above 4G Decoding:** `Enabled`
   - [x] **Re-Size BAR Support:** `Enabled`
-- [ ] **NVCleanstall & Profile Inspector Tuning:**
-  - [ ] Install stripped NVIDIA driver via NVCleanstall (keep **NVIDIA Container**, strip GeForce Experience/Telemetry/Shield, check **Enable Message Signaled Interrupts (MSI)** with `Interrupt Policy: Default` and `Interrupt Priority: Normal / Undefined`).
+- [x] **NVCleanstall & Profile Inspector Tuning:**
+  - [x] Install stripped NVIDIA driver via NVCleanstall (keep **NVIDIA Container**, strip GeForce Experience/Telemetry/Shield, check **Enable Message Signaled Interrupts (MSI)** with `Interrupt Policy: Default` and `Interrupt Priority: Normal / Undefined`).
 - [ ] **Verify Dual-Card Bifurcation Under Load:** open two instances of **GPU-Z**, run the built-in PCIe Render Test (`?` button) on both simultaneously (or check `nvidia-smi -q`), and verify both sustain `PCIe x8 4.0 @ x8 4.0`.
 - [ ] **Install Third GPU (`PCI_E7`):** Power down, seat RTX 2060 6GB in `PCI_E7` (bottom armored slot), boot into Windows, and run GPU-Z Render Test on Card 3.
 - [ ] **Confirm Full Bus Integrity:**
