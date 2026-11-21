@@ -63,8 +63,8 @@
 ---
 
 ## Phase 5: Thermal, Bus Saturation, VRM & WHEA Torture Testing
-- [ ] **NVMe Bus Saturation (`M2_1`):** Run CrystalDiskMark (Admin, 5-pass 64 GiB) on Samsung 990 Pro 2TB; confirm ~`7,000–7,450 MB/s` Sequential Read.
-- [ ] **NVMe Bus Saturation (`M2_2`):** Run CrystalDiskMark (Admin, 5-pass 16 GiB) on SK Hynix Gold P31 512GB; confirm ~`3,500 MB/s` Sequential Read without dropouts.
+- [x] **NVMe Bus Saturation (`M2_1`):** Run CrystalDiskMark (Admin, 5-pass 64 GiB) on Samsung 990 Pro 2TB; confirm ~`7,000–7,450 MB/s` Sequential Read.
+- [x] **NVMe Bus Saturation (`M2_2`):** Run CrystalDiskMark (Admin, 5-pass 16 GiB) on SK Hynix Gold P31 512GB; confirm ~`3,500 MB/s` Sequential Read without dropouts.
 - [ ] **60-Minute Combined VRM & GPU Torture:** Launch HWiNFO64 (*Sensors Only*), Prime95 (*Small FFTs*), and two concurrent FurMark 2 instances (RTX 5060 Ti + RTX 5060) for 60 minutes:
   - [ ] **VRM MOS Temp:** Stabilizes under `75°C–85°C` on open air.
   - [ ] **Chipset (PCH) Temp:** Remains under `70°C–75°C` with steady fan RPM.
