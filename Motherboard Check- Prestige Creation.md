@@ -77,10 +77,12 @@
 
 ---
 
-## Phase 6: 10GbE Networking, I/O Sweep, Headless Setup & Chassis Install
+## Phase 6: 10GbE Networking, I/O Sweep
 - [ ] **Dual-NIC Throughput & Ping Test:** Test both rear Ethernet ports individually (Marvell Aquantia AQC107 10GbE and Intel I211AT 1GbE) via `iperf3` / SMB transfer and a 10-minute ping (`ping 1.1.1.1 -t -l 1000`) with `0%` packet loss.
 - [ ] **Wi-Fi 6 & Bluetooth Check:** Thread spare RP-SMA antennas onto the rear brass SMA posts and confirm Intel Wi-Fi 6 AX200 and Bluetooth connect cleanly without Code 10/43 errors.
 - [ ] **Rear USB Array & Audio Ground Check:** Test a USB 3.2 Gen 2 drive across every rear Type-C and Type-A port individually; plug headphones into the green 3.5 mm jack during a GPU render to verify zero electrical hiss or ground-loop buzz.
+
+# Phase 7: Headless Setup & Chassis Install
 - [ ] **Configure Headless Boot, WOL & Remote Access:**
   - [ ] In BIOS (`Settings \ Advanced \ Power Management Setup`), set **Restore after AC Power Loss** to `[Power On]`.
   - [ ] In BIOS (`Settings \ Advanced \ Wake Up Event Setup`), set **Resume By PCI-E Device** to `[Enabled]` for Wake-on-LAN.
